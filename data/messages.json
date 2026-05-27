@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "tipo": "pedido",
+    "contexto": "informal",
+    "mensagem": "Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora."
+  },
+  {
+    "id": 2,
+    "tipo": "pedido",
+    "contexto": "informal",
+    "mensagem": "Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite."
+  },
+  {
+    "id": 3,
+    "tipo": "pedido",
+    "contexto": "informal",
+    "mensagem": "Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje."
+  },
+  {
+    "id": 4,
+    "tipo": "pedido",
+    "contexto": "informal",
+    "mensagem": "Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina."
+  },
+  {
+    "id": 5,
+    "tipo": "cobranca",
+    "contexto": "informal",
+    "mensagem": "Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?"
+  },
+  {
+    "id": 6,
+    "tipo": "cobranca",
+    "contexto": "informal",
+    "mensagem": "Oi, cadê o livro que te emprestei? Faz um tempão que tá com você."
+  },
+  {
+    "id": 7,
+    "tipo": "cobranca",
+    "contexto": "informal",
+    "mensagem": "Você viu minha mensagem de ontem? Tô esperando sua parte do trabalho da faculdade desde segunda."
+  },
+  {
+    "id": 8,
+    "tipo": "recusa",
+    "contexto": "informal",
+    "mensagem": "Oi! Vi que você me chamou pra festa de sábado, mas não vou conseguir ir dessa vez."
+  },
+  {
+    "id": 9,
+    "tipo": "recusa",
+    "contexto": "informal",
+    "mensagem": "Obrigado por me chamar pra jogar bola domingo, mas tô muito cansado essa semana."
+  },
+  {
+    "id": 10,
+    "tipo": "recusa",
+    "contexto": "informal",
+    "mensagem": "Não vou conseguir ajudar na mudança no final de semana, já tenho compromisso com minha família."
+  },
+  {
+    "id": 11,
+    "tipo": "agradecimento",
+    "contexto": "informal",
+    "mensagem": "Muito obrigado por ter ficado comigo no hospital ontem. Significou muito ter você por perto."
+  },
+  {
+    "id": 12,
+    "tipo": "agradecimento",
+    "contexto": "informal",
+    "mensagem": "Valeu demais por ter me ajudado a montar o móvel! Não teria conseguido sozinho."
+  },
+  {
+    "id": 13,
+    "tipo": "agradecimento",
+    "contexto": "informal",
+    "mensagem": "Obrigado por me cobrir na aula de ontem e anotar tudo. Você me salvou!"
+  },
+  {
+    "id": 14,
+    "tipo": "convite",
+    "contexto": "informal",
+    "mensagem": "Ei, vai ter churrasco lá em casa sábado. Você vem? Pode trazer a família também!"
+  },
+  {
+    "id": 15,
+    "tipo": "convite",
+    "contexto": "informal",
+    "mensagem": "Tô organizando uma pelada domingo de manhã no campo perto de casa. Você topa?"
+  },
+  {
+    "id": 16,
+    "tipo": "convite",
+    "contexto": "informal",
+    "mensagem": "A gente vai assistir aquele filme novo no cinema sexta à noite. Quer vir junto?"
+  },
+  {
+    "id": 17,
+    "tipo": "esclarecimento",
+    "contexto": "informal",
+    "mensagem": "Ei, que horas começa o aniversário da Ana amanhã? Vi o convite mas não achei o horário."
+  },
+  {
+    "id": 18,
+    "tipo": "esclarecimento",
+    "contexto": "informal",
+    "mensagem": "Oi, a viagem de van sai de onde exatamente? Não entendi direito no grupo."
+  },
+  {
+    "id": 19,
+    "tipo": "esclarecimento",
+    "contexto": "informal",
+    "mensagem": "Você pode me explicar de novo como chega na sua casa? Me perdi nas últimas instruções."
+  },
+  {
+    "id": 20,
+    "tipo": "confirmacao",
+    "contexto": "informal",
+    "mensagem": "Só confirmando: a gente se encontra às 19h na frente do shopping, certo?"
+  },
+  {
+    "id": 21,
+    "tipo": "confirmacao",
+    "contexto": "informal",
+    "mensagem": "Oi mãe, confirma pra mim se o almoço de domingo na vovó ainda tá de pé."
+  },
+  {
+    "id": 22,
+    "tipo": "confirmacao",
+    "contexto": "informal",
+    "mensagem": "Pode confirmar se você vai dormir aqui em casa hoje? Preciso saber pra preparar o quarto."
+  },
+  {
+    "id": 23,
+    "tipo": "adiamento",
+    "contexto": "informal",
+    "mensagem": "Ei, não vou conseguir te encontrar hoje como combinado. Pode ser amanhã no mesmo horário?"
+  },
+  {
+    "id": 24,
+    "tipo": "adiamento",
+    "contexto": "informal",
+    "mensagem": "Oi! Preciso remarcar nosso almoço de quinta, surgiu um imprevisto aqui em casa."
+  },
+  {
+    "id": 25,
+    "tipo": "adiamento",
+    "contexto": "informal",
+    "mensagem": "Não vou conseguir devolver seu livro essa semana. Posso te trazer na semana que vem?"
+  }
+]
