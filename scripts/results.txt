@@ -1,0 +1,175 @@
+==================================================
+  PIPELINE DE MODELOS — GROQ
+  3 modelos na fila
+==================================================
+
+──────────────────────────────────────────────────
+[1/3] llama-3.1-8b-instant
+──────────────────────────────────────────────────
+============================================================
+Modelo: llama-3.1-8b-instant
+Configuracao: baseline
+Mensagem [0]: Oi, você pode me emprestar seu carregador? O meu quebrou e p...
+Aqui estão 5 respostas com diferentes tons para a mensagem original:
+
+[
+{"tom": "formal", "probabilidade": 100, "resposta": "Claro, posso emprestar meu carregador para você. Posso te trazer agora?"},
+{"tom": "curto e objetivo", "probabilidade": 100, "resposta": "Sim, posso emprestar. Vou buscar agora."},
+{"tom": "cordial", "probabilidade": 100, "resposta": "Oi! Claro que posso te ajudar. Vou buscar o carregador agora, o que você precisa fazer enquanto isso?"},
+{"tom": "mais empático", "probabilidade": 100, "resposta": "Que problema! Claro que posso te emprestar meu carregador. Vou ir buscar agora. Você precisa carregar o celular para fazer o que?"},
+{"tom": "mais direto", "probabilidade": 100, "resposta": "Tudo bem, posso te emprestar. Vou trazer o carregador agora."}
+]
+Metricas: {'jaccard_medio': 0.3355, 'perplexidade': 22.2386, 'self_bleu': 0.8459, 'distinct_1': 0.403, 'distinct_2': 0.7419}
+============================================================
+============================================================
+Modelo: llama-3.1-8b-instant
+Configuracao: soft
+Mensagem [0]: Oi, você pode me emprestar seu carregador? O meu quebrou e p...
+Aqui estão 5 respostas com tons diferentes:
+
+[
+{"tom": "Formal", "probabilidade": 5, "resposta": "Lamento, mas não posso emprestar meu carregador. Você pode procurar emprestá-lo de alguém ou comprar um novo."},
+{"tom": "Cordial", "probabilidade": 80, "resposta": "Claro, posso emprestar meu carregador para você! Qual é o problema do seu? Preciso saber se devo estar preparado para comprar um novo no futuro."},
+{"tom": "Empático", "probabilidade": 70, "resposta": "Ah, que azar! Você está com pressa para carregar o celular? Posso emprestar meu carregador para você, mas precisamos combinar um tempo para devolver."},
+{"tom": "Direto", "probabilidade": 60, "resposta": "Não posso emprestar meu carregador. Compre um novo."},
+{"tom": "Amigável", "probabilidade": 90, "resposta": "E aí, que tipo de problema você está tendo com o seu carregador? Vou emprestar o meu para você, mas você precisa devolver no máximo hoje à noite."}
+]
+Metricas: {'jaccard_medio': 0.2279, 'perplexidade': 44.8635, 'self_bleu': 0.6711, 'distinct_1': 0.5534, 'distinct_2': 0.8163}
+============================================================
+============================================================
+Modelo: llama-3.1-8b-instant
+Configuracao: aggressive
+Mensagem [0]: Oi, você pode me emprestar seu carregador? O meu quebrou e p...
+Aqui estão 5 rascunhos de resposta diferentes:
+
+[
+  {{"tom": "Formal", "probabilidade": 10, "ideal_quando": "Situação de trabalho ou em um ambiente formal", "resposta": "Lamento, mas não posso emprestar meu carregador. Você pode procurar emprestado em outro local."}},
+  {{"tom": "Curto e objetivo", "probabilidade": 80, "ideal_quando": "Comunicação rápida e informal com amigos", "resposta": "Desculpe, não tenho carregador para emprestar."}},
+  {{"tom": "Cordial", "probabilidade": 40, "ideal_quando": "Comunicação amigável com amigos ou familiares", "resposta": "Oi, desculpe, mas não tenho carregador para emprestar. Você pode tentar procurar emprestado em outro lugar?"}},
+  {{"tom": "Empático", "probabilidade": 20, "ideal_quando": "Situação de emergência ou quando o amigo está se sentindo estressado", "resposta": "Ah, que dor de cabeça! Eu também já passei por isso antes. Infelizmente, não tenho carregador para emprestar, mas posso ajudar a procurar em outro lugar ou até mesmo te emprestar um adaptador de USB se tiver um."}},
+  {{"tom": "Direto", "probabilidade": 90, "ideal_quando": "Comunicação rápida e sem rodeios com amigos", "resposta": "Não tenho carregador, mas posso te ajudar a procurar em outro lugar."}}
+]
+Metricas: {'jaccard_medio': 0.2941, 'perplexidade': 36.2772, 'self_bleu': 0.8111, 'distinct_1': 0.5116, 'distinct_2': 0.716}
+============================================================
+Concluído em 34.9s.
+
+──────────────────────────────────────────────────
+[2/3] llama-3.3-70b-versatile
+──────────────────────────────────────────────────
+──────────────────────────────────────────────────
+============================================================
+Modelo: llama-3.3-70b-versatile
+Configuracao: baseline
+Mensagem [0]: Oi, você pode me emprestar seu carregador? O meu quebrou e p...
+[
+{"tom": "Formal", "probabilidade": 100, "resposta": "Claro, posso emprestar o meu carregador. Por favor, devolva-o assim que possível."},
+{"tom": "Curto e objetivo", "probabilidade": 100, "resposta": "Sim, pode pegar o carregador."},
+{"tom": "Cordial", "probabilidade": 100, "resposta": "Ah, que pena que o seu carregador quebrou! Claro que sim, pode usar o meu, não há problema."},
+{"tom": "Mais empático", "probabilidade": 100, "resposta": "Sinto muito que o seu carregador quebrou! Deve ser muito chato. Claro, você pode usar o meu, espero que isso ajude a resolver o problema."},
+{"tom": "Mais direto", "probabilidade": 100, "resposta": "Tá, pode usar o carregador, mas devolve logo, preciso dele também."}
+]
+Metricas: {'jaccard_medio': 0.1955, 'perplexidade': 30.8865, 'self_bleu': 0.5846, 'distinct_1': 0.5694, 'distinct_2': 0.8209}
+============================================================
+============================================================
+Modelo: llama-3.3-70b-versatile
+Configuracao: soft
+Mensagem [0]: Oi, você pode me emprestar seu carregador? O meu quebrou e p...
+[
+{"tom": "Formal", "probabilidade": 20, "resposta": "Claro, posso emprestar o meu carregador. Por favor, devolva-o assim que possível."},
+{"tom": "Cordial", "probabilidade": 30, "resposta": "Oi! Claro que sim, posso te emprestar o meu carregador. Espero que consiga resolver o problema do seu celular."},
+{"tom": "Direto", "probabilidade": 15, "resposta": "Sim, pode pegar o meu carregador."},
+{"tom": "Empático", "probabilidade": 25, "resposta": "Ah, que frustrante! Seu carregador quebrar justo agora. Claro que posso te emprestar o meu, espero que isso ajude a resolver o problema do seu celular."},
+{"tom": "Brincalhão", "probabilidade": 10, "resposta": "Haha, quebrou o carregador, hein? Ok, ok, posso te emprestar o meu, mas devolva logo, não quero ficar sem celular também!"}
+]
+Metricas: {'jaccard_medio': 0.2492, 'perplexidade': 32.9319, 'self_bleu': 0.6749, 'distinct_1': 0.5059, 'distinct_2': 0.75}
+============================================================
+============================================================
+Modelo: llama-3.3-70b-versatile
+Configuracao: aggressive
+Mensagem [0]: Oi, você pode me emprestar seu carregador? O meu quebrou e p...
+[
+  {{"tom": "Formal", "probabilidade": 20, "ideal_quando": "em um ambiente profissional ou com alguém que não conhece bem", "resposta": "Claro, posso emprestar o meu carregador. Por favor, devolva-o assim que possível para que eu também possa utilizá-lo."}},
+  {{"tom": "Cordial", "probabilidade": 40, "ideal_quando": "com um amigo ou conhecido", "resposta": "Ah, que pena que o seu carregador quebrou! Claro que posso te emprestar o meu, fique à vontade. Se precisar de ajuda para consertar o seu, também posso dar uma olhada."}},
+  {{"tom": "Direto", "probabilidade": 15, "ideal_quando": "em uma situação de pressa ou com alguém que valoriza a eficiência", "resposta": "Sim, pode pegar o carregador. Devolva quando terminar."}},
+  {{"tom": "Empático", "probabilidade": 10, "ideal_quando": "com alguém que está passando por um mau dia ou precisa de apoio", "resposta": "Sinto muito que o seu carregador quebrou! Deve ser muito frustrante. Claro que posso te emprestar o meu, e se precisar de qualquer outra coisa, não hesite em perguntar. Estou aqui para ajudar."}},
+  {{"tom": "Humorístico", "probabilidade": 15, "ideal_quando": "com alguém que aprecia o humor e em uma situação informal", "resposta": "Quebrou o carregador, hein? Bem, agora você tem uma desculpa para não atender as ligações indesejadas! Brincadeiras à parte, posso te emprestar o meu, mas não se esqueça de devolver, ou eu vou ter que começar a ignorar as suas mensagens!"}}
+]
+Metricas: {'jaccard_medio': 0.1743, 'perplexidade': 59.6923, 'self_bleu': 0.5393, 'distinct_1': 0.5865, 'distinct_2': 0.8438}
+============================================================
+Concluído em 36.7s.
+
+
+
+
+──────────────────────────────────────────────────
+[3/3] openai/gpt-oss-120b
+──────────────────────────────────────────────────
+============================================================
+Modelo: openai/gpt-oss-120b
+Configuracao: baseline
+Mensagem [0]: Oi, você pode me emprestar seu carregador? O meu quebrou e p...
+[
+{{"tom": "formal", "propabilidade": 100, "resposta": "Prezada(o), certamente. Tenho um carregador extra que posso lhe emprestar imediatamente. Por favor, passe aqui quando for conveniente."}},
+{{"tom": "curto e objetivo", "propabilidade": 100, "resposta": "Claro, pode pegar meu carregador agora."}},
+{{"tom": "cordial", "propabilidade": 100, "resposta": "Oi! Sem problema, eu tenho um carregador extra. Passe aqui que eu te dou."}},
+{{"tom": "empático", "propabilidade": 100, "resposta": "Entendo como é chato ficar sem bateria. Tenho um carregador sobrando, pode usar agora mesmo."}},
+{{"tom": "direto", "propabilidade": 100, "resposta": "Sim, pegue meu carregador."}}
+]
+Metricas: {'jaccard_medio': 0.1221, 'perplexidade': 36.3405, 'self_bleu': 0.5013, 'distinct_1': 0.7069, 'distinct_2': 0.8679}
+============================================================
+============================================================
+Modelo: openai/gpt-oss-120b
+Configuracao: soft
+Mensagem [0]: Oi, você pode me emprestar seu carregador? O meu quebrou e p...
+[
+{"tom": "Formal", "probabilidade": 28, "resposta": "Prezada pessoa, lamento o inconveniente com seu carregador. Posso emprestar o meu dispositivo para que você carregue o celular imediatamente."},
+{"tom": "Curto e objetivo", "probabilidade": 22, "resposta": "Claro, pode pegar meu carregador agora."},
+{"tom": "Cordial", "probabilidade": 20, "resposta": "Oi! Sem problema, pode usar o meu carregador. Só me avisa quando terminar."},
+{"tom": "Empático", "probabilidade": 18, "resposta": "Entendo como é chato ficar sem bateria. Pode ficar com o meu carregador, espero que resolva logo."},
+{"tom": "Direto", "probabilidade": 12, "resposta": "Sim, pegue o carregador."}
+]
+Metricas: {'jaccard_medio': 0.138, 'perplexidade': 34.511, 'self_bleu': 0.4293, 'distinct_1': 0.7, 'distinct_2': 0.9273}
+============================================================
+============================================================
+Modelo: openai/gpt-oss-120b
+Configuracao: aggressive
+Mensagem [0]: Oi, você pode me emprestar seu carregador? O meu quebrou e p...
+[
+  {
+    "tom": "formal",
+    "probabilidade": 22,
+    "ideal_quando": "Quando o interlocutor deseja manter cortesia e respeito, como em ambientes profissionais ou com pessoas que você não conhece bem.",
+    "resposta": "Prezada pessoa, lamento saber do inconveniente. Tenho um carregador compatível e ficarei feliz em emprestá‑lo. Por favor, passe aqui quando for conveniente e, se possível, devolva-o assim que terminar de utilizá‑lo."
+  },
+  {
+    "tom": "curto e objetivo",
+    "probabilidade": 30,
+    "ideal_quando": "Situações em que a rapidez é essencial e a conversa é informal.",
+    "resposta": "Claro, pega aqui. Devolve depois."
+  },
+  {
+    "tom": "empático",
+    "probabilidade": 18,
+    "ideal_quando": "Quando a pessoa parece frustrada ou preocupada e precisa de apoio emocional além da solução prática.",
+    "resposta": "Poxa, que chato seu carregador ter quebrado justamente agora! Não se preocupe, tenho um spare aqui. Traga seu celular que eu já coloco para carregar enquanto resolve o seu problema."
+  },
+  {
+    "tom": "humorístico",
+    "probabilidade": 15,
+    "ideal_quando": "Em conversas descontraídas com amigos ou colegas que apreciam piadas leves.",
+    "resposta": "Ah, o drama do carregador desaparecido! Felizmente, guardo um reserva secreto para emergências como essa. Venha pegar, mas não conte ao vilão da bateria baixa!"
+  },
+  {
+    "tom": "direto e pragmático",
+    "probabilidade": 15,
+    "ideal_quando": "Quando é preciso estabelecer limites claros ou garantir que o empréstimo seja devolvido rapidamente.",
+    "resposta": "Sim, pode usar meu carregador. Só preciso que me devolva até o fim do dia, ok?"
+  }
+]
+Metricas: {'jaccard_medio': 0.0647, 'perplexidade': 76.7982, 'self_bleu': 0.2701, 'distinct_1': 0.7818, 'distinct_2': 0.9905}
+============================================================
+Concluído em 37.1s.
+
+==================================================
+  PIPELINE CONCLUÍDO — 3 modelos em 109.3s
+==================================================

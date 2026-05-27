@@ -54,13 +54,13 @@ def customizePrompt(passage, config='baseline'):
     if config == 'baseline':
         prompt = (
             f'produzia 5 respostas para a seguinte mensagem: {passage}, com tons diferentes.\n'
-            'Formato de resposta (obrigatório), uma lista JSON neste formato exato:\n'
+            'Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final\n'
             '[\n'
-            '{{"tom": "*", propabilidade: 100, "resposta": "texto aqui"}},\n'
-            '{{"tom": "*", propabilidade: 100, "resposta": "texto aqui"}},\n'
-            '{{"tom": "*", propabilidade: 100, "resposta": "texto aqui"}},\n'
-            '{{"tom": "*", propabilidade: 100, "resposta": "texto aqui"}},\n'
-            '{{"tom": "*", propabilidade: 100, "resposta": "texto aqui"}}\n'
+            '{{"tom": "*", "probabilidade": 100, "resposta": "texto aqui"}},\n'
+            '{{"tom": "*", "probabilidade": 100, "resposta": "texto aqui"}},\n'
+            '{{"tom": "*", "probabilidade": 100, "resposta": "texto aqui"}},\n'
+            '{{"tom": "*", "probabilidade": 100, "resposta": "texto aqui"}},\n'
+            '{{"tom": "*", "probabilidade": 100, "resposta": "texto aqui"}}\n'
             ']'
         )
     elif config == 'soft':
@@ -101,6 +101,7 @@ def customizePrompt(passage, config='baseline'):
 def parseRespostas(raw):
     """Extrai lista de respostas do JSON retornado pelo modelo."""
     try:
+        raw = raw.replace('{{', '{').replace('}}', '}')
         match = re.search(r'\[.*\]', raw, re.DOTALL)
         if match:
             return json.loads(match.group())
@@ -232,7 +233,7 @@ def salvarRespostas(model, config, msg_index, mensagem, respostas, metricas):
     df = pd.DataFrame(rows)
  
     if os.path.isfile(filename):
-        df.to_csv(filename, mode='a', header=False, index=False)
+        df.to_csv(filename, index=False)
     else:
         df.to_csv(filename, index=False)
 

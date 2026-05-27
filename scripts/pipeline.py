@@ -9,9 +9,9 @@ import time
 # ─────────────────────────────────────────────
 
 MODELS = [
-    "llama-3.1-8b-instant",
+    # "llama-3.1-8b-instant",
     "llama-3.3-70b-versatile",
-    "openai/gpt-oss-120b",
+    # "openai/gpt-oss-120b",
 ]
 
 # Caminho para o seu script principal
