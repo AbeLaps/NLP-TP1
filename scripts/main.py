@@ -10,7 +10,7 @@ import math
 from itertools import combinations
 from collections import Counter
 
-load_dotenv()  # carrega o .env da pasta atual
+load_dotenv()  # carrega o .env 
 
 
 # Argumento de linha de comando
