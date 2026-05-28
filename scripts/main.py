@@ -208,7 +208,7 @@ def calcularMetricas(respostas):
 
 
 
-def salvarRespostas(model, config, msg_index, mensagem, respostas, metricas):
+def salvarRespostas(model, config, msg_index, mensagem, prompt, respostas, metricas):
     """Salva um CSV por modelo/config com respostas e métricas."""
     model_slug = model.replace('/', '_')
     filename = f"resultados_{model_slug}_{config}.csv"
@@ -219,6 +219,7 @@ def salvarRespostas(model, config, msg_index, mensagem, respostas, metricas):
             'msg_index':      msg_index,
             'mensagem':       mensagem,
             'tom':            r.get('tom', ''),
+            'prompt':          prompt,
             'resposta':       r.get('resposta', ''),
             'probabilidade':  r.get('probabilidade', ''),
             'ideal_quando':   r.get('ideal_quando', ''),
@@ -227,6 +228,10 @@ def salvarRespostas(model, config, msg_index, mensagem, respostas, metricas):
             'self_bleu':      metricas.get('self_bleu', ''),
             'distinct_1':     metricas.get('distinct_1', ''),
             'distinct_2':     metricas.get('distinct_2', ''),
+            'utilidade':       '',  # campo para avaliação humana futura
+            'coerencia':        '',  # campo para avaliação humana futura
+            'fidelidade':        '',  # campo para avaliação humana futura
+            'adequacao':        ''  # campo para avaliação humana futura
         }
         rows.append(row)
  
@@ -244,8 +249,9 @@ for config in testConfigs:
         print(f'Modelo: {args.model}')
         print(f'Configuracao: {config}')
         print(f'Mensagem [{i}]: {messages["mensagem"][i][:60]}...')
- 
-        raw = requestLLMResponse(customizePrompt(messages['mensagem'][i], config), args.model)
+
+        prompt = customizePrompt(messages['mensagem'][i], config)
+        raw = requestLLMResponse(prompt, args.model)
         print(raw)
  
         respostas = parseRespostas(raw)
@@ -256,6 +262,7 @@ for config in testConfigs:
                 model=args.model,
                 config=config,
                 msg_index=i,
+                prompt=prompt,
                 mensagem=messages['mensagem'][i],
                 respostas=respostas,
                 metricas=metricas,
