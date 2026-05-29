@@ -105,7 +105,7 @@ def main():
             print("\nPipeline cancelado pelo usuário.")
             sys.exit(130)
 
-
+    run_graphs()
     elapsed = time.time() - pipeline_start
     print(f"\n{'=' * 50}")
     print(f"  PIPELINE CONCLUÍDO — {total} modelos em {elapsed:.1f}s")

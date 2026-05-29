@@ -17,7 +17,9 @@ Resumo curto com onde encontrar as informações neste repositório.
      ```
 
      Arquivo: [requirements.txt](requirements.txt)
-  2. Adicione a chave de API do Groq em `.env` (variável `GROQ_API_KEY`)
+  2. Crie um arquivo `.env` na raiz com a chave de API:
+
+     - GROQ_API_KEY=<sua_chave>
   3. Execute o pipeline principal a partir do diretório `scripts`:
 
      ```sh
@@ -52,8 +54,7 @@ Resumo curto com onde encontrar as informações neste repositório.
     - calcula métricas (`calcularMetricas`),
     - salva resultados (`salvarRespostas`).
   - [scripts/pipeline.py](scripts/pipeline.py) — orquestra execução para múltiplos modelos (`MODELS`, `run_model`, `main`).
-  - [results/](results/) — CSVs com respostas e métricas.
-  - [results/](results/) — CSVs com respostas e métricas.
+  - [results/](results/) — CSVs com respostas, métricas e gráficos gerados.
 - Explicação do pipeline
 
   - O pipeline (em [scripts/pipeline.py](scripts/pipeline.py)) itera a lista [`MODELS`](scripts/pipeline.py) e para cada modelo executa [`computeMessages.py`](scripts/computeMessages.py).
@@ -65,3 +66,4 @@ Resumo curto com onde encontrar as informações neste repositório.
     - calcula métricas (`jaccard`, `perplexidade`, `selfBleu`, `distinctN`),
     - salva linhas no CSV por modelo/config.
   - O pipeline inclui delays entre requisições para manejar taxa de requisições.
+  - Ao final ele utiliza o script ``plotGraphs.py`` para plotar gráficos dos resultados

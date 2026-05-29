@@ -244,32 +244,33 @@ def salvarRespostas(model, config, msg_index, mensagem, prompt, respostas, metri
         df.to_csv(filepath, index=False)
 
 # MAIN
-for config in testConfigs:
-    for i in range(len(messages)):
-        print('=' * 60)
-        print(f'Modelo: {args.model}')
-        print(f'Configuracao: {config}')
-        print(f'Mensagem [{i}]: {messages["mensagem"][i][:60]}...')
-
-        prompt = customizePrompt(messages['mensagem'][i], config)
-        raw = requestLLMResponse(prompt, args.model)
-        print(raw)
- 
-        respostas = parseRespostas(raw)
-        if respostas:
-            metricas = calcularMetricas(respostas)
-            print(f'Metricas: {metricas}')
-            salvarRespostas(
-                model=args.model,
-                config=config,
-                msg_index=i,
-                prompt=prompt,
-                mensagem=messages['mensagem'][i],
-                respostas=respostas,
-                metricas=metricas,
-            )
-        else:
-            print('Aviso: nao foi possivel parsear as respostas.')
- 
-        print('=' * 60)
-        time.sleep(10)
+if __name__ == '__main__':
+    for config in testConfigs:
+        for i in range(len(messages)):
+            print('=' * 60)
+            print(f'Modelo: {args.model}')
+            print(f'Configuracao: {config}')
+            print(f'Mensagem [{i}]: {messages["mensagem"][i][:60]}...')
+    
+            prompt = customizePrompt(messages['mensagem'][i], config)
+            raw = requestLLMResponse(prompt, args.model)
+            print(raw)
+    
+            respostas = parseRespostas(raw)
+            if respostas:
+                metricas = calcularMetricas(respostas)
+                print(f'Metricas: {metricas}')
+                salvarRespostas(
+                    model=args.model,
+                    config=config,
+                    msg_index=i,
+                    prompt=prompt,
+                    mensagem=messages['mensagem'][i],
+                    respostas=respostas,
+                    metricas=metricas,
+                )
+            else:
+                print('Aviso: nao foi possivel parsear as respostas.')
+    
+            print('=' * 60)
+            time.sleep(10)
