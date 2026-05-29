@@ -9,13 +9,13 @@ import time
 # ─────────────────────────────────────────────
 
 MODELS = [
-    # "llama-3.1-8b-instant",
+    "llama-3.1-8b-instant",
     "llama-3.3-70b-versatile",
-    # "openai/gpt-oss-120b",
+    "openai/gpt-oss-120b",
 ]
 
 # Caminho para o seu script principal
-MAIN_SCRIPT = "main.py"
+MAIN_SCRIPT = "computeMessages.py"
 
 # ─────────────────────────────────────────────
 # FUNÇÕES
@@ -55,6 +55,24 @@ def run_model(model_name, index, total):
 
     print(f"Concluído em {elapsed:.1f}s.")
 
+def run_graphs():
+    print(f"\n{'─' * 50}")
+    print("GERANDO GRÁFICOS")
+    print(f"{'─' * 50}")
+
+    start = time.time()
+    result = subprocess.run(
+        [sys.executable, "plotGraphs.py"],
+    )
+    elapsed = time.time() - start
+
+    if result.returncode != 0:
+        raise RuntimeError(
+            f"Falha ao gerar gráficos "
+            f"(exit code {result.returncode}) após {elapsed:.1f}s."
+        )
+
+    print(f"Gráficos gerados em {elapsed:.1f}s.")
 
 # ─────────────────────────────────────────────
 # PIPELINE PRINCIPAL

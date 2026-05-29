@@ -53,7 +53,7 @@ def requestLLMResponse(prompt, model):
 def customizePrompt(passage, config='baseline'):
     if config == 'baseline':
         prompt = (
-            f'produzia 5 respostas para a seguinte mensagem: {passage}, com tons diferentes.\n'
+            f'Produza 5 respostas para a seguinte mensagem: {passage}, com tons diferentes.\n'
             'Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final\n'
             '[\n'
             '{{"tom": "*", "probabilidade": 100, "resposta": "texto aqui"}},\n'
@@ -83,14 +83,14 @@ def customizePrompt(passage, config='baseline'):
             'Gere 5 rascunhos de resposta MUITO diferentes entre si.\n'
             'Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.\n'
             'Varie o comprimento, a abertura e o estilo de cada resposta.\n'
-            'Para cada um, indique o tom, a probabilidade estimada (%) e quando essa resposta seria ideal.\n'
+            'Para cada um, indique o tom e a probabilidade estimada (%).\n'
             'Formato de resposta (obrigatório), uma lista JSON neste formato exato:\n'
             '[\n'
-            '  {{"tom": "*", "probabilidade": *, "ideal_quando": "texto aqui", "resposta": "texto aqui"}},\n'
-            '  {{"tom": "*", "probabilidade": *, "ideal_quando": "texto aqui", "resposta": "texto aqui"}},\n'
-            '  {{"tom": "*", "probabilidade": *, "ideal_quando": "texto aqui", "resposta": "texto aqui"}},\n'
-            '  {{"tom": "*", "probabilidade": *, "ideal_quando": "texto aqui", "resposta": "texto aqui"}},\n'
-            '  {{"tom": "*", "probabilidade": *, "ideal_quando": "texto aqui", "resposta": "texto aqui"}}\n'
+            '  {{"tom": "*", "probabilidade": *, "resposta": "texto aqui"}},\n'
+            '  {{"tom": "*", "probabilidade": *, "resposta": "texto aqui"}},\n'
+            '  {{"tom": "*", "probabilidade": *, "resposta": "texto aqui"}},\n'
+            '  {{"tom": "*", "probabilidade": *, "resposta": "texto aqui"}},\n'
+            '  {{"tom": "*", "probabilidade": *, "resposta": "texto aqui"}}\n'
             ']'
         )
     else:
@@ -210,41 +210,42 @@ def calcularMetricas(respostas):
 
 def salvarRespostas(model, config, msg_index, mensagem, prompt, respostas, metricas):
     """Salva um CSV por modelo/config com respostas e métricas."""
+    os.makedirs('../results', exist_ok=True)
     model_slug = model.replace('/', '_')
-    filename = f"resultados_{model_slug}_{config}.csv"
+    filepath = f"../results/resultados_{model_slug}_{config}.csv"
  
     rows = []
     for r in respostas:
         row = {
             'msg_index':      msg_index,
             'mensagem':       mensagem,
+            'prompt':         prompt,
             'tom':            r.get('tom', ''),
-            'prompt':          prompt,
             'resposta':       r.get('resposta', ''),
             'probabilidade':  r.get('probabilidade', ''),
-            'ideal_quando':   r.get('ideal_quando', ''),
             'jaccard_medio':  metricas.get('jaccard_medio', ''),
             'perplexidade':   metricas.get('perplexidade', ''),
             'self_bleu':      metricas.get('self_bleu', ''),
             'distinct_1':     metricas.get('distinct_1', ''),
             'distinct_2':     metricas.get('distinct_2', ''),
-            'utilidade':       '',  # campo para avaliação humana futura
-            'coerencia':        '',  # campo para avaliação humana futura
-            'fidelidade':        '',  # campo para avaliação humana futura
-            'adequacao':        ''  # campo para avaliação humana futura
+            'utilidade':      '',
+            'coerencia':      '',
+            'fidelidade':     '',
+            'adequacao':      ''
         }
         rows.append(row)
  
     df = pd.DataFrame(rows)
  
-    if os.path.isfile(filename):
-        df.to_csv(filename, index=False)
+    # filepath consistente nos dois lugares
+    if os.path.isfile(filepath):
+        df.to_csv(filepath, mode='a', header=False, index=False)
     else:
-        df.to_csv(filename, index=False)
+        df.to_csv(filepath, index=False)
 
 # MAIN
 for config in testConfigs:
-    for i in range(len(messages) // 19):
+    for i in range(len(messages)):
         print('=' * 60)
         print(f'Modelo: {args.model}')
         print(f'Configuracao: {config}')

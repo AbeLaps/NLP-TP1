@@ -1,6 +1,0 @@
-msg_index,mensagem,tom,resposta,probabilidade,ideal_quando,jaccard_medio,perplexidade,self_bleu,distinct_1,distinct_2
-0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.",Cordial,"Claro, empresto com prazer! Vou buscar o carregador para você.",60,,0.1828,28.8857,0.5409,0.625,0.8627
-0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.",Formal,"Sim, posso emprestar meu carregador. Vou buscá-lo para você.",20,,0.1828,28.8857,0.5409,0.625,0.8627
-0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.",Mais Empático,"Ah, peço desculpas que seu carregador quebreu! Vou buscar o meu para você usar enquanto consertam ou substituem o seu.",15,,0.1828,28.8857,0.5409,0.625,0.8627
-0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.",Mais Direto,"Tá, mas você precisa devolver o meu carregador assim que possível.",5,,0.1828,28.8857,0.5409,0.625,0.8627
-0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.",Curto e Objetivo,"Sim, trago o carregador aqui.",10,,0.1828,28.8857,0.5409,0.625,0.8627
