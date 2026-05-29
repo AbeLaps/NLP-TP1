@@ -12,6 +12,12 @@ PLOTS_DIR   = '../results/plots'
 CONFIGS     = ['baseline', 'soft', 'aggressive']
 METRICAS    = ['jaccard_medio', 'perplexidade', 'self_bleu', 'distinct_1', 'distinct_2']
 
+# Se True, busca apenas por arquivos que possuem o prefixo 'avaliado_' antes de 'resultados_'
+# Quando False, busca apenas por arquivos que começam com 'resultados_'
+# Exemplo esperado quando True: 'avaliado_resultados_modelo_config.csv'
+INCLUDE_AVALIADO_PREFIX = True
+
+
 # ─────────────────────────────────────────────
 # CARREGAR DADOS
 # ─────────────────────────────────────────────
@@ -21,15 +27,35 @@ def carregar_dados():
     Lê todos os CSVs em RESULTS_DIR e retorna um DataFrame
     com coluna extra 'modelo' e 'config' extraídas do nome do arquivo.
     Padrão esperado: resultados_{modelo}_{config}.csv
+
+    Se INCLUDE_AVALIADO_PREFIX for True, busca por arquivos 'avaliado_resultados_*.csv'
+    e remove o prefixo 'avaliado_' antes da extração.
     """
-    arquivos = glob.glob(os.path.join(RESULTS_DIR, 'resultados_*.csv'))
+    # Escolhe o padrão de busca conforme a configuração
+    if INCLUDE_AVALIADO_PREFIX:
+        padrao = os.path.join(RESULTS_DIR, 'avaliado_resultados_*.csv')
+    else:
+        padrao = os.path.join(RESULTS_DIR, 'resultados_*.csv')
+
+    arquivos = glob.glob(padrao)
 
     if not arquivos:
-        raise FileNotFoundError(f"Nenhum CSV encontrado em '{RESULTS_DIR}'.")
+        raise FileNotFoundError(f"Nenhum CSV encontrado em '{RESULTS_DIR}' com padrão '{os.path.basename(padrao)}'.")
 
     dfs = []
     for path in arquivos:
-        nome = os.path.basename(path).replace('resultados_', '').replace('.csv', '')
+        base = os.path.basename(path).replace('.csv', '')
+
+        # Se configurado, remove ocorrências de 'avaliado_' antes de processar
+        if INCLUDE_AVALIADO_PREFIX and base.startswith('avaliado_'):
+            base = base.replace('avaliado_', '', 1)
+
+        # Espera agora algo começando com 'resultados_'
+        if not base.startswith('resultados_'):
+            print(f"Aviso: arquivo ignorado (padrão não reconhecido): {path}")
+            continue
+
+        nome = base[len('resultados_'):]
 
         # Extrai config (última parte) e modelo (resto)
         for config in CONFIGS:
