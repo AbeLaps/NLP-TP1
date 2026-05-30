@@ -10,7 +10,7 @@ import matplotlib.pyplot as plt
 RESULTS_DIR = '../results'
 PLOTS_DIR   = '../results/plots'
 CONFIGS     = ['baseline', 'soft', 'aggressive']
-METRICAS    = ['jaccard_medio', 'perplexidade', 'self_bleu', 'distinct_1', 'distinct_2']
+METRICAS = ['jaccard_medio', 'perplexidade', 'self_bleu', 'distinct_1', 'distinct_2', 'utilidade', 'fidelidade', 'adequacao', 'coerencia']
 
 # Se True, busca apenas por arquivos que possuem o prefixo 'avaliado_' antes de 'resultados_'
 # Quando False, busca apenas por arquivos que começam com 'resultados_'

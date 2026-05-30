@@ -54,6 +54,8 @@ Resumo curto com onde encontrar as informações neste repositório.
     - calcula métricas (`calcularMetricas`),
     - salva resultados (`salvarRespostas`).
   - [scripts/pipeline.py](scripts/pipeline.py) — orquestra execução para múltiplos modelos (`MODELS`, `run_model`, `main`).
+  - [scripts/plotGraphs](script/plotGraphs) — script que plota os gráficos de todos os resultados
+    - **Atenção**: A configuração `INCLUDE_AVALIADO_PREFIX ` indica se os CSVs que serão utilizados serão os que já possuem a avaliação manual ou novos testes que não possuem a avaliação manual
   - [results/](results/) — CSVs com respostas, métricas e gráficos gerados.
 - Explicação do pipeline
 

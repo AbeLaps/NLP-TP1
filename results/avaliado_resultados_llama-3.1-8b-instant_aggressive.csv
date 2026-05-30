@@ -11,7 +11,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",amigável,"Claro, eu posso te emprestar o carregador. Mas lembra de me devolver ele assim que puder, ok?",80,0.2748,33.8274,0.7554,0.4516,0.7386,5,5,5,5
+]",amigável,"Claro, eu posso te emprestar o carregador. Mas lembra de me devolver ele assim que puder, ok?",80,0.2748,33.8274,0.7554,0.4516,0.7386,4.7,3.4,4.5,4.5
 0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.","Dado a seguinte mensagem: Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -24,7 +24,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",formal,"Posso emprestar o carregador seu, mas por favor, certifique-se de devolver ele em breve. Obrigado.",90,0.2748,33.8274,0.7554,0.4516,0.7386,5,5,5,4
+]",formal,"Posso emprestar o carregador seu, mas por favor, certifique-se de devolver ele em breve. Obrigado.",90,0.2748,33.8274,0.7554,0.4516,0.7386,4.2,3.2,4.1,2.9
 0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.","Dado a seguinte mensagem: Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -37,7 +37,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",direto,"Empréstimo de carregador, por aqui. Traga de volta assim que puder.",95,0.2748,33.8274,0.7554,0.4516,0.7386,5,5,5,5
+]",direto,"Empréstimo de carregador, por aqui. Traga de volta assim que puder.",95,0.2748,33.8274,0.7554,0.4516,0.7386,4.5,3.2,4.3,2.2
 0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.","Dado a seguinte mensagem: Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -50,7 +50,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",empático,"Ah, que infelicidade o seu carregador quebrar! Eu posso te ajudar, mas por favor, não se esqueça de me devolver o carregador assim que possível.",85,0.2748,33.8274,0.7554,0.4516,0.7386,4,5,5,5
+]",empático,"Ah, que infelicidade o seu carregador quebrar! Eu posso te ajudar, mas por favor, não se esqueça de me devolver o carregador assim que possível.",85,0.2748,33.8274,0.7554,0.4516,0.7386,4.8,4.4,4.0,3.3
 0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.","Dado a seguinte mensagem: Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -63,7 +63,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",brincalhão,"Ahah, carregador quebrado? Você precisa de um 'recarregamento' de carregador! Eu posso te emprestar um, mas não se esqueça de me devolver ele, ok?",75,0.2748,33.8274,0.7554,0.4516,0.7386,4,5,5,5
+]",brincalhão,"Ahah, carregador quebrado? Você precisa de um 'recarregamento' de carregador! Eu posso te emprestar um, mas não se esqueça de me devolver ele, ok?",75,0.2748,33.8274,0.7554,0.4516,0.7386,4.6,4.4,4.5,2.9
 1,Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.,"Dado a seguinte mensagem: Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -76,7 +76,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Formal,"Por favor, entre em contato comigo novamente amanhã e eu lhe direi o link do filme.",80%,0.1853,50.8744,0.5765,0.6075,0.7941,4,5,5,4
+]",Formal,"Por favor, entre em contato comigo novamente amanhã e eu lhe direi o link do filme.",80%,0.1853,50.8744,0.5765,0.6075,0.7941,3.5,3.5,2.8,3.0
 1,Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.,"Dado a seguinte mensagem: Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -89,7 +89,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Cordial,"Claro, vou te mandar o link do filme que você mencionou ontem à noite, logo!",90%,0.1853,50.8744,0.5765,0.6075,0.7941,5,5,5,5
+]",Cordial,"Claro, vou te mandar o link do filme que você mencionou ontem à noite, logo!",90%,0.1853,50.8744,0.5765,0.6075,0.7941,4.5,3.3,2.6,4.6
 1,Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.,"Dado a seguinte mensagem: Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -102,7 +102,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Muito Direto,Link: [insira o link do filme],95%,0.1853,50.8744,0.5765,0.6075,0.7941,4,5,5,5
+]",Muito Direto,Link: [insira o link do filme],95%,0.1853,50.8744,0.5765,0.6075,0.7941,3.4,1.0,3.1,4.6
 1,Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.,"Dado a seguinte mensagem: Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -115,7 +115,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Empático,"Que noite de cinema você está planejando! Eu vou te mandar o link do filme que você gostaria de assistir, mas primeiro preciso saber se é um filme que eu tenho no meu catálogo...",85%,0.1853,50.8744,0.5765,0.6075,0.7941,4,5,5,5
+]",Empático,"Que noite de cinema você está planejando! Eu vou te mandar o link do filme que você gostaria de assistir, mas primeiro preciso saber se é um filme que eu tenho no meu catálogo...",85%,0.1853,50.8744,0.5765,0.6075,0.7941,3.3,4.2,3.1,2.8
 1,Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.,"Dado a seguinte mensagem: Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -128,7 +128,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Jocoso,"Ahah, você quer assistir ao filme que eu 'foram' falar ontem? Pois bem, vou te mandar o link, mas só se você prometer assistir com o volume baixo, não quero ser acordado pela 4ª vez hoje",92%,0.1853,50.8744,0.5765,0.6075,0.7941,4,5,5,3
+]",Jocoso,"Ahah, você quer assistir ao filme que eu 'foram' falar ontem? Pois bem, vou te mandar o link, mas só se você prometer assistir com o volume baixo, não quero ser acordado pela 4ª vez hoje",92%,0.1853,50.8744,0.5765,0.6075,0.7941,2.7,4.7,3.2,2.9
 2,Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.,"Dado a seguinte mensagem: Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -141,7 +141,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Formal,"Claro, posso pegar sua encomenda nos Correios. Qual é o número da sua encomenda e o endereço onde eu posso entregá-la?",0.5,0.22,47.6832,0.574,0.5607,0.7941,5,5,5,4
+]",Formal,"Claro, posso pegar sua encomenda nos Correios. Qual é o número da sua encomenda e o endereço onde eu posso entregá-la?",0.5,0.22,47.6832,0.574,0.5607,0.7941,4.5,4.8,3.2,3.0
 2,Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.,"Dado a seguinte mensagem: Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -154,7 +154,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Cordial,"Não se preocupe, posso cuidar disso! Vou pegar sua encomenda nos Correios e a entregar em casa. Tudo bem?",0.7,0.22,47.6832,0.574,0.5607,0.7941,4,5,5,5
+]",Cordial,"Não se preocupe, posso cuidar disso! Vou pegar sua encomenda nos Correios e a entregar em casa. Tudo bem?",0.7,0.22,47.6832,0.574,0.5607,0.7941,4.7,4.8,2.7,4.8
 2,Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.,"Dado a seguinte mensagem: Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -167,7 +167,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Mais Empático,"Sinto muito que você não possa sair hoje! Não precisa se preocupar, estou aqui para ajudar. Vou pegar sua encomenda nos Correios e a trazer para você. Você está bem?",0.9,0.22,47.6832,0.574,0.5607,0.7941,4,5,5,5
+]",Mais Empático,"Sinto muito que você não possa sair hoje! Não precisa se preocupar, estou aqui para ajudar. Vou pegar sua encomenda nos Correios e a trazer para você. Você está bem?",0.9,0.22,47.6832,0.574,0.5607,0.7941,2.2,4.5,2.6,3.1
 2,Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.,"Dado a seguinte mensagem: Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -180,7 +180,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Mais Direto,"Pego sua encomenda nos Correios, pronto. Não preciso de mais nada?",0.3,0.22,47.6832,0.574,0.5607,0.7941,4,5,5,5
+]",Mais Direto,"Pego sua encomenda nos Correios, pronto. Não preciso de mais nada?",0.3,0.22,47.6832,0.574,0.5607,0.7941,2.6,3.6,2.6,2.3
 2,Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.,"Dado a seguinte mensagem: Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -193,7 +193,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Humorístico,"Não se preocupe, não vou deixar que sua encomenda fique sozinha nos Correios! Vou pegá-la e entregar em casa, com um sorriso no rosto.",0.2,0.22,47.6832,0.574,0.5607,0.7941,4,5,5,5
+]",Humorístico,"Não se preocupe, não vou deixar que sua encomenda fique sozinha nos Correios! Vou pegá-la e entregar em casa, com um sorriso no rosto.",0.2,0.22,47.6832,0.574,0.5607,0.7941,2.2,4.4,2.8,3.0
 3,Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina.,"Dado a seguinte mensagem: Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -206,7 +206,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",formal,"Claro, posso te dar uma carona até a faculdade amanhã de manhã. Qual é o melhor horário para você?",80%,0.2136,39.6723,0.7274,0.5385,0.7674,5,5,5,5
+]",formal,"Claro, posso te dar uma carona até a faculdade amanhã de manhã. Qual é o melhor horário para você?",80%,0.2136,39.6723,0.7274,0.5385,0.7674,4.3,3.7,2.7,4.3
 3,Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina.,"Dado a seguinte mensagem: Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -219,7 +219,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,"Amanhã de manhã, às 8h?",70%,0.2136,39.6723,0.7274,0.5385,0.7674,4,5,5,5
+]",curto e objetivo,"Amanhã de manhã, às 8h?",70%,0.2136,39.6723,0.7274,0.5385,0.7674,2.9,3.7,3.1,4.2
 3,Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina.,"Dado a seguinte mensagem: Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -232,7 +232,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",cordial,"Claro que sim! Vamos planejar a carona para amanhã de manhã, ok? Qual é o horário mais conveniente para você?",90%,0.2136,39.6723,0.7274,0.5385,0.7674,5,5,5,5
+]",cordial,"Claro que sim! Vamos planejar a carona para amanhã de manhã, ok? Qual é o horário mais conveniente para você?",90%,0.2136,39.6723,0.7274,0.5385,0.7674,4.8,4.4,3.3,4.6
 3,Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina.,"Dado a seguinte mensagem: Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -245,7 +245,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",mais empático,"Entendo que você precisa da carona. Posso te levar ao campus, mas precisamos planejar o horário com antecedência para evitar congestionamentos. Qual é o melhor horário para você?",85%,0.2136,39.6723,0.7274,0.5385,0.7674,5,5,5,4
+]",mais empático,"Entendo que você precisa da carona. Posso te levar ao campus, mas precisamos planejar o horário com antecedência para evitar congestionamentos. Qual é o melhor horário para você?",85%,0.2136,39.6723,0.7274,0.5385,0.7674,4.6,4.7,2.7,2.8
 3,Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina.,"Dado a seguinte mensagem: Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -258,7 +258,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",mais direto,"Amanhã de manhã, às 8h. Estou indo para lá de qualquer forma, então você pode pegar a carona comigo",60%,0.2136,39.6723,0.7274,0.5385,0.7674,5,5,5,4
+]",mais direto,"Amanhã de manhã, às 8h. Estou indo para lá de qualquer forma, então você pode pegar a carona comigo",60%,0.2136,39.6723,0.7274,0.5385,0.7674,4.3,3.2,2.7,2.1
 4,"Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?","Dado a seguinte mensagem: Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -271,7 +271,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",cordial,"E aí, como você está? Eu me esqueci de te dizer que paguei o almoço com meu cartão, então não há problema para você.",20,0.164,50.1531,0.5908,0.5962,0.8687,4,5,2,4
+]",cordial,"E aí, como você está? Eu me esqueci de te dizer que paguei o almoço com meu cartão, então não há problema para você.",20,0.164,50.1531,0.5908,0.5962,0.8687,2.6,4.4,1.1,3.2
 4,"Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?","Dado a seguinte mensagem: Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -284,7 +284,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",formal,"Sim, eu me lembro do almoço da semana passada. Eu posso pagar você assim que possível. Em breve, você receberá o valor.",50,0.164,50.1531,0.5908,0.5962,0.8687,5,5,2,5
+]",formal,"Sim, eu me lembro do almoço da semana passada. Eu posso pagar você assim que possível. Em breve, você receberá o valor.",50,0.164,50.1531,0.5908,0.5962,0.8687,4.2,4.8,1.9,4.0
 4,"Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?","Dado a seguinte mensagem: Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -297,7 +297,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",irritado,"Não estou brincando, eu não te dei dinheiro! Você pode estar confundindo com outra pessoa. Vamos esclarecer isso.",10,0.164,50.1531,0.5908,0.5962,0.8687,4,5,5,3
+]",irritado,"Não estou brincando, eu não te dei dinheiro! Você pode estar confundindo com outra pessoa. Vamos esclarecer isso.",10,0.164,50.1531,0.5908,0.5962,0.8687,4.6,4.4,3.8,2.6
 4,"Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?","Dado a seguinte mensagem: Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -310,7 +310,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",empático,Eu sei que me esqueci de te pagar e sinto muito por isso. Eu vou transferir o valor para você assim que possível. Obrigado por lembrar.,30,0.164,50.1531,0.5908,0.5962,0.8687,5,5,2,5
+]",empático,Eu sei que me esqueci de te pagar e sinto muito por isso. Eu vou transferir o valor para você assim que possível. Obrigado por lembrar.,30,0.164,50.1531,0.5908,0.5962,0.8687,4.6,4.6,1.2,2.7
 4,"Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?","Dado a seguinte mensagem: Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -323,7 +323,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",direto,Eu vou pagar você agora mesmo. Você pode esperar o valor em uma hora.,90,0.164,50.1531,0.5908,0.5962,0.8687,5,5,2,5
+]",direto,Eu vou pagar você agora mesmo. Você pode esperar o valor em uma hora.,90,0.164,50.1531,0.5908,0.5962,0.8687,4.7,3.7,1.5,2.4
 5,"Oi, cadê o livro que te emprestei? Faz um tempão que tá com você.","Dado a seguinte mensagem: Oi, cadê o livro que te emprestei? Faz um tempão que tá com você.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -336,7 +336,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Formal,Peço desculpas pelo atraso. Eu ainda estou procurando o livro. Vou verificar novamente na minha biblioteca.,80%,0.1771,64.6443,0.5345,0.5667,0.8414,4,5,5,4
+]",Formal,Peço desculpas pelo atraso. Eu ainda estou procurando o livro. Vou verificar novamente na minha biblioteca.,80%,0.1771,64.6443,0.5345,0.5667,0.8414,3.5,4.7,3.9,2.9
 5,"Oi, cadê o livro que te emprestei? Faz um tempão que tá com você.","Dado a seguinte mensagem: Oi, cadê o livro que te emprestei? Faz um tempão que tá com você.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -349,7 +349,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Cordial,"Ha ha, eu sei que você está procurando por ele! Eu o emprestei para um amigo que está passando por uma fase de leitura intensa. Vou tentar recuperá-lo daqui a alguns dias.",70%,0.1771,64.6443,0.5345,0.5667,0.8414,4,5,2,5
+]",Cordial,"Ha ha, eu sei que você está procurando por ele! Eu o emprestei para um amigo que está passando por uma fase de leitura intensa. Vou tentar recuperá-lo daqui a alguns dias.",70%,0.1771,64.6443,0.5345,0.5667,0.8414,2.9,4.4,1.2,4.1
 5,"Oi, cadê o livro que te emprestei? Faz um tempão que tá com você.","Dado a seguinte mensagem: Oi, cadê o livro que te emprestei? Faz um tempão que tá com você.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -362,7 +362,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Empático,Eu sei que você está ansioso para ler o livro novamente. Eu o emprestei para um colega de trabalho que precisava de uma pausa do estresse. Vou verificar se ele ainda o tem e se posso pegá-lo de volta.,90%,0.1771,64.6443,0.5345,0.5667,0.8414,5,5,5,4
+]",Empático,Eu sei que você está ansioso para ler o livro novamente. Eu o emprestei para um colega de trabalho que precisava de uma pausa do estresse. Vou verificar se ele ainda o tem e se posso pegá-lo de volta.,90%,0.1771,64.6443,0.5345,0.5667,0.8414,4.1,4.7,4.0,2.9
 5,"Oi, cadê o livro que te emprestei? Faz um tempão que tá com você.","Dado a seguinte mensagem: Oi, cadê o livro que te emprestei? Faz um tempão que tá com você.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -375,7 +375,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Irritado,"Desculpe, mas eu não tenho tempo para procurar o livro agora. Você pode me dar outra semana para encontrar ele?",20%,0.1771,64.6443,0.5345,0.5667,0.8414,4,5,5,3
+]",Irritado,"Desculpe, mas eu não tenho tempo para procurar o livro agora. Você pode me dar outra semana para encontrar ele?",20%,0.1771,64.6443,0.5345,0.5667,0.8414,4.2,4.8,4.6,3.0
 5,"Oi, cadê o livro que te emprestei? Faz um tempão que tá com você.","Dado a seguinte mensagem: Oi, cadê o livro que te emprestei? Faz um tempão que tá com você.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -388,7 +388,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Humorístico,"Ah, você está procurando o livro de novo? Eu o emprestei para um gato que está escrevendo uma tese sobre literatura. Vou tentar recuperá-lo antes que ele termine a dissertação... ou talvez eu apenas deite em cima dele para recuperar.",50%,0.1771,64.6443,0.5345,0.5667,0.8414,4,5,5,3
+]",Humorístico,"Ah, você está procurando o livro de novo? Eu o emprestei para um gato que está escrevendo uma tese sobre literatura. Vou tentar recuperá-lo antes que ele termine a dissertação... ou talvez eu apenas deite em cima dele para recuperar.",50%,0.1771,64.6443,0.5345,0.5667,0.8414,2.9,4.8,4.1,3.2
 6,Você viu minha mensagem de ontem? Tô esperando sua parte do trabalho da faculdade desde segunda.,"Dado a seguinte mensagem: Você viu minha mensagem de ontem? Tô esperando sua parte do trabalho da faculdade desde segunda.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -401,7 +401,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Formal,"Sim, eu vi sua mensagem de ontem. Estou trabalhando no meu papel para o trabalho da faculdade e vou enviá-lo para você assim que possível.",60,0.3765,45.8979,0.7561,0.4511,0.6484,5,5,5,5
+]",Formal,"Sim, eu vi sua mensagem de ontem. Estou trabalhando no meu papel para o trabalho da faculdade e vou enviá-lo para você assim que possível.",60,0.3765,45.8979,0.7561,0.4511,0.6484,4.6,4.6,2.8,4.0
 6,Você viu minha mensagem de ontem? Tô esperando sua parte do trabalho da faculdade desde segunda.,"Dado a seguinte mensagem: Você viu minha mensagem de ontem? Tô esperando sua parte do trabalho da faculdade desde segunda.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -414,7 +414,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Cordial,"Olá! Sim, eu vi sua mensagem. Estou um pouco atrasado com o meu papel, mas vou terminá-lo logo e enviá-lo para você.",70,0.3765,45.8979,0.7561,0.4511,0.6484,5,5,5,5
+]",Cordial,"Olá! Sim, eu vi sua mensagem. Estou um pouco atrasado com o meu papel, mas vou terminá-lo logo e enviá-lo para você.",70,0.3765,45.8979,0.7561,0.4511,0.6484,4.3,4.9,3.2,4.7
 6,Você viu minha mensagem de ontem? Tô esperando sua parte do trabalho da faculdade desde segunda.,"Dado a seguinte mensagem: Você viu minha mensagem de ontem? Tô esperando sua parte do trabalho da faculdade desde segunda.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -427,7 +427,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Empático,Entendo que você está esperando ansiosamente pelo meu papel. Desculpe por não ter respondido ontem. Estou trabalhando nele agora e vou enviá-lo para você assim que estiver pronto.,80,0.3765,45.8979,0.7561,0.4511,0.6484,4,5,5,4
+]",Empático,Entendo que você está esperando ansiosamente pelo meu papel. Desculpe por não ter respondido ontem. Estou trabalhando nele agora e vou enviá-lo para você assim que estiver pronto.,80,0.3765,45.8979,0.7561,0.4511,0.6484,4.6,4.3,3.0,3.0
 6,Você viu minha mensagem de ontem? Tô esperando sua parte do trabalho da faculdade desde segunda.,"Dado a seguinte mensagem: Você viu minha mensagem de ontem? Tô esperando sua parte do trabalho da faculdade desde segunda.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -440,7 +440,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Direto,Não vi sua mensagem ontem. Vou trabalhar no meu papel agora e enviá-lo para você assim que possível.,90,0.3765,45.8979,0.7561,0.4511,0.6484,4,5,5,4
+]",Direto,Não vi sua mensagem ontem. Vou trabalhar no meu papel agora e enviá-lo para você assim que possível.,90,0.3765,45.8979,0.7561,0.4511,0.6484,4.5,3.5,3.3,2.0
 6,Você viu minha mensagem de ontem? Tô esperando sua parte do trabalho da faculdade desde segunda.,"Dado a seguinte mensagem: Você viu minha mensagem de ontem? Tô esperando sua parte do trabalho da faculdade desde segunda.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -453,7 +453,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Jocoso,"Ah, sua mensagem de ontem? Eu estava meio que dormindo em cima da tecla! Estou trabalhando no meu papel agora e vou enviá-lo para você antes que você comece a pensar que eu esqueci.",40,0.3765,45.8979,0.7561,0.4511,0.6484,4,5,5,3
+]",Jocoso,"Ah, sua mensagem de ontem? Eu estava meio que dormindo em cima da tecla! Estou trabalhando no meu papel agora e vou enviá-lo para você antes que você comece a pensar que eu esqueci.",40,0.3765,45.8979,0.7561,0.4511,0.6484,3.5,4.8,2.7,3.0
 7,"Oi! Vi que você me chamou pra festa de sábado, mas não vou conseguir ir dessa vez.","Dado a seguinte mensagem: Oi! Vi que você me chamou pra festa de sábado, mas não vou conseguir ir dessa vez.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -466,7 +466,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Formal,Agradeço a comunicação prévia. Qual é o motivo pelo qual você não pode comparecer?,80%,0.0915,49.4223,0.4571,0.686,0.9259,4,5,5,5
+]",Formal,Agradeço a comunicação prévia. Qual é o motivo pelo qual você não pode comparecer?,80%,0.0915,49.4223,0.4571,0.686,0.9259,4.6,3.5,2.8,4.2
 7,"Oi! Vi que você me chamou pra festa de sábado, mas não vou conseguir ir dessa vez.","Dado a seguinte mensagem: Oi! Vi que você me chamou pra festa de sábado, mas não vou conseguir ir dessa vez.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -479,7 +479,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Cordial,"Ah, que pena! Espero que você tenha uma boa justificativa. Você pode me contar o que está acontecendo?",75%,0.0915,49.4223,0.4571,0.686,0.9259,5,5,5,5
+]",Cordial,"Ah, que pena! Espero que você tenha uma boa justificativa. Você pode me contar o que está acontecendo?",75%,0.0915,49.4223,0.4571,0.686,0.9259,4.8,4.1,3.2,4.7
 7,"Oi! Vi que você me chamou pra festa de sábado, mas não vou conseguir ir dessa vez.","Dado a seguinte mensagem: Oi! Vi que você me chamou pra festa de sábado, mas não vou conseguir ir dessa vez.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -492,7 +492,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Empático,"Entendo que você tenha outras prioridades. Não se preocupe em me ligar, mas, se precisar de alguém para sair, estou aqui!",90%,0.0915,49.4223,0.4571,0.686,0.9259,4,5,5,5
+]",Empático,"Entendo que você tenha outras prioridades. Não se preocupe em me ligar, mas, se precisar de alguém para sair, estou aqui!",90%,0.0915,49.4223,0.4571,0.686,0.9259,2.2,4.6,2.8,3.3
 7,"Oi! Vi que você me chamou pra festa de sábado, mas não vou conseguir ir dessa vez.","Dado a seguinte mensagem: Oi! Vi que você me chamou pra festa de sábado, mas não vou conseguir ir dessa vez.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -505,7 +505,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Irônico,"Ah, ótimo! Mais uma justificativa para eu não estar sozinho na festa. Só brincando, claro.",20%,0.0915,49.4223,0.4571,0.686,0.9259,4,5,5,3
+]",Irônico,"Ah, ótimo! Mais uma justificativa para eu não estar sozinho na festa. Só brincando, claro.",20%,0.0915,49.4223,0.4571,0.686,0.9259,4.5,3.6,2.9,2.9
 7,"Oi! Vi que você me chamou pra festa de sábado, mas não vou conseguir ir dessa vez.","Dado a seguinte mensagem: Oi! Vi que você me chamou pra festa de sábado, mas não vou conseguir ir dessa vez.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -518,7 +518,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Direto,"Não se preocupe, não há problema. Queremos que você esteja bem e não se sinta pressionado a vir.",95%,0.0915,49.4223,0.4571,0.686,0.9259,4,5,5,4
+]",Direto,"Não se preocupe, não há problema. Queremos que você esteja bem e não se sinta pressionado a vir.",95%,0.0915,49.4223,0.4571,0.686,0.9259,2.2,3.1,3.1,2.3
 8,"Obrigado por me chamar pra jogar bola domingo, mas tô muito cansado essa semana.","Dado a seguinte mensagem: Obrigado por me chamar pra jogar bola domingo, mas tô muito cansado essa semana.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -531,7 +531,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Formal,"Agradeço a oportunidade de jogar bola, mas infelizmente não estou em condições para participar nesse domingo. Aproveitamento para outra vez.",80,0.1135,57.8776,0.5191,0.6471,0.9381,4,5,5,4
+]",Formal,"Agradeço a oportunidade de jogar bola, mas infelizmente não estou em condições para participar nesse domingo. Aproveitamento para outra vez.",80,0.1135,57.8776,0.5191,0.6471,0.9381,2.6,4.5,3.4,3.0
 8,"Obrigado por me chamar pra jogar bola domingo, mas tô muito cansado essa semana.","Dado a seguinte mensagem: Obrigado por me chamar pra jogar bola domingo, mas tô muito cansado essa semana.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -544,7 +544,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Cordial,"Ah, obrigado por me chamar! Mas, sinceramente, estou quebrado esta semana e não quero correr o risco de lesar-me. Talvez outro dia?",90,0.1135,57.8776,0.5191,0.6471,0.9381,4,5,5,5
+]",Cordial,"Ah, obrigado por me chamar! Mas, sinceramente, estou quebrado esta semana e não quero correr o risco de lesar-me. Talvez outro dia?",90,0.1135,57.8776,0.5191,0.6471,0.9381,2.2,4.4,2.8,4.1
 8,"Obrigado por me chamar pra jogar bola domingo, mas tô muito cansado essa semana.","Dado a seguinte mensagem: Obrigado por me chamar pra jogar bola domingo, mas tô muito cansado essa semana.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -557,7 +557,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Empático,"Entendo perfeitamente, estou vendo que você está sobrecarregado. Não se preocupe em me chamar, vou entender se você precisar se recuperar em outro momento.",85,0.1135,57.8776,0.5191,0.6471,0.9381,4,5,5,4
+]",Empático,"Entendo perfeitamente, estou vendo que você está sobrecarregado. Não se preocupe em me chamar, vou entender se você precisar se recuperar em outro momento.",85,0.1135,57.8776,0.5191,0.6471,0.9381,2.7,4.4,2.7,2.7
 8,"Obrigado por me chamar pra jogar bola domingo, mas tô muito cansado essa semana.","Dado a seguinte mensagem: Obrigado por me chamar pra jogar bola domingo, mas tô muito cansado essa semana.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -570,7 +570,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Direto,Não posso jogar domingo. Estou cansado e preciso descansar.,95,0.1135,57.8776,0.5191,0.6471,0.9381,4,5,5,5
+]",Direto,Não posso jogar domingo. Estou cansado e preciso descansar.,95,0.1135,57.8776,0.5191,0.6471,0.9381,4.8,3.3,3.4,2.4
 8,"Obrigado por me chamar pra jogar bola domingo, mas tô muito cansado essa semana.","Dado a seguinte mensagem: Obrigado por me chamar pra jogar bola domingo, mas tô muito cansado essa semana.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -583,7 +583,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Humorístico,"Ah, obrigado! Mas, sinceramente, estou tão cansado que até o meu sonho com o balão de ar quente está inflando o meu sono. Vamos outra vez?",70,0.1135,57.8776,0.5191,0.6471,0.9381,4,5,5,5
+]",Humorístico,"Ah, obrigado! Mas, sinceramente, estou tão cansado que até o meu sonho com o balão de ar quente está inflando o meu sono. Vamos outra vez?",70,0.1135,57.8776,0.5191,0.6471,0.9381,3.0,4.9,3.0,3.3
 9,"Não vou conseguir ajudar na mudança no final de semana, já tenho compromisso com minha família.","Dado a seguinte mensagem: Não vou conseguir ajudar na mudança no final de semana, já tenho compromisso com minha família.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -596,7 +596,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Formal,Entendemos que você tem compromissos familiares e não pode ajudar na mudança. Vamos encontrar outra pessoa para ajudar.,20,0.2144,45.0554,0.5962,0.5545,0.8125,4,5,5,5
+]",Formal,Entendemos que você tem compromissos familiares e não pode ajudar na mudança. Vamos encontrar outra pessoa para ajudar.,20,0.2144,45.0554,0.5962,0.5545,0.8125,4.6,4.3,4.2,4.5
 9,"Não vou conseguir ajudar na mudança no final de semana, já tenho compromisso com minha família.","Dado a seguinte mensagem: Não vou conseguir ajudar na mudança no final de semana, já tenho compromisso com minha família.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -609,7 +609,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Cordial,"Nossa! Tudo bem, não se preocupe. Vamos nos comunicar mais tarde para definir os detalhes da mudança.",80,0.2144,45.0554,0.5962,0.5545,0.8125,4,5,2,5
+]",Cordial,"Nossa! Tudo bem, não se preocupe. Vamos nos comunicar mais tarde para definir os detalhes da mudança.",80,0.2144,45.0554,0.5962,0.5545,0.8125,2.7,4.6,1.3,4.4
 9,"Não vou conseguir ajudar na mudança no final de semana, já tenho compromisso com minha família.","Dado a seguinte mensagem: Não vou conseguir ajudar na mudança no final de semana, já tenho compromisso com minha família.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -622,7 +622,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Mais Empático,Sinto muito que você não possa ajudar na mudança. É uma grande responsabilidade ter compromissos familiares e eu entendo completamente. Você é muito importante para nós e não vamos se magoar.,75,0.2144,45.0554,0.5962,0.5545,0.8125,4,5,5,5
+]",Mais Empático,Sinto muito que você não possa ajudar na mudança. É uma grande responsabilidade ter compromissos familiares e eu entendo completamente. Você é muito importante para nós e não vamos se magoar.,75,0.2144,45.0554,0.5962,0.5545,0.8125,2.7,4.2,4.0,3.2
 9,"Não vou conseguir ajudar na mudança no final de semana, já tenho compromisso com minha família.","Dado a seguinte mensagem: Não vou conseguir ajudar na mudança no final de semana, já tenho compromisso com minha família.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -635,7 +635,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Mais Direto,Não se preocupe com a mudança. Vou encontrar alguém para ajudar.,60,0.2144,45.0554,0.5962,0.5545,0.8125,4,5,5,5
+]",Mais Direto,Não se preocupe com a mudança. Vou encontrar alguém para ajudar.,60,0.2144,45.0554,0.5962,0.5545,0.8125,2.8,3.6,4.3,2.0
 9,"Não vou conseguir ajudar na mudança no final de semana, já tenho compromisso com minha família.","Dado a seguinte mensagem: Não vou conseguir ajudar na mudança no final de semana, já tenho compromisso com minha família.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -648,7 +648,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Humorístico,"Não vai ser você, a família de você, a avó de você... Estou brincando! Só brincando. Vamos encontrar outra pessoa para ajudar na mudança.",40,0.2144,45.0554,0.5962,0.5545,0.8125,4,5,5,5
+]",Humorístico,"Não vai ser você, a família de você, a avó de você... Estou brincando! Só brincando. Vamos encontrar outra pessoa para ajudar na mudança.",40,0.2144,45.0554,0.5962,0.5545,0.8125,2.8,4.6,4.5,2.7
 10,Muito obrigado por ter ficado comigo no hospital ontem. Significou muito ter você por perto.,"Dado a seguinte mensagem: Muito obrigado por ter ficado comigo no hospital ontem. Significou muito ter você por perto.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -661,7 +661,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Formal,Estou feliz em ter podido estar lá para você. Espero que você esteja se recuperando bem.,80%,0.1807,43.3502,0.4927,0.6395,0.8765,4,5,5,5
+]",Formal,Estou feliz em ter podido estar lá para você. Espero que você esteja se recuperando bem.,80%,0.1807,43.3502,0.4927,0.6395,0.8765,3.4,3.8,2.7,4.0
 10,Muito obrigado por ter ficado comigo no hospital ontem. Significou muito ter você por perto.,"Dado a seguinte mensagem: Muito obrigado por ter ficado comigo no hospital ontem. Significou muito ter você por perto.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -674,7 +674,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Cordial,"Que alívio saber que você está bem! Fique sabendo que estou aqui para você, a qualquer momento.",90%,0.1807,43.3502,0.4927,0.6395,0.8765,4,5,5,5
+]",Cordial,"Que alívio saber que você está bem! Fique sabendo que estou aqui para você, a qualquer momento.",90%,0.1807,43.3502,0.4927,0.6395,0.8765,3.4,3.7,2.9,4.2
 10,Muito obrigado por ter ficado comigo no hospital ontem. Significou muito ter você por perto.,"Dado a seguinte mensagem: Muito obrigado por ter ficado comigo no hospital ontem. Significou muito ter você por perto.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -687,7 +687,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Empático,Sinto muito que você tenha passado por isso. Estou aqui para ouvir e ajudar em qualquer coisa que precise.,95%,0.1807,43.3502,0.4927,0.6395,0.8765,4,5,5,5
+]",Empático,Sinto muito que você tenha passado por isso. Estou aqui para ouvir e ajudar em qualquer coisa que precise.,95%,0.1807,43.3502,0.4927,0.6395,0.8765,2.9,4.5,3.0,3.0
 10,Muito obrigado por ter ficado comigo no hospital ontem. Significou muito ter você por perto.,"Dado a seguinte mensagem: Muito obrigado por ter ficado comigo no hospital ontem. Significou muito ter você por perto.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -700,7 +700,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Direto,"Estou aqui para você. Se precisar de algo, não hesite em perguntar.",70%,0.1807,43.3502,0.4927,0.6395,0.8765,4,5,5,5
+]",Direto,"Estou aqui para você. Se precisar de algo, não hesite em perguntar.",70%,0.1807,43.3502,0.4927,0.6395,0.8765,2.4,3.1,2.8,2.3
 10,Muito obrigado por ter ficado comigo no hospital ontem. Significou muito ter você por perto.,"Dado a seguinte mensagem: Muito obrigado por ter ficado comigo no hospital ontem. Significou muito ter você por perto.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -713,7 +713,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Poético,Sua presença no hospital foi um raio de sol em um dia sombrio. Estou aqui para brilhar juntos e superar qualquer obstáculo.,60%,0.1807,43.3502,0.4927,0.6395,0.8765,4,5,5,3
+]",Poético,Sua presença no hospital foi um raio de sol em um dia sombrio. Estou aqui para brilhar juntos e superar qualquer obstáculo.,60%,0.1807,43.3502,0.4927,0.6395,0.8765,3.5,4.9,2.9,2.9
 11,Valeu demais por ter me ajudado a montar o móvel! Não teria conseguido sozinho.,"Dado a seguinte mensagem: Valeu demais por ter me ajudado a montar o móvel! Não teria conseguido sozinho.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -726,7 +726,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Formal,Obrigado por sua confiança e apreço. Estou sempre à disposição para ajudar com projetos de mobiliário.,80,0.1042,56.5994,0.5185,0.6882,0.9205,4,5,5,4
+]",Formal,Obrigado por sua confiança e apreço. Estou sempre à disposição para ajudar com projetos de mobiliário.,80,0.1042,56.5994,0.5185,0.6882,0.9205,3.5,4.2,3.8,3.3
 11,Valeu demais por ter me ajudado a montar o móvel! Não teria conseguido sozinho.,"Dado a seguinte mensagem: Valeu demais por ter me ajudado a montar o móvel! Não teria conseguido sozinho.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -739,7 +739,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Curto e Objetivo,"De nada! Se precisar de mais ajuda, é só chamar.",90,0.1042,56.5994,0.5185,0.6882,0.9205,4,5,5,5
+]",Curto e Objetivo,"De nada! Se precisar de mais ajuda, é só chamar.",90,0.1042,56.5994,0.5185,0.6882,0.9205,3.0,3.5,4.0,2.4
 11,Valeu demais por ter me ajudado a montar o móvel! Não teria conseguido sozinho.,"Dado a seguinte mensagem: Valeu demais por ter me ajudado a montar o móvel! Não teria conseguido sozinho.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -752,7 +752,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Cordial,"Ah, não é problema! Adorei ter ajudado. Se você precisar de mais ajuda, não hesite em me perguntar.",75,0.1042,56.5994,0.5185,0.6882,0.9205,4,5,5,5
+]",Cordial,"Ah, não é problema! Adorei ter ajudado. Se você precisar de mais ajuda, não hesite em me perguntar.",75,0.1042,56.5994,0.5185,0.6882,0.9205,2.7,3.6,4.6,4.0
 11,Valeu demais por ter me ajudado a montar o móvel! Não teria conseguido sozinho.,"Dado a seguinte mensagem: Valeu demais por ter me ajudado a montar o móvel! Não teria conseguido sozinho.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -765,7 +765,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Empático,"Sei que montar móveis pode ser um desafio, então estou feliz em ter podido ajudar a tornar o processo mais fácil e divertido.",85,0.1042,56.5994,0.5185,0.6882,0.9205,5,5,5,5
+]",Empático,"Sei que montar móveis pode ser um desafio, então estou feliz em ter podido ajudar a tornar o processo mais fácil e divertido.",85,0.1042,56.5994,0.5185,0.6882,0.9205,4.3,4.6,4.5,3.2
 11,Valeu demais por ter me ajudado a montar o móvel! Não teria conseguido sozinho.,"Dado a seguinte mensagem: Valeu demais por ter me ajudado a montar o móvel! Não teria conseguido sozinho.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -778,7 +778,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Humorístico,"E aí, finalmente conseguiu montar o móvel sem quebrar nada? Eu estou aqui para ajudar com os projetos de mobiliário e também para consertar os quebrados.",60,0.1042,56.5994,0.5185,0.6882,0.9205,4,5,5,3
+]",Humorístico,"E aí, finalmente conseguiu montar o móvel sem quebrar nada? Eu estou aqui para ajudar com os projetos de mobiliário e também para consertar os quebrados.",60,0.1042,56.5994,0.5185,0.6882,0.9205,3.3,4.9,4.5,3.0
 12,Obrigado por me cobrir na aula de ontem e anotar tudo. Você me salvou!,"Dado a seguinte mensagem: Obrigado por me cobrir na aula de ontem e anotar tudo. Você me salvou!
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -791,7 +791,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Formal,Agradeço a oportunidade de ajudar. Estou sempre disponível para apoiar os colegas.,80,0.0406,56.7874,0.296,0.8243,0.9855,4,5,5,3
+]",Formal,Agradeço a oportunidade de ajudar. Estou sempre disponível para apoiar os colegas.,80,0.0406,56.7874,0.296,0.8243,0.9855,3.3,3.3,3.3,1.6
 12,Obrigado por me cobrir na aula de ontem e anotar tudo. Você me salvou!,"Dado a seguinte mensagem: Obrigado por me cobrir na aula de ontem e anotar tudo. Você me salvou!
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -804,7 +804,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Cordial,"Ah, não foi nada, meu amigo! Estou feliz em poder ajudar quando precisar.",90,0.0406,56.7874,0.296,0.8243,0.9855,4,5,5,5
+]",Cordial,"Ah, não foi nada, meu amigo! Estou feliz em poder ajudar quando precisar.",90,0.0406,56.7874,0.296,0.8243,0.9855,4.8,3.5,3.3,4.5
 12,Obrigado por me cobrir na aula de ontem e anotar tudo. Você me salvou!,"Dado a seguinte mensagem: Obrigado por me cobrir na aula de ontem e anotar tudo. Você me salvou!
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -817,7 +817,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Empático,"Não foi só você que se beneficiou, eu também aprendi muito com a aula e foi um prazer compartilhar o conhecimento!",85,0.0406,56.7874,0.296,0.8243,0.9855,4,5,5,5
+]",Empático,"Não foi só você que se beneficiou, eu também aprendi muito com a aula e foi um prazer compartilhar o conhecimento!",85,0.0406,56.7874,0.296,0.8243,0.9855,2.5,4.5,3.4,2.9
 12,Obrigado por me cobrir na aula de ontem e anotar tudo. Você me salvou!,"Dado a seguinte mensagem: Obrigado por me cobrir na aula de ontem e anotar tudo. Você me salvou!
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -830,7 +830,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Direto,"Sem problemas, apenas faz parte do grupo!",95,0.0406,56.7874,0.296,0.8243,0.9855,4,5,5,5
+]",Direto,"Sem problemas, apenas faz parte do grupo!",95,0.0406,56.7874,0.296,0.8243,0.9855,3.1,3.8,3.0,4.8
 12,Obrigado por me cobrir na aula de ontem e anotar tudo. Você me salvou!,"Dado a seguinte mensagem: Obrigado por me cobrir na aula de ontem e anotar tudo. Você me salvou!
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -843,7 +843,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Humorístico,"Bom, agora você tem que me pagar em troca de anotar tudo de novo, haha! Estou apenas brincando, mas obrigado novamente!",92,0.0406,56.7874,0.296,0.8243,0.9855,4,5,5,5
+]",Humorístico,"Bom, agora você tem que me pagar em troca de anotar tudo de novo, haha! Estou apenas brincando, mas obrigado novamente!",92,0.0406,56.7874,0.296,0.8243,0.9855,3.1,4.4,3.0,3.1
 13,"Ei, vai ter churrasco lá em casa sábado. Você vem? Pode trazer a família também!","Dado a seguinte mensagem: Ei, vai ter churrasco lá em casa sábado. Você vem? Pode trazer a família também!
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -856,7 +856,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Formal,"Sim, irei ao churrasco no sábado. Estou ansioso para conhecer sua família e compartilhar momentos agradáveis junto com você.",30,0.1452,49.7045,0.5441,0.6552,0.9146,5,5,5,5
+]",Formal,"Sim, irei ao churrasco no sábado. Estou ansioso para conhecer sua família e compartilhar momentos agradáveis junto com você.",30,0.1452,49.7045,0.5441,0.6552,0.9146,4.6,4.3,3.3,4.0
 13,"Ei, vai ter churrasco lá em casa sábado. Você vem? Pode trazer a família também!","Dado a seguinte mensagem: Ei, vai ter churrasco lá em casa sábado. Você vem? Pode trazer a família também!
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -869,7 +869,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Curto e Objetivo,"Vou sim, trarei a família, obrigado!",80,0.1452,49.7045,0.5441,0.6552,0.9146,5,5,5,5
+]",Curto e Objetivo,"Vou sim, trarei a família, obrigado!",80,0.1452,49.7045,0.5441,0.6552,0.9146,4.5,3.7,3.4,4.4
 13,"Ei, vai ter churrasco lá em casa sábado. Você vem? Pode trazer a família também!","Dado a seguinte mensagem: Ei, vai ter churrasco lá em casa sábado. Você vem? Pode trazer a família também!
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -882,7 +882,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Cordial,"Que legal! Vou sim, e a família também está ansiosa para ir! Obrigada pelo convite, vai ser divertido!",60,0.1452,49.7045,0.5441,0.6552,0.9146,5,5,5,5
+]",Cordial,"Que legal! Vou sim, e a família também está ansiosa para ir! Obrigada pelo convite, vai ser divertido!",60,0.1452,49.7045,0.5441,0.6552,0.9146,4.7,4.6,3.4,4.6
 13,"Ei, vai ter churrasco lá em casa sábado. Você vem? Pode trazer a família também!","Dado a seguinte mensagem: Ei, vai ter churrasco lá em casa sábado. Você vem? Pode trazer a família também!
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -895,7 +895,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Mais Empático,"Sinto muito, mas não posso ir ao churrasco no sábado. Estou ocupado com um projeto importante, mas espero que seja um dia incrível e que vocês tenham muitas risadas e momentos de lazer!",40,0.1452,49.7045,0.5441,0.6552,0.9146,4,5,5,5
+]",Mais Empático,"Sinto muito, mas não posso ir ao churrasco no sábado. Estou ocupado com um projeto importante, mas espero que seja um dia incrível e que vocês tenham muitas risadas e momentos de lazer!",40,0.1452,49.7045,0.5441,0.6552,0.9146,4.4,4.2,3.4,3.2
 13,"Ei, vai ter churrasco lá em casa sábado. Você vem? Pode trazer a família também!","Dado a seguinte mensagem: Ei, vai ter churrasco lá em casa sábado. Você vem? Pode trazer a família também!
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -908,7 +908,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Mais Direto,"Sim, vou trazer a família. O que posso trazer para ajudar?",90,0.1452,49.7045,0.5441,0.6552,0.9146,5,5,5,5
+]",Mais Direto,"Sim, vou trazer a família. O que posso trazer para ajudar?",90,0.1452,49.7045,0.5441,0.6552,0.9146,4.3,3.5,3.0,2.1
 14,Tô organizando uma pelada domingo de manhã no campo perto de casa. Você topa?,"Dado a seguinte mensagem: Tô organizando uma pelada domingo de manhã no campo perto de casa. Você topa?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -921,7 +921,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Formal,Estou disponível para jogar. Qual horário estava planejado?,80%,0.0659,42.5584,0.3113,0.7353,0.9048,4,5,5,4
+]",Formal,Estou disponível para jogar. Qual horário estava planejado?,80%,0.0659,42.5584,0.3113,0.7353,0.9048,2.8,3.6,3.2,2.9
 14,Tô organizando uma pelada domingo de manhã no campo perto de casa. Você topa?,"Dado a seguinte mensagem: Tô organizando uma pelada domingo de manhã no campo perto de casa. Você topa?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -934,7 +934,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Cordial,"Que legal! Eu topo, mas não sei se vou fazer mal. Quais são as regras da pelada?",70%,0.0659,42.5584,0.3113,0.7353,0.9048,4,5,5,5
+]",Cordial,"Que legal! Eu topo, mas não sei se vou fazer mal. Quais são as regras da pelada?",70%,0.0659,42.5584,0.3113,0.7353,0.9048,2.8,3.5,3.0,4.2
 14,Tô organizando uma pelada domingo de manhã no campo perto de casa. Você topa?,"Dado a seguinte mensagem: Tô organizando uma pelada domingo de manhã no campo perto de casa. Você topa?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -947,7 +947,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Empático,Que alegria! Eu topo de coração. Espero que eu não fique atrapalhando a equipe. Qual é o time de hoje?,90%,0.0659,42.5584,0.3113,0.7353,0.9048,4,5,5,5
+]",Empático,Que alegria! Eu topo de coração. Espero que eu não fique atrapalhando a equipe. Qual é o time de hoje?,90%,0.0659,42.5584,0.3113,0.7353,0.9048,2.6,4.6,3.1,3.0
 14,Tô organizando uma pelada domingo de manhã no campo perto de casa. Você topa?,"Dado a seguinte mensagem: Tô organizando uma pelada domingo de manhã no campo perto de casa. Você topa?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -960,7 +960,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Seco,"Sim, topo. Quem mais está indo?",60%,0.0659,42.5584,0.3113,0.7353,0.9048,5,5,5,3
+]",Seco,"Sim, topo. Quem mais está indo?",60%,0.0659,42.5584,0.3113,0.7353,0.9048,4.9,3.4,3.3,2.9
 14,Tô organizando uma pelada domingo de manhã no campo perto de casa. Você topa?,"Dado a seguinte mensagem: Tô organizando uma pelada domingo de manhã no campo perto de casa. Você topa?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -973,7 +973,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Engraçado,"Claro que eu topo! Mas vocês sabem que eu sou um time de um só homem, né?",40%,0.0659,42.5584,0.3113,0.7353,0.9048,5,5,5,3
+]",Engraçado,"Claro que eu topo! Mas vocês sabem que eu sou um time de um só homem, né?",40%,0.0659,42.5584,0.3113,0.7353,0.9048,4.3,3.9,3.1,3.1
 15,A gente vai assistir aquele filme novo no cinema sexta à noite. Quer vir junto?,"Dado a seguinte mensagem: A gente vai assistir aquele filme novo no cinema sexta à noite. Quer vir junto?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -986,7 +986,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Formal,"Claro, estou interessado em assistir o filme. Qual é a hora exata do cinema?",80,0.0862,46.1665,0.4856,0.7463,0.9194,5,5,5,4
+]",Formal,"Claro, estou interessado em assistir o filme. Qual é a hora exata do cinema?",80,0.0862,46.1665,0.4856,0.7463,0.9194,4.7,3.7,2.7,3.0
 15,A gente vai assistir aquele filme novo no cinema sexta à noite. Quer vir junto?,"Dado a seguinte mensagem: A gente vai assistir aquele filme novo no cinema sexta à noite. Quer vir junto?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -999,7 +999,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Cortês,"Sexta à noite, ótimo! Vou verificar os horários e te ligar mais tarde",95,0.0862,46.1665,0.4856,0.7463,0.9194,4,5,5,3
+]",Cortês,"Sexta à noite, ótimo! Vou verificar os horários e te ligar mais tarde",95,0.0862,46.1665,0.4856,0.7463,0.9194,3.6,3.8,2.6,3.2
 15,A gente vai assistir aquele filme novo no cinema sexta à noite. Quer vir junto?,"Dado a seguinte mensagem: A gente vai assistir aquele filme novo no cinema sexta à noite. Quer vir junto?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1012,7 +1012,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Empático,"Eu estou muito ocupado, mas posso tentar assistir se eu puder encontrar alguém para me cuidar do meu filho",60,0.0862,46.1665,0.4856,0.7463,0.9194,5,5,5,4
+]",Empático,"Eu estou muito ocupado, mas posso tentar assistir se eu puder encontrar alguém para me cuidar do meu filho",60,0.0862,46.1665,0.4856,0.7463,0.9194,4.8,4.9,2.9,2.7
 15,A gente vai assistir aquele filme novo no cinema sexta à noite. Quer vir junto?,"Dado a seguinte mensagem: A gente vai assistir aquele filme novo no cinema sexta à noite. Quer vir junto?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1025,7 +1025,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Direto,"Sim, estou indo. Qual é o filme?",90,0.0862,46.1665,0.4856,0.7463,0.9194,5,5,5,5
+]",Direto,"Sim, estou indo. Qual é o filme?",90,0.0862,46.1665,0.4856,0.7463,0.9194,4.6,3.2,2.8,5.0
 15,A gente vai assistir aquele filme novo no cinema sexta à noite. Quer vir junto?,"Dado a seguinte mensagem: A gente vai assistir aquele filme novo no cinema sexta à noite. Quer vir junto?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1038,7 +1038,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Engraçado,"Sexta à noite, ótimo! Mas só se você pagar a minha entrada, estou quebrado",70,0.0862,46.1665,0.4856,0.7463,0.9194,4,5,5,3
+]",Engraçado,"Sexta à noite, ótimo! Mas só se você pagar a minha entrada, estou quebrado",70,0.0862,46.1665,0.4856,0.7463,0.9194,3.6,3.7,3.2,3.2
 16,"Ei, que horas começa o aniversário da Ana amanhã? Vi o convite mas não achei o horário.","Dado a seguinte mensagem: Ei, que horas começa o aniversário da Ana amanhã? Vi o convite mas não achei o horário.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1051,7 +1051,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Formal,O horário do aniversário da Ana amanhã é às 19h. Você pode conferir o convite novamente para obter mais informações.,80,0.2773,37.0281,0.6621,0.4948,0.6848,5,5,5,5
+]",Formal,O horário do aniversário da Ana amanhã é às 19h. Você pode conferir o convite novamente para obter mais informações.,80,0.2773,37.0281,0.6621,0.4948,0.6848,4.5,4.5,2.8,4.0
 16,"Ei, que horas começa o aniversário da Ana amanhã? Vi o convite mas não achei o horário.","Dado a seguinte mensagem: Ei, que horas começa o aniversário da Ana amanhã? Vi o convite mas não achei o horário.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1064,7 +1064,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Cordial,"Ei! O aniversário da Ana começa amanhã às 19h. Você pode ter perdido o horário no convite, mas não se preocupe, é fácil encontrar!",90,0.2773,37.0281,0.6621,0.4948,0.6848,4,5,5,5
+]",Cordial,"Ei! O aniversário da Ana começa amanhã às 19h. Você pode ter perdido o horário no convite, mas não se preocupe, é fácil encontrar!",90,0.2773,37.0281,0.6621,0.4948,0.6848,4.3,4.2,3.3,4.1
 16,"Ei, que horas começa o aniversário da Ana amanhã? Vi o convite mas não achei o horário.","Dado a seguinte mensagem: Ei, que horas começa o aniversário da Ana amanhã? Vi o convite mas não achei o horário.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1077,7 +1077,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Muito Direto,As 19h. É isso.,95,0.2773,37.0281,0.6621,0.4948,0.6848,4,5,5,5
+]",Muito Direto,As 19h. É isso.,95,0.2773,37.0281,0.6621,0.4948,0.6848,3.0,3.4,2.7,4.8
 16,"Ei, que horas começa o aniversário da Ana amanhã? Vi o convite mas não achei o horário.","Dado a seguinte mensagem: Ei, que horas começa o aniversário da Ana amanhã? Vi o convite mas não achei o horário.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1090,7 +1090,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Empático,"Ah, não se preocupe! Eu também perdi o horário no convite. O aniversário da Ana é amanhã às 19h. Vamos lá!",85,0.2773,37.0281,0.6621,0.4948,0.6848,4,5,5,5
+]",Empático,"Ah, não se preocupe! Eu também perdi o horário no convite. O aniversário da Ana é amanhã às 19h. Vamos lá!",85,0.2773,37.0281,0.6621,0.4948,0.6848,2.8,4.6,3.2,3.2
 16,"Ei, que horas começa o aniversário da Ana amanhã? Vi o convite mas não achei o horário.","Dado a seguinte mensagem: Ei, que horas começa o aniversário da Ana amanhã? Vi o convite mas não achei o horário.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1103,7 +1103,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Cômico,"Ahah, você perdeu o horário? Não se preocupe, eu mesma perdi o convite... e agora estou aqui, me lembrando que o aniversário da Ana é amanhã às 19h!",98,0.2773,37.0281,0.6621,0.4948,0.6848,4,5,5,3
+]",Cômico,"Ahah, você perdeu o horário? Não se preocupe, eu mesma perdi o convite... e agora estou aqui, me lembrando que o aniversário da Ana é amanhã às 19h!",98,0.2773,37.0281,0.6621,0.4948,0.6848,2.3,4.3,3.1,3.3
 17,"Oi, a viagem de van sai de onde exatamente? Não entendi direito no grupo.","Dado a seguinte mensagem: Oi, a viagem de van sai de onde exatamente? Não entendi direito no grupo.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1116,7 +1116,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",cordial,Olá! A viagem de van sai do posto de gasolina em frente ao shopping. Você pode perguntar no grupo se tiver alguma dúvida!,80,0.2568,45.4753,0.7302,0.4758,0.6723,5,5,5,5
+]",cordial,Olá! A viagem de van sai do posto de gasolina em frente ao shopping. Você pode perguntar no grupo se tiver alguma dúvida!,80,0.2568,45.4753,0.7302,0.4758,0.6723,4.6,4.5,2.7,4.7
 17,"Oi, a viagem de van sai de onde exatamente? Não entendi direito no grupo.","Dado a seguinte mensagem: Oi, a viagem de van sai de onde exatamente? Não entendi direito no grupo.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1129,7 +1129,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",formal,A informação de partida está mencionada no anúncio original do grupo. Você pode verificar novamente para obter a informação correta.,90,0.2568,45.4753,0.7302,0.4758,0.6723,5,5,5,5
+]",formal,A informação de partida está mencionada no anúncio original do grupo. Você pode verificar novamente para obter a informação correta.,90,0.2568,45.4753,0.7302,0.4758,0.6723,4.3,4.1,3.3,4.2
 17,"Oi, a viagem de van sai de onde exatamente? Não entendi direito no grupo.","Dado a seguinte mensagem: Oi, a viagem de van sai de onde exatamente? Não entendi direito no grupo.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1142,7 +1142,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",empático,"Não se preocupe se você não entendeu direito! A viagem de van sai do posto de gasolina na Avenida Principal. Se precisar de mais ajuda, basta perguntar!",70,0.2568,45.4753,0.7302,0.4758,0.6723,4,5,5,5
+]",empático,"Não se preocupe se você não entendeu direito! A viagem de van sai do posto de gasolina na Avenida Principal. Se precisar de mais ajuda, basta perguntar!",70,0.2568,45.4753,0.7302,0.4758,0.6723,2.1,4.7,3.1,3.2
 17,"Oi, a viagem de van sai de onde exatamente? Não entendi direito no grupo.","Dado a seguinte mensagem: Oi, a viagem de van sai de onde exatamente? Não entendi direito no grupo.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1155,7 +1155,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",direto,A partida está no posto de gasolina em frente ao shopping. Verifique no grupo se tiver alguma dúvida.,60,0.2568,45.4753,0.7302,0.4758,0.6723,4,5,5,4
+]",direto,A partida está no posto de gasolina em frente ao shopping. Verifique no grupo se tiver alguma dúvida.,60,0.2568,45.4753,0.7302,0.4758,0.6723,3.5,4.8,2.7,2.1
 17,"Oi, a viagem de van sai de onde exatamente? Não entendi direito no grupo.","Dado a seguinte mensagem: Oi, a viagem de van sai de onde exatamente? Não entendi direito no grupo.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1168,7 +1168,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",humorístico,"Ahah, não se preocupe! A viagem de van sai do posto de gasolina... ou pelo menos, é o que eu acho! Tá brincando, é bem no posto de gasolina em frente ao shopping, fácil de encontrar!",50,0.2568,45.4753,0.7302,0.4758,0.6723,4,5,5,5
+]",humorístico,"Ahah, não se preocupe! A viagem de van sai do posto de gasolina... ou pelo menos, é o que eu acho! Tá brincando, é bem no posto de gasolina em frente ao shopping, fácil de encontrar!",50,0.2568,45.4753,0.7302,0.4758,0.6723,2.4,4.5,2.7,2.9
 18,Você pode me explicar de novo como chega na sua casa? Me perdi nas últimas instruções.,"Dado a seguinte mensagem: Você pode me explicar de novo como chega na sua casa? Me perdi nas últimas instruções.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1181,7 +1181,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",formal,"Sim, é claro. Vou explicar de novo. Para chegar à sua casa, siga as seguintes instruções: ...",80%,0.2019,56.1582,0.7535,0.5508,0.7788,5,5,5,4
+]",formal,"Sim, é claro. Vou explicar de novo. Para chegar à sua casa, siga as seguintes instruções: ...",80%,0.2019,56.1582,0.7535,0.5508,0.7788,4.8,3.8,2.7,3.4
 18,Você pode me explicar de novo como chega na sua casa? Me perdi nas últimas instruções.,"Dado a seguinte mensagem: Você pode me explicar de novo como chega na sua casa? Me perdi nas últimas instruções.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1194,7 +1194,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,"Sim, vou explicar novamente. Vire à esquerda na próxima interseção e siga em frente por 3 quarteirões.",95%,0.2019,56.1582,0.7535,0.5508,0.7788,5,5,5,4
+]",curto e objetivo,"Sim, vou explicar novamente. Vire à esquerda na próxima interseção e siga em frente por 3 quarteirões.",95%,0.2019,56.1582,0.7535,0.5508,0.7788,4.2,4.6,3.1,2.0
 18,Você pode me explicar de novo como chega na sua casa? Me perdi nas últimas instruções.,"Dado a seguinte mensagem: Você pode me explicar de novo como chega na sua casa? Me perdi nas últimas instruções.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1207,7 +1207,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",cordial,Não se preocupe! Estou aqui para ajudar. Vou explicar de novo como chegar à sua casa. Você se lembra do parque que está logo ali? É bem fácil seguir as placas.,70%,0.2019,56.1582,0.7535,0.5508,0.7788,4,5,5,5
+]",cordial,Não se preocupe! Estou aqui para ajudar. Vou explicar de novo como chegar à sua casa. Você se lembra do parque que está logo ali? É bem fácil seguir as placas.,70%,0.2019,56.1582,0.7535,0.5508,0.7788,2.2,4.8,3.1,4.7
 18,Você pode me explicar de novo como chega na sua casa? Me perdi nas últimas instruções.,"Dado a seguinte mensagem: Você pode me explicar de novo como chega na sua casa? Me perdi nas últimas instruções.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1220,7 +1220,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",mais empático,"Eu entendo que você se perdeu! Isso pode ser um pouco estressante. Vou explicar de novo como chegar à sua casa e vou tentar ser mais claro desta vez. Vamos lá, vamos começar novamente...",60%,0.2019,56.1582,0.7535,0.5508,0.7788,5,5,5,5
+]",mais empático,"Eu entendo que você se perdeu! Isso pode ser um pouco estressante. Vou explicar de novo como chegar à sua casa e vou tentar ser mais claro desta vez. Vamos lá, vamos começar novamente...",60%,0.2019,56.1582,0.7535,0.5508,0.7788,4.4,4.4,3.0,3.2
 18,Você pode me explicar de novo como chega na sua casa? Me perdi nas últimas instruções.,"Dado a seguinte mensagem: Você pode me explicar de novo como chega na sua casa? Me perdi nas últimas instruções.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1233,7 +1233,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",mais direto,Vire à esquerda. Siga em frente por 2 quarteirões e vire à direita na próxima interseção. Sua casa está ali.,90%,0.2019,56.1582,0.7535,0.5508,0.7788,4,5,5,4
+]",mais direto,Vire à esquerda. Siga em frente por 2 quarteirões e vire à direita na próxima interseção. Sua casa está ali.,90%,0.2019,56.1582,0.7535,0.5508,0.7788,3.3,4.7,2.8,1.9
 19,"Só confirmando: a gente se encontra às 19h na frente do shopping, certo?","Dado a seguinte mensagem: Só confirmando: a gente se encontra às 19h na frente do shopping, certo?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1246,7 +1246,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",formal,"Sim, está confirmado. Estarei lá às 19h na frente do shopping.",80%,0.4283,21.1753,0.7918,0.4655,0.566,5,5,5,4
+]",formal,"Sim, está confirmado. Estarei lá às 19h na frente do shopping.",80%,0.4283,21.1753,0.7918,0.4655,0.566,4.5,3.7,3.0,3.0
 19,"Só confirmando: a gente se encontra às 19h na frente do shopping, certo?","Dado a seguinte mensagem: Só confirmando: a gente se encontra às 19h na frente do shopping, certo?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1259,7 +1259,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,"Confirmado, 19h na frente do shopping",90%,0.4283,21.1753,0.7918,0.4655,0.566,4,5,5,5
+]",curto e objetivo,"Confirmado, 19h na frente do shopping",90%,0.4283,21.1753,0.7918,0.4655,0.566,3.1,3.3,3.0,4.2
 19,"Só confirmando: a gente se encontra às 19h na frente do shopping, certo?","Dado a seguinte mensagem: Só confirmando: a gente se encontra às 19h na frente do shopping, certo?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1272,7 +1272,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",cordial,"Claro que sim! Estarei lá às 19h, na frente do shopping, pronta para a aventura!",70%,0.4283,21.1753,0.7918,0.4655,0.566,5,5,5,5
+]",cordial,"Claro que sim! Estarei lá às 19h, na frente do shopping, pronta para a aventura!",70%,0.4283,21.1753,0.7918,0.4655,0.566,4.5,3.8,3.2,4.0
 19,"Só confirmando: a gente se encontra às 19h na frente do shopping, certo?","Dado a seguinte mensagem: Só confirmando: a gente se encontra às 19h na frente do shopping, certo?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1285,7 +1285,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",mais empático,"Eu estou tão ansiosa para nos encontrar! Sim, estarei lá às 19h, na frente do shopping, esperando por você",60%,0.4283,21.1753,0.7918,0.4655,0.566,5,5,5,5
+]",mais empático,"Eu estou tão ansiosa para nos encontrar! Sim, estarei lá às 19h, na frente do shopping, esperando por você",60%,0.4283,21.1753,0.7918,0.4655,0.566,4.5,4.5,2.7,3.0
 19,"Só confirmando: a gente se encontra às 19h na frente do shopping, certo?","Dado a seguinte mensagem: Só confirmando: a gente se encontra às 19h na frente do shopping, certo?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1298,7 +1298,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",mais direto,"19h, na frente do shopping. Até lá",95%,0.4283,21.1753,0.7918,0.4655,0.566,4,5,5,5
+]",mais direto,"19h, na frente do shopping. Até lá",95%,0.4283,21.1753,0.7918,0.4655,0.566,3.5,3.5,2.8,4.6
 20,"Oi mãe, confirma pra mim se o almoço de domingo na vovó ainda tá de pé.","Dado a seguinte mensagem: Oi mãe, confirma pra mim se o almoço de domingo na vovó ainda tá de pé.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1311,7 +1311,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",formal,"Sim, o almoço de domingo na vovó está confirmado.",10,0.1341,26.3797,0.6676,0.6122,0.8409,5,5,5,4
+]",formal,"Sim, o almoço de domingo na vovó está confirmado.",10,0.1341,26.3797,0.6676,0.6122,0.8409,4.4,3.3,3.2,2.9
 20,"Oi mãe, confirma pra mim se o almoço de domingo na vovó ainda tá de pé.","Dado a seguinte mensagem: Oi mãe, confirma pra mim se o almoço de domingo na vovó ainda tá de pé.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1324,7 +1324,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,"Sim, tá marcado.",20,0.1341,26.3797,0.6676,0.6122,0.8409,5,5,5,5
+]",curto e objetivo,"Sim, tá marcado.",20,0.1341,26.3797,0.6676,0.6122,0.8409,4.9,3.6,2.8,4.4
 20,"Oi mãe, confirma pra mim se o almoço de domingo na vovó ainda tá de pé.","Dado a seguinte mensagem: Oi mãe, confirma pra mim se o almoço de domingo na vovó ainda tá de pé.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1337,7 +1337,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",cordial,Claro que tá! Estou muito ansiosa para ver vocês na vovó!,30,0.1341,26.3797,0.6676,0.6122,0.8409,5,5,5,5
+]",cordial,Claro que tá! Estou muito ansiosa para ver vocês na vovó!,30,0.1341,26.3797,0.6676,0.6122,0.8409,4.6,3.8,3.4,4.6
 20,"Oi mãe, confirma pra mim se o almoço de domingo na vovó ainda tá de pé.","Dado a seguinte mensagem: Oi mãe, confirma pra mim se o almoço de domingo na vovó ainda tá de pé.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1350,7 +1350,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",mais empático,"Parece que tudo está indo bem, então sim, o almoço de domingo ainda está confirmado. Você está ansioso para vir?",40,0.1341,26.3797,0.6676,0.6122,0.8409,5,5,5,4
+]",mais empático,"Parece que tudo está indo bem, então sim, o almoço de domingo ainda está confirmado. Você está ansioso para vir?",40,0.1341,26.3797,0.6676,0.6122,0.8409,4.1,4.6,2.9,2.8
 20,"Oi mãe, confirma pra mim se o almoço de domingo na vovó ainda tá de pé.","Dado a seguinte mensagem: Oi mãe, confirma pra mim se o almoço de domingo na vovó ainda tá de pé.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1363,7 +1363,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",mais direto,"Vai ter almoço na vovó, domingo.",90,0.1341,26.3797,0.6676,0.6122,0.8409,4,5,5,5
+]",mais direto,"Vai ter almoço na vovó, domingo.",90,0.1341,26.3797,0.6676,0.6122,0.8409,3.5,3.5,2.7,4.8
 21,Pode confirmar se você vai dormir aqui em casa hoje? Preciso saber pra preparar o quarto.,"Dado a seguinte mensagem: Pode confirmar se você vai dormir aqui em casa hoje? Preciso saber pra preparar o quarto.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1376,7 +1376,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Formal,"Sim, estou previsto para dormir aqui em casa hoje. Obrigado por antecipar e preparar o quarto.",80%,0.1722,40.2611,0.6282,0.5783,0.8462,5,5,5,4
+]",Formal,"Sim, estou previsto para dormir aqui em casa hoje. Obrigado por antecipar e preparar o quarto.",80%,0.1722,40.2611,0.6282,0.5783,0.8462,4.2,3.8,3.2,3.2
 21,Pode confirmar se você vai dormir aqui em casa hoje? Preciso saber pra preparar o quarto.,"Dado a seguinte mensagem: Pode confirmar se você vai dormir aqui em casa hoje? Preciso saber pra preparar o quarto.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1389,7 +1389,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Cordial,"Claro, estou voltando hoje! Vou me deitar logo que chegar, então não precisa se preocupar em me esperar.",90%,0.1722,40.2611,0.6282,0.5783,0.8462,4,5,5,5
+]",Cordial,"Claro, estou voltando hoje! Vou me deitar logo que chegar, então não precisa se preocupar em me esperar.",90%,0.1722,40.2611,0.6282,0.5783,0.8462,4.7,4.3,3.1,4.1
 21,Pode confirmar se você vai dormir aqui em casa hoje? Preciso saber pra preparar o quarto.,"Dado a seguinte mensagem: Pode confirmar se você vai dormir aqui em casa hoje? Preciso saber pra preparar o quarto.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1402,7 +1402,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Mais Direto,"Sim, vou dormir aqui. Pode preparar o quarto.",95%,0.1722,40.2611,0.6282,0.5783,0.8462,5,5,5,5
+]",Mais Direto,"Sim, vou dormir aqui. Pode preparar o quarto.",95%,0.1722,40.2611,0.6282,0.5783,0.8462,4.1,3.6,3.2,2.3
 21,Pode confirmar se você vai dormir aqui em casa hoje? Preciso saber pra preparar o quarto.,"Dado a seguinte mensagem: Pode confirmar se você vai dormir aqui em casa hoje? Preciso saber pra preparar o quarto.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1415,7 +1415,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Mais Empático,"Sim, estou muito cansado e vou dormir aqui em casa hoje. Se precisar me ajudar a carregar as coisas, basta me chamar.",85%,0.1722,40.2611,0.6282,0.5783,0.8462,5,5,5,5
+]",Mais Empático,"Sim, estou muito cansado e vou dormir aqui em casa hoje. Se precisar me ajudar a carregar as coisas, basta me chamar.",85%,0.1722,40.2611,0.6282,0.5783,0.8462,4.8,4.8,3.0,3.3
 21,Pode confirmar se você vai dormir aqui em casa hoje? Preciso saber pra preparar o quarto.,"Dado a seguinte mensagem: Pode confirmar se você vai dormir aqui em casa hoje? Preciso saber pra preparar o quarto.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1428,7 +1428,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Humorístico,"Sim, estou dormindo aqui hoje! E, sim, é por falta de motivação, não por falta de amor por você.",70%,0.1722,40.2611,0.6282,0.5783,0.8462,4,5,5,5
+]",Humorístico,"Sim, estou dormindo aqui hoje! E, sim, é por falta de motivação, não por falta de amor por você.",70%,0.1722,40.2611,0.6282,0.5783,0.8462,4.5,3.3,2.9,2.8
 22,"Ei, não vou conseguir te encontrar hoje como combinado. Pode ser amanhã no mesmo horário?","Dado a seguinte mensagem: Ei, não vou conseguir te encontrar hoje como combinado. Pode ser amanhã no mesmo horário?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1441,7 +1441,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Formal,Agradeço a sua comunicação antecipada. Estou disponível amanhã no mesmo horário. Obrigado.,80%,0.1314,49.227,0.477,0.6591,0.9157,4,5,5,4
+]",Formal,Agradeço a sua comunicação antecipada. Estou disponível amanhã no mesmo horário. Obrigado.,80%,0.1314,49.227,0.477,0.6591,0.9157,3.3,3.2,3.4,2.9
 22,"Ei, não vou conseguir te encontrar hoje como combinado. Pode ser amanhã no mesmo horário?","Dado a seguinte mensagem: Ei, não vou conseguir te encontrar hoje como combinado. Pode ser amanhã no mesmo horário?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1454,7 +1454,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Cordial,"Sinto muito que não possamos nos encontrar hoje! O que tal nos agendarmos para amanhã, mesmo horário? Estou ansioso para conversar.",70%,0.1314,49.227,0.477,0.6591,0.9157,4,5,5,5
+]",Cordial,"Sinto muito que não possamos nos encontrar hoje! O que tal nos agendarmos para amanhã, mesmo horário? Estou ansioso para conversar.",70%,0.1314,49.227,0.477,0.6591,0.9157,2.7,4.5,3.2,4.5
 22,"Ei, não vou conseguir te encontrar hoje como combinado. Pode ser amanhã no mesmo horário?","Dado a seguinte mensagem: Ei, não vou conseguir te encontrar hoje como combinado. Pode ser amanhã no mesmo horário?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1467,7 +1467,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Empático,"Entendo que coisas imprevistas podem acontecer. Não se preocupe, podemos reschedule para amanhã. Você está bem?",90%,0.1314,49.227,0.477,0.6591,0.9157,4,5,5,4
+]",Empático,"Entendo que coisas imprevistas podem acontecer. Não se preocupe, podemos reschedule para amanhã. Você está bem?",90%,0.1314,49.227,0.477,0.6591,0.9157,4.7,4.8,3.2,2.7
 22,"Ei, não vou conseguir te encontrar hoje como combinado. Pode ser amanhã no mesmo horário?","Dado a seguinte mensagem: Ei, não vou conseguir te encontrar hoje como combinado. Pode ser amanhã no mesmo horário?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1480,7 +1480,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Direto,"Não vai ser possível hoje, mas posso me encontrar com você amanhã no mesmo horário. Tudo bem?",60%,0.1314,49.227,0.477,0.6591,0.9157,4,5,5,4
+]",Direto,"Não vai ser possível hoje, mas posso me encontrar com você amanhã no mesmo horário. Tudo bem?",60%,0.1314,49.227,0.477,0.6591,0.9157,4.6,3.3,2.7,2.5
 22,"Ei, não vou conseguir te encontrar hoje como combinado. Pode ser amanhã no mesmo horário?","Dado a seguinte mensagem: Ei, não vou conseguir te encontrar hoje como combinado. Pode ser amanhã no mesmo horário?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1493,7 +1493,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Humorístico,"Acho que o destino decidiu que hoje não é o nosso dia. Como dizem, 'segunda vez é sempre melhor'! Estou disponível amanhã.",40%,0.1314,49.227,0.477,0.6591,0.9157,4,5,5,5
+]",Humorístico,"Acho que o destino decidiu que hoje não é o nosso dia. Como dizem, 'segunda vez é sempre melhor'! Estou disponível amanhã.",40%,0.1314,49.227,0.477,0.6591,0.9157,2.2,4.2,3.3,3.0
 23,"Oi! Preciso remarcar nosso almoço de quinta, surgiu um imprevisto aqui em casa.","Dado a seguinte mensagem: Oi! Preciso remarcar nosso almoço de quinta, surgiu um imprevisto aqui em casa.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1506,7 +1506,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Formal,Entendo que houve um imprevisto. Vamos marcar um novo horário para o almoço de quinta-feira.,30,0.1097,46.1938,0.4739,0.6625,0.9467,4,5,5,4
+]",Formal,Entendo que houve um imprevisto. Vamos marcar um novo horário para o almoço de quinta-feira.,30,0.1097,46.1938,0.4739,0.6625,0.9467,3.1,3.7,3.2,3.3
 23,"Oi! Preciso remarcar nosso almoço de quinta, surgiu um imprevisto aqui em casa.","Dado a seguinte mensagem: Oi! Preciso remarcar nosso almoço de quinta, surgiu um imprevisto aqui em casa.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1519,7 +1519,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Cordial,"Ah, não é ótimo? Mas não se preocupe, vamos remarcar para outra data, sim?",50,0.1097,46.1938,0.4739,0.6625,0.9467,4,5,5,4
+]",Cordial,"Ah, não é ótimo? Mas não se preocupe, vamos remarcar para outra data, sim?",50,0.1097,46.1938,0.4739,0.6625,0.9467,4.5,3.6,2.9,2.8
 23,"Oi! Preciso remarcar nosso almoço de quinta, surgiu um imprevisto aqui em casa.","Dado a seguinte mensagem: Oi! Preciso remarcar nosso almoço de quinta, surgiu um imprevisto aqui em casa.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1532,7 +1532,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Empático,"Ei, tudo bem! Imprevistos acontecem. Vamos encontrar um novo horário que caia melhor para você. Quanto mais cedo você sabe, melhor!",60,0.1097,46.1938,0.4739,0.6625,0.9467,4,5,5,5
+]",Empático,"Ei, tudo bem! Imprevistos acontecem. Vamos encontrar um novo horário que caia melhor para você. Quanto mais cedo você sabe, melhor!",60,0.1097,46.1938,0.4739,0.6625,0.9467,3.1,4.4,2.9,3.0
 23,"Oi! Preciso remarcar nosso almoço de quinta, surgiu um imprevisto aqui em casa.","Dado a seguinte mensagem: Oi! Preciso remarcar nosso almoço de quinta, surgiu um imprevisto aqui em casa.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1545,7 +1545,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Direto,"Remarca para segunda-feira, está bem?",20,0.1097,46.1938,0.4739,0.6625,0.9467,4,5,5,5
+]",Direto,"Remarca para segunda-feira, está bem?",20,0.1097,46.1938,0.4739,0.6625,0.9467,2.8,3.9,3.1,4.8
 23,"Oi! Preciso remarcar nosso almoço de quinta, surgiu um imprevisto aqui em casa.","Dado a seguinte mensagem: Oi! Preciso remarcar nosso almoço de quinta, surgiu um imprevisto aqui em casa.
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1558,7 +1558,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Humorístico,"Ah, o imprevisto! O novo amigo da família. Vamos remarcar para quando você estiver pronto, ou melhor, quando a sua casa estiver pronta!",10,0.1097,46.1938,0.4739,0.6625,0.9467,4,5,5,5
+]",Humorístico,"Ah, o imprevisto! O novo amigo da família. Vamos remarcar para quando você estiver pronto, ou melhor, quando a sua casa estiver pronta!",10,0.1097,46.1938,0.4739,0.6625,0.9467,3.4,4.4,3.2,2.9
 24,Não vou conseguir devolver seu livro essa semana. Posso te trazer na semana que vem?,"Dado a seguinte mensagem: Não vou conseguir devolver seu livro essa semana. Posso te trazer na semana que vem?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1571,7 +1571,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Formal,"Prezado/a [nome], estou escrevendo para informar que não estarei em condições de devolver o livro em questão durante a semana. Por gentileza, posso agendar uma entrega para a semana que vem?",80%,0.2587,57.5887,0.6597,0.5274,0.7872,4,5,5,5
+]",Formal,"Prezado/a [nome], estou escrevendo para informar que não estarei em condições de devolver o livro em questão durante a semana. Por gentileza, posso agendar uma entrega para a semana que vem?",80%,0.2587,57.5887,0.6597,0.5274,0.7872,4.6,1.4,4.0,4.4
 24,Não vou conseguir devolver seu livro essa semana. Posso te trazer na semana que vem?,"Dado a seguinte mensagem: Não vou conseguir devolver seu livro essa semana. Posso te trazer na semana que vem?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1584,7 +1584,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Cordial,"Olá! Desculpe a demora, mas estou enfrentando alguns problemas para devolver o livro. Poderia me trazer na semana que vem? Teria muito prazer em devolver-lhe pessoalmente.",70%,0.2587,57.5887,0.6597,0.5274,0.7872,5,5,5,5
+]",Cordial,"Olá! Desculpe a demora, mas estou enfrentando alguns problemas para devolver o livro. Poderia me trazer na semana que vem? Teria muito prazer em devolver-lhe pessoalmente.",70%,0.2587,57.5887,0.6597,0.5274,0.7872,4.5,4.4,3.9,4.3
 24,Não vou conseguir devolver seu livro essa semana. Posso te trazer na semana que vem?,"Dado a seguinte mensagem: Não vou conseguir devolver seu livro essa semana. Posso te trazer na semana que vem?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1597,7 +1597,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Empático,"Sinto muito, mas estou passando por um momento difícil e não estou conseguindo devolver o livro tão cedo. Estou ansioso para entregá-lo a você assim que possível. Poderia aguardar até próxima semana?",90%,0.2587,57.5887,0.6597,0.5274,0.7872,4,5,5,5
+]",Empático,"Sinto muito, mas estou passando por um momento difícil e não estou conseguindo devolver o livro tão cedo. Estou ansioso para entregá-lo a você assim que possível. Poderia aguardar até próxima semana?",90%,0.2587,57.5887,0.6597,0.5274,0.7872,4.5,4.2,4.1,3.2
 24,Não vou conseguir devolver seu livro essa semana. Posso te trazer na semana que vem?,"Dado a seguinte mensagem: Não vou conseguir devolver seu livro essa semana. Posso te trazer na semana que vem?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1610,7 +1610,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Mais Direto,Não vou conseguir devolver o livro essa semana. Preciso de mais tempo para resolver alguns problemas. Podemos marcar para a semana que vem?,60%,0.2587,57.5887,0.6597,0.5274,0.7872,4,5,5,4
+]",Mais Direto,Não vou conseguir devolver o livro essa semana. Preciso de mais tempo para resolver alguns problemas. Podemos marcar para a semana que vem?,60%,0.2587,57.5887,0.6597,0.5274,0.7872,4.5,4.1,4.1,1.9
 24,Não vou conseguir devolver seu livro essa semana. Posso te trazer na semana que vem?,"Dado a seguinte mensagem: Não vou conseguir devolver seu livro essa semana. Posso te trazer na semana que vem?
 Gere 5 rascunhos de resposta MUITO diferentes entre si.
 Evite repetir palavras, estruturas de frase ou abordagens entre as respostas.
@@ -1623,4 +1623,4 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato:
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}},
   {{""tom"": ""*"", ""probabilidade"": *, ""resposta"": ""texto aqui""}}
-]",Muito Amigável,"Oi, amiga! Desculpe a demora, mas estou trabalhando em algo urgente e não estou conseguindo devolver o livro. Vamos marcar para a semana que vem? Posso até te trazer um café!",95%,0.2587,57.5887,0.6597,0.5274,0.7872,4,5,5,5
+]",Muito Amigável,"Oi, amiga! Desculpe a demora, mas estou trabalhando em algo urgente e não estou conseguindo devolver o livro. Vamos marcar para a semana que vem? Posso até te trazer um café!",95%,0.2587,57.5887,0.6597,0.5274,0.7872,4.7,4.6,4.5,4.2

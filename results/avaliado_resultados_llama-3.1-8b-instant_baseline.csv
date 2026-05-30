@@ -7,7 +7,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Formal,"Claro, ficarei feliz em emprestar meu carregador. Por favor, me avisa quando você precisar devolver.",100,0.1353,36.7711,0.3478,0.6935,0.8947,5,5,5,5
+]",Formal,"Claro, ficarei feliz em emprestar meu carregador. Por favor, me avisa quando você precisar devolver.",100,0.1353,36.7711,0.3478,0.6935,0.8947,4.7,3.8,4.3,4.4
 0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.","Produza 5 respostas para a seguinte mensagem: Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -16,7 +16,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Curto e Objetivo,"Pode pegar meu carregador, está no seu lugar.",100,0.1353,36.7711,0.3478,0.6935,0.8947,5,5,5,5
+]",Curto e Objetivo,"Pode pegar meu carregador, está no seu lugar.",100,0.1353,36.7711,0.3478,0.6935,0.8947,4.6,3.2,3.8,2.3
 0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.","Produza 5 respostas para a seguinte mensagem: Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -25,7 +25,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Cordial,"Claro, amor! Pegue meu carregador, estou aqui para ajudar.",100,0.1353,36.7711,0.3478,0.6935,0.8947,5,5,5,5
+]",Cordial,"Claro, amor! Pegue meu carregador, estou aqui para ajudar.",100,0.1353,36.7711,0.3478,0.6935,0.8947,4.5,3.5,4.2,4.6
 0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.","Produza 5 respostas para a seguinte mensagem: Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -34,7 +34,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Mais Empático,"Ah, que infelicidade! Claro que posso emprestar meu carregador. Você precisa carregar o celular para fazer o que precisa fazer?",100,0.1353,36.7711,0.3478,0.6935,0.8947,5,5,5,5
+]",Mais Empático,"Ah, que infelicidade! Claro que posso emprestar meu carregador. Você precisa carregar o celular para fazer o que precisa fazer?",100,0.1353,36.7711,0.3478,0.6935,0.8947,4.3,4.6,4.2,2.8
 0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.","Produza 5 respostas para a seguinte mensagem: Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -43,7 +43,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Mais Direto,"Pegue meu carregador, mas lembre-se de devolvê-lo logo!",100,0.1353,36.7711,0.3478,0.6935,0.8947,4,5,5,5
+]",Mais Direto,"Pegue meu carregador, mas lembre-se de devolvê-lo logo!",100,0.1353,36.7711,0.3478,0.6935,0.8947,3.5,3.5,4.1,2.5
 1,Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.,"Produza 5 respostas para a seguinte mensagem: Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -52,7 +52,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,"Lamento, mas não mencionei nenhum filme específico ontem. Porém, posso sugerir alguns filmes populares disponíveis em plataformas de streaming. Qual gênero você está interessado?",100,0.3436,38.4828,0.843,0.4312,0.6442,4,5,5,5
+]",formal,"Lamento, mas não mencionei nenhum filme específico ontem. Porém, posso sugerir alguns filmes populares disponíveis em plataformas de streaming. Qual gênero você está interessado?",100,0.3436,38.4828,0.843,0.4312,0.6442,4.7,4.9,3.2,4.3
 1,Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.,"Produza 5 respostas para a seguinte mensagem: Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -61,7 +61,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,Não mencionei nenhum filme ontem. Qual tipo de filme você está procurando?,100,0.3436,38.4828,0.843,0.4312,0.6442,4,5,5,5
+]",curto e objetivo,Não mencionei nenhum filme ontem. Qual tipo de filme você está procurando?,100,0.3436,38.4828,0.843,0.4312,0.6442,2.4,3.2,2.9,2.1
 1,Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.,"Produza 5 respostas para a seguinte mensagem: Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -70,7 +70,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,"Olá! Não mencionei nenhum filme específico ontem, mas posso ajudar a encontrar um que você goste! Qual é o seu gênero favorito?",100,0.3436,38.4828,0.843,0.4312,0.6442,4,5,5,5
+]",cordial,"Olá! Não mencionei nenhum filme específico ontem, mas posso ajudar a encontrar um que você goste! Qual é o seu gênero favorito?",100,0.3436,38.4828,0.843,0.4312,0.6442,4.4,4.3,3.3,4.2
 1,Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.,"Produza 5 respostas para a seguinte mensagem: Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -79,7 +79,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,"Entendo que você está ansioso para assistir a um filme! Infelizmente, não mencionei nenhum filme ontem. Porém, posso sugerir alguns filmes populares que você pode gostar. Qual é o seu estilo de filme favorito?",100,0.3436,38.4828,0.843,0.4312,0.6442,4,5,5,5
+]",mais empático,"Entendo que você está ansioso para assistir a um filme! Infelizmente, não mencionei nenhum filme ontem. Porém, posso sugerir alguns filmes populares que você pode gostar. Qual é o seu estilo de filme favorito?",100,0.3436,38.4828,0.843,0.4312,0.6442,4.2,4.3,3.3,2.9
 1,Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.,"Produza 5 respostas para a seguinte mensagem: Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -88,7 +88,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,"Não mencionei nenhum filme ontem. Se você gostaria, posso sugerir alguns filmes disponíveis em plataformas de streaming.",100,0.3436,38.4828,0.843,0.4312,0.6442,4,5,5,4
+]",mais direto,"Não mencionei nenhum filme ontem. Se você gostaria, posso sugerir alguns filmes disponíveis em plataformas de streaming.",100,0.3436,38.4828,0.843,0.4312,0.6442,4.7,4.6,3.0,2.0
 2,Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.,"Produza 5 respostas para a seguinte mensagem: Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -97,7 +97,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Formal,"Claro, ficarei feliz em pegar sua encomenda nos Correios. Por favor, forneça-me o número da encomenda e o endereço onde você gostaria que eu a retirasse.",100,0.3277,39.7256,0.8407,0.4359,0.6161,5,5,5,5
+]",Formal,"Claro, ficarei feliz em pegar sua encomenda nos Correios. Por favor, forneça-me o número da encomenda e o endereço onde você gostaria que eu a retirasse.",100,0.3277,39.7256,0.8407,0.4359,0.6161,4.1,4.1,2.6,4.3
 2,Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.,"Produza 5 respostas para a seguinte mensagem: Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -106,7 +106,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Curto e objetivo,"Sim, eu posso pegar sua encomenda. Qual é o número da encomenda?",100,0.3277,39.7256,0.8407,0.4359,0.6161,5,5,5,5
+]",Curto e objetivo,"Sim, eu posso pegar sua encomenda. Qual é o número da encomenda?",100,0.3277,39.7256,0.8407,0.4359,0.6161,4.2,3.2,3.0,2.6
 2,Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.,"Produza 5 respostas para a seguinte mensagem: Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -115,7 +115,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Cordial,Claro que sim! Eu vou pegar sua encomenda com prazer. Obrigado por me deixar saber. Qual é o número da encomenda?,100,0.3277,39.7256,0.8407,0.4359,0.6161,5,5,5,5
+]",Cordial,Claro que sim! Eu vou pegar sua encomenda com prazer. Obrigado por me deixar saber. Qual é o número da encomenda?,100,0.3277,39.7256,0.8407,0.4359,0.6161,4.5,4.2,2.8,4.6
 2,Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.,"Produza 5 respostas para a seguinte mensagem: Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -124,7 +124,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Mais empático,"Não se preocupe, eu estou aqui para ajudar! Você está tendo um dia cansativo, e eu posso pegar sua encomenda nos Correios para você. Por favor, forneça-me o número da encomenda e eu me encarrego do resto.",100,0.3277,39.7256,0.8407,0.4359,0.6161,4,5,5,5
+]",Mais empático,"Não se preocupe, eu estou aqui para ajudar! Você está tendo um dia cansativo, e eu posso pegar sua encomenda nos Correios para você. Por favor, forneça-me o número da encomenda e eu me encarrego do resto.",100,0.3277,39.7256,0.8407,0.4359,0.6161,4.6,4.5,3.2,3.0
 2,Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.,"Produza 5 respostas para a seguinte mensagem: Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -133,7 +133,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Mais direto,Vou pegar sua encomenda. Preciso do número da encomenda e o endereço onde você gostaria que eu a retirasse.,100,0.3277,39.7256,0.8407,0.4359,0.6161,4,5,5,4
+]",Mais direto,Vou pegar sua encomenda. Preciso do número da encomenda e o endereço onde você gostaria que eu a retirasse.,100,0.3277,39.7256,0.8407,0.4359,0.6161,3.6,4.5,2.7,2.2
 0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.","Produza 5 respostas para a seguinte mensagem: Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -142,7 +142,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Formal,"Peço desculpas, mas não posso emprestar meu carregador. Você pode considerar comprar um novo ou procurar um amigo que possa te ajudar.",100,0.163,61.5381,0.4911,0.6202,0.8871,4,5,5,4
+]",Formal,"Peço desculpas, mas não posso emprestar meu carregador. Você pode considerar comprar um novo ou procurar um amigo que possa te ajudar.",100,0.163,61.5381,0.4911,0.6202,0.8871,4.6,4.2,4.3,4.6
 0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.","Produza 5 respostas para a seguinte mensagem: Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -151,7 +151,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Cordial,"Ah, que triste! Claro que posso te emprestar meu carregador. Por que não pega ele em casa e traz para cá para que possamos trocar?",100,0.163,61.5381,0.4911,0.6202,0.8871,4,5,5,5
+]",Cordial,"Ah, que triste! Claro que posso te emprestar meu carregador. Por que não pega ele em casa e traz para cá para que possamos trocar?",100,0.163,61.5381,0.4911,0.6202,0.8871,4.2,4.2,4.2,4.1
 0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.","Produza 5 respostas para a seguinte mensagem: Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -160,7 +160,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Empático,"Não se preocupe com o carregador! Eu sei como é quando precisa usar o celular de urgência. Podes pegar meu carregador, mas fique tranquilo, eu posso te ajudar a encontrar outro no futuro.",100,0.163,61.5381,0.4911,0.6202,0.8871,4,5,5,5
+]",Empático,"Não se preocupe com o carregador! Eu sei como é quando precisa usar o celular de urgência. Podes pegar meu carregador, mas fique tranquilo, eu posso te ajudar a encontrar outro no futuro.",100,0.163,61.5381,0.4911,0.6202,0.8871,4.9,4.8,4.2,3.0
 0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.","Produza 5 respostas para a seguinte mensagem: Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -169,7 +169,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Direto,"Vou emprestar meu carregador, mas precisa voltar para mim assim que puder. Estou precisando dele para o meu próprio celular.",100,0.163,61.5381,0.4911,0.6202,0.8871,5,5,5,4
+]",Direto,"Vou emprestar meu carregador, mas precisa voltar para mim assim que puder. Estou precisando dele para o meu próprio celular.",100,0.163,61.5381,0.4911,0.6202,0.8871,4.9,4.2,4.6,1.9
 0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.","Produza 5 respostas para a seguinte mensagem: Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -178,7 +178,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Humorístico,"Ahah, que sorte você ter quebrado o carregador agora! Claro que posso te emprestar meu, mas promete-me que vai cuidar dele melhor do que você cuidou do seu... ",100,0.163,61.5381,0.4911,0.6202,0.8871,5,5,5,5
+]",Humorístico,"Ahah, que sorte você ter quebrado o carregador agora! Claro que posso te emprestar meu, mas promete-me que vai cuidar dele melhor do que você cuidou do seu... ",100,0.163,61.5381,0.4911,0.6202,0.8871,4.5,4.3,4.1,3.2
 1,Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.,"Produza 5 respostas para a seguinte mensagem: Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -187,7 +187,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,"Infelizmente, não tenho o link do filme que mencionei ontem. Você pode verificar em meu calendário ou entrar em contato comigo novamente para mais informações.",100,0.1987,36.4311,0.6902,0.5517,0.7927,4,5,5,5
+]",formal,"Infelizmente, não tenho o link do filme que mencionei ontem. Você pode verificar em meu calendário ou entrar em contato comigo novamente para mais informações.",100,0.1987,36.4311,0.6902,0.5517,0.7927,4.4,4.5,3.3,4.5
 1,Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.,"Produza 5 respostas para a seguinte mensagem: Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -196,7 +196,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,Link do filme: [link aqui],100,0.1987,36.4311,0.6902,0.5517,0.7927,4,5,5,5
+]",curto e objetivo,Link do filme: [link aqui],100,0.1987,36.4311,0.6902,0.5517,0.7927,3.0,1.4,2.8,4.7
 1,Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.,"Produza 5 respostas para a seguinte mensagem: Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -205,7 +205,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,Olá! Eu acho que você se refere ao filme que mencionei ontem. Vou te mandar um link rapidinho. Aqui está: [link aqui],100,0.1987,36.4311,0.6902,0.5517,0.7927,4,5,5,5
+]",cordial,Olá! Eu acho que você se refere ao filme que mencionei ontem. Vou te mandar um link rapidinho. Aqui está: [link aqui],100,0.1987,36.4311,0.6902,0.5517,0.7927,3.0,1.1,2.9,4.1
 1,Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.,"Produza 5 respostas para a seguinte mensagem: Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -214,7 +214,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,"Ah, você quer assistir ao filme que mencionei ontem? Eu entendo que você está ansiosa para assistir! Aqui está o link: [link aqui]. Espero que você tenha uma ótima noite!",100,0.1987,36.4311,0.6902,0.5517,0.7927,4,5,5,5
+]",mais empático,"Ah, você quer assistir ao filme que mencionei ontem? Eu entendo que você está ansiosa para assistir! Aqui está o link: [link aqui]. Espero que você tenha uma ótima noite!",100,0.1987,36.4311,0.6902,0.5517,0.7927,3.4,1.2,2.9,3.3
 1,Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.,"Produza 5 respostas para a seguinte mensagem: Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -223,7 +223,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,Filme: [link aqui]. Vai assistir!,100,0.1987,36.4311,0.6902,0.5517,0.7927,4,5,5,5
+]",mais direto,Filme: [link aqui]. Vai assistir!,100,0.1987,36.4311,0.6902,0.5517,0.7927,3.3,1.1,2.9,4.7
 2,Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.,"Produza 5 respostas para a seguinte mensagem: Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -232,7 +232,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,"Infelizmente, não posso pegar sua encomenda nos Correios por você. Você pode considerar solicitar ajuda a alguém de confiança ou verificar se há opções de entrega expressa disponíveis.",100,0.4081,41.4021,0.8473,0.3786,0.5852,4,5,5,5
+]",formal,"Infelizmente, não posso pegar sua encomenda nos Correios por você. Você pode considerar solicitar ajuda a alguém de confiança ou verificar se há opções de entrega expressa disponíveis.",100,0.4081,41.4021,0.8473,0.3786,0.5852,4.9,4.5,2.6,3.9
 2,Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.,"Produza 5 respostas para a seguinte mensagem: Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -241,7 +241,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,Não posso ajudar com a encomenda hoje. Você pode verificar se há opções de entrega expressa disponíveis.,100,0.4081,41.4021,0.8473,0.3786,0.5852,4,5,5,4
+]",curto e objetivo,Não posso ajudar com a encomenda hoje. Você pode verificar se há opções de entrega expressa disponíveis.,100,0.4081,41.4021,0.8473,0.3786,0.5852,4.1,4.9,2.9,2.2
 2,Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.,"Produza 5 respostas para a seguinte mensagem: Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -250,7 +250,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,"Entendo que você não vai conseguir sair hoje! Eu não posso pegar sua encomenda pessoalmente, mas você pode considerar pedir ajuda a um amigo ou familiar que esteja disponível.",100,0.4081,41.4021,0.8473,0.3786,0.5852,4,5,5,5
+]",cordial,"Entendo que você não vai conseguir sair hoje! Eu não posso pegar sua encomenda pessoalmente, mas você pode considerar pedir ajuda a um amigo ou familiar que esteja disponível.",100,0.4081,41.4021,0.8473,0.3786,0.5852,4.5,4.4,2.7,4.5
 2,Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.,"Produza 5 respostas para a seguinte mensagem: Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -259,7 +259,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,"Sinto muito que você não consiga sair hoje! Eu não posso pegar sua encomenda pessoalmente, mas posso tentar ajudar a encontrar uma solução. Você pode verificar se há opções de entrega expressa disponíveis ou se há alguém que possa ajudar a receber a encomenda.",100,0.4081,41.4021,0.8473,0.3786,0.5852,4,5,5,5
+]",mais empático,"Sinto muito que você não consiga sair hoje! Eu não posso pegar sua encomenda pessoalmente, mas posso tentar ajudar a encontrar uma solução. Você pode verificar se há opções de entrega expressa disponíveis ou se há alguém que possa ajudar a receber a encomenda.",100,0.4081,41.4021,0.8473,0.3786,0.5852,4.8,4.8,3.4,2.7
 2,Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.,"Produza 5 respostas para a seguinte mensagem: Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -268,7 +268,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,Não posso pegar sua encomenda. Você precisa verificar se há opções de entrega expressa disponíveis ou pedir ajuda a alguém de confiança.,100,0.4081,41.4021,0.8473,0.3786,0.5852,4,5,5,4
+]",mais direto,Não posso pegar sua encomenda. Você precisa verificar se há opções de entrega expressa disponíveis ou pedir ajuda a alguém de confiança.,100,0.4081,41.4021,0.8473,0.3786,0.5852,4.4,4.2,3.1,2.5
 3,Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina.,"Produza 5 respostas para a seguinte mensagem: Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -277,7 +277,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,"Sim, posso te dar uma carona até a faculdade amanhã de manhã. Qual é o horário exato que você precisa chegar?",100,0.246,32.2791,0.8225,0.5,0.6575,5,5,5,5
+]",formal,"Sim, posso te dar uma carona até a faculdade amanhã de manhã. Qual é o horário exato que você precisa chegar?",100,0.246,32.2791,0.8225,0.5,0.6575,4.9,4.2,2.8,4.4
 3,Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina.,"Produza 5 respostas para a seguinte mensagem: Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -286,7 +286,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,"Sim, posso te levar. Quer que eu te pegue às 8h?",100,0.246,32.2791,0.8225,0.5,0.6575,5,5,5,5
+]",curto e objetivo,"Sim, posso te levar. Quer que eu te pegue às 8h?",100,0.246,32.2791,0.8225,0.5,0.6575,4.4,3.4,3.0,2.0
 3,Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina.,"Produza 5 respostas para a seguinte mensagem: Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -295,7 +295,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,"Claro, posso te dar uma carona! Qual é o melhor horário para você?",100,0.246,32.2791,0.8225,0.5,0.6575,5,5,5,5
+]",cordial,"Claro, posso te dar uma carona! Qual é o melhor horário para você?",100,0.246,32.2791,0.8225,0.5,0.6575,4.6,3.1,3.0,4.3
 3,Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina.,"Produza 5 respostas para a seguinte mensagem: Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -304,7 +304,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,Sinto muito que seu carro esteja na oficina! Claro que posso te levar até a faculdade. Quer que eu te pegue às 7h30?,100,0.246,32.2791,0.8225,0.5,0.6575,5,5,5,5
+]",mais empático,Sinto muito que seu carro esteja na oficina! Claro que posso te levar até a faculdade. Quer que eu te pegue às 7h30?,100,0.246,32.2791,0.8225,0.5,0.6575,4.7,4.6,2.7,3.0
 3,Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina.,"Produza 5 respostas para a seguinte mensagem: Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -313,7 +313,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,Vou te levar. Quer que eu te pegue às 8h?,100,0.246,32.2791,0.8225,0.5,0.6575,4,5,5,5
+]",mais direto,Vou te levar. Quer que eu te pegue às 8h?,100,0.246,32.2791,0.8225,0.5,0.6575,3.2,3.7,2.8,2.3
 4,"Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?","Produza 5 respostas para a seguinte mensagem: Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -322,7 +322,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Formal,Lamento qualquer confusão. Eu posso verificar a conta do almoço da semana passada e verificar a situação. Poderei fornecer uma resposta mais precisa sobre o pagamento dentro de 24 horas.,100,0.1989,48.6613,0.7491,0.5,0.7339,5,5,2,4
+]",Formal,Lamento qualquer confusão. Eu posso verificar a conta do almoço da semana passada e verificar a situação. Poderei fornecer uma resposta mais precisa sobre o pagamento dentro de 24 horas.,100,0.1989,48.6613,0.7491,0.5,0.7339,4.8,4.7,1.3,2.8
 4,"Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?","Produza 5 respostas para a seguinte mensagem: Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -331,7 +331,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Curto e objetivo,"Eu vou pagar você o dinheiro da semana passada logo, prometo.",100,0.1989,48.6613,0.7491,0.5,0.7339,4,5,5,5
+]",Curto e objetivo,"Eu vou pagar você o dinheiro da semana passada logo, prometo.",100,0.1989,48.6613,0.7491,0.5,0.7339,3.2,3.4,4.3,2.5
 4,"Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?","Produza 5 respostas para a seguinte mensagem: Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -340,7 +340,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Cordial,"Desculpe por perder a conta do almoço! Eu vou pagar você assim que possível, mas preciso verificar a conta para ter certeza do valor.",100,0.1989,48.6613,0.7491,0.5,0.7339,5,5,2,5
+]",Cordial,"Desculpe por perder a conta do almoço! Eu vou pagar você assim que possível, mas preciso verificar a conta para ter certeza do valor.",100,0.1989,48.6613,0.7491,0.5,0.7339,4.1,4.2,1.6,4.3
 4,"Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?","Produza 5 respostas para a seguinte mensagem: Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -349,7 +349,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Mais empático,Lamento qualquer desconforto que isso possa ter causado. Eu posso entender que você precisa do dinheiro e vou pagar você o quanto antes. Posso verificar a situação e fornecer uma resposta mais precisa dentro de 24 horas.,100,0.1989,48.6613,0.7491,0.5,0.7339,5,5,5,4
+]",Mais empático,Lamento qualquer desconforto que isso possa ter causado. Eu posso entender que você precisa do dinheiro e vou pagar você o quanto antes. Posso verificar a situação e fornecer uma resposta mais precisa dentro de 24 horas.,100,0.1989,48.6613,0.7491,0.5,0.7339,4.1,4.8,4.1,3.1
 4,"Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?","Produza 5 respostas para a seguinte mensagem: Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -358,7 +358,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Mais direto,Paguei o almoço da semana passada. Você não precisa me pagar nada.,100,0.1989,48.6613,0.7491,0.5,0.7339,4,5,2,5
+]",Mais direto,Paguei o almoço da semana passada. Você não precisa me pagar nada.,100,0.1989,48.6613,0.7491,0.5,0.7339,2.9,3.3,1.8,2.3
 0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.","Produza 5 respostas para a seguinte mensagem: Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -367,7 +367,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Formal,Pode me informar quantos dias você precisará do carregador? Vou verificar se posso liberá-lo para você.,100,0.1665,36.9118,0.5792,0.6286,0.8923,5,5,5,5
+]",Formal,Pode me informar quantos dias você precisará do carregador? Vou verificar se posso liberá-lo para você.,100,0.1665,36.9118,0.5792,0.6286,0.8923,4.9,4.8,4.2,4.1
 0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.","Produza 5 respostas para a seguinte mensagem: Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -376,7 +376,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Curto e Objetivo,Não tenho carregador para emprestar.,100,0.1665,36.9118,0.5792,0.6286,0.8923,4,5,5,5
+]",Curto e Objetivo,Não tenho carregador para emprestar.,100,0.1665,36.9118,0.5792,0.6286,0.8923,2.2,3.1,3.9,5.0
 0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.","Produza 5 respostas para a seguinte mensagem: Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -385,7 +385,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Cordial,Claro que posso te emprestar meu carregador! Você pode passar aqui e pegá-lo.,100,0.1665,36.9118,0.5792,0.6286,0.8923,5,5,5,5
+]",Cordial,Claro que posso te emprestar meu carregador! Você pode passar aqui e pegá-lo.,100,0.1665,36.9118,0.5792,0.6286,0.8923,4.1,3.1,4.3,4.4
 0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.","Produza 5 respostas para a seguinte mensagem: Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -394,7 +394,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Mais Empático,"Ah, que infelicidade! Meu carregador está em reparo, mas posso te recomendar um ótimo lugar para comprar um novo.",100,0.1665,36.9118,0.5792,0.6286,0.8923,5,5,5,5
+]",Mais Empático,"Ah, que infelicidade! Meu carregador está em reparo, mas posso te recomendar um ótimo lugar para comprar um novo.",100,0.1665,36.9118,0.5792,0.6286,0.8923,4.2,4.1,4.3,3.3
 0,"Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora.","Produza 5 respostas para a seguinte mensagem: Oi, você pode me emprestar seu carregador? O meu quebrou e preciso carregar o celular agora., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -403,7 +403,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Mais Direto,"Não, não posso te emprestar meu carregador. Vou precisar dele para o meu próprio celular.",100,0.1665,36.9118,0.5792,0.6286,0.8923,4,5,5,4
+]",Mais Direto,"Não, não posso te emprestar meu carregador. Vou precisar dele para o meu próprio celular.",100,0.1665,36.9118,0.5792,0.6286,0.8923,4.4,3.9,4.1,2.0
 1,Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.,"Produza 5 respostas para a seguinte mensagem: Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -412,7 +412,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,"Infelizmente, não tenho acesso a links de filmes em específico. No entanto, posso sugerir que você procure o título do filme no seu serviço de streaming favorito ou em uma plataforma de busca de filmes.",100,0.2295,48.6084,0.757,0.4692,0.76,4,5,5,5
+]",formal,"Infelizmente, não tenho acesso a links de filmes em específico. No entanto, posso sugerir que você procure o título do filme no seu serviço de streaming favorito ou em uma plataforma de busca de filmes.",100,0.2295,48.6084,0.757,0.4692,0.76,4.6,4.9,2.6,4.4
 1,Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.,"Produza 5 respostas para a seguinte mensagem: Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -421,7 +421,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,"Não tenho o link, mas você pode procurar o filme no seu serviço de streaming favorito.",100,0.2295,48.6084,0.757,0.4692,0.76,4,5,5,4
+]",curto e objetivo,"Não tenho o link, mas você pode procurar o filme no seu serviço de streaming favorito.",100,0.2295,48.6084,0.757,0.4692,0.76,4.8,3.4,3.3,2.1
 1,Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.,"Produza 5 respostas para a seguinte mensagem: Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -430,7 +430,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,"Olá! Eu não mencionei especificamente um filme ontem, mas posso ajudar a encontrar um que você goste. Qual gênero de filme você está procurando?",100,0.2295,48.6084,0.757,0.4692,0.76,4,5,5,5
+]",cordial,"Olá! Eu não mencionei especificamente um filme ontem, mas posso ajudar a encontrar um que você goste. Qual gênero de filme você está procurando?",100,0.2295,48.6084,0.757,0.4692,0.76,4.5,4.3,3.2,4.2
 1,Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.,"Produza 5 respostas para a seguinte mensagem: Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -439,7 +439,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,"Sinto muito que você não consiga encontrar o link do filme que eu mencionei ontem. Se você me fornecer mais informações sobre o filme, posso tentar ajudar a encontrar informações sobre ele.",100,0.2295,48.6084,0.757,0.4692,0.76,4,5,5,5
+]",mais empático,"Sinto muito que você não consiga encontrar o link do filme que eu mencionei ontem. Se você me fornecer mais informações sobre o filme, posso tentar ajudar a encontrar informações sobre ele.",100,0.2295,48.6084,0.757,0.4692,0.76,4.4,4.3,3.3,2.8
 1,Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite.,"Produza 5 respostas para a seguinte mensagem: Me manda o link daquele filme que você falou ontem? Quero assistir hoje à noite., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -448,7 +448,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,Não tenho o link do filme. Você precisa procurar por ele nos serviços de streaming ou em uma plataforma de busca de filmes.,100,0.2295,48.6084,0.757,0.4692,0.76,4,5,5,4
+]",mais direto,Não tenho o link do filme. Você precisa procurar por ele nos serviços de streaming ou em uma plataforma de busca de filmes.,100,0.2295,48.6084,0.757,0.4692,0.76,2.4,4.4,3.0,1.8
 2,Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.,"Produza 5 respostas para a seguinte mensagem: Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -457,7 +457,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,"Claro, posso pegar sua encomenda nos Correios. Qual é o número da encomenda?",100,0.4048,26.0865,0.7777,0.4583,0.6119,5,5,5,4
+]",formal,"Claro, posso pegar sua encomenda nos Correios. Qual é o número da encomenda?",100,0.4048,26.0865,0.7777,0.4583,0.6119,4.3,3.7,3.1,3.0
 2,Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.,"Produza 5 respostas para a seguinte mensagem: Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -466,7 +466,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,Pego a encomenda. Qual é o número dela?,100,0.4048,26.0865,0.7777,0.4583,0.6119,4,5,5,5
+]",curto e objetivo,Pego a encomenda. Qual é o número dela?,100,0.4048,26.0865,0.7777,0.4583,0.6119,3.4,3.4,3.2,2.1
 2,Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.,"Produza 5 respostas para a seguinte mensagem: Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -475,7 +475,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,"Não precisa se preocupar, posso pegar a encomenda para você! Qual é o número dela?",100,0.4048,26.0865,0.7777,0.4583,0.6119,4,5,5,5
+]",cordial,"Não precisa se preocupar, posso pegar a encomenda para você! Qual é o número dela?",100,0.4048,26.0865,0.7777,0.4583,0.6119,4.7,3.3,2.8,4.4
 2,Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.,"Produza 5 respostas para a seguinte mensagem: Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -484,7 +484,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,Sinto muito que você não consiga sair hoje. Posso pegar a encomenda nos Correios e entregá-la para você assim que possível. Qual é o número dela?,100,0.4048,26.0865,0.7777,0.4583,0.6119,4,5,5,5
+]",mais empático,Sinto muito que você não consiga sair hoje. Posso pegar a encomenda nos Correios e entregá-la para você assim que possível. Qual é o número dela?,100,0.4048,26.0865,0.7777,0.4583,0.6119,4.9,4.3,2.7,2.7
 2,Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje.,"Produza 5 respostas para a seguinte mensagem: Você pode pegar minha encomenda nos Correios pra mim? Não vou conseguir sair hoje., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -493,7 +493,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,Vou pegar a encomenda. Qual é o número dela?,100,0.4048,26.0865,0.7777,0.4583,0.6119,4,5,5,5
+]",mais direto,Vou pegar a encomenda. Qual é o número dela?,100,0.4048,26.0865,0.7777,0.4583,0.6119,3.5,3.6,3.0,1.8
 3,Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina.,"Produza 5 respostas para a seguinte mensagem: Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -502,7 +502,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,"Claro, posso te dar uma carona até a faculdade amanhã de manhã. Qual é o horário que você precisa ser lá?",100,0.378,33.9548,0.838,0.4118,0.4845,5,5,5,5
+]",formal,"Claro, posso te dar uma carona até a faculdade amanhã de manhã. Qual é o horário que você precisa ser lá?",100,0.378,33.9548,0.838,0.4118,0.4845,4.2,4.9,2.9,4.6
 3,Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina.,"Produza 5 respostas para a seguinte mensagem: Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -511,7 +511,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,"Sim, posso te levar. Qual é o horário?",100,0.378,33.9548,0.838,0.4118,0.4845,5,5,5,5
+]",curto e objetivo,"Sim, posso te levar. Qual é o horário?",100,0.378,33.9548,0.838,0.4118,0.4845,4.5,3.7,3.1,2.4
 3,Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina.,"Produza 5 respostas para a seguinte mensagem: Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -520,7 +520,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,Que bom que você está passando por essa situação difícil! Claro que posso te dar uma carona até a faculdade amanhã de manhã. Qual é o horário que você precisa ser lá?,100,0.378,33.9548,0.838,0.4118,0.4845,5,5,5,5
+]",cordial,Que bom que você está passando por essa situação difícil! Claro que posso te dar uma carona até a faculdade amanhã de manhã. Qual é o horário que você precisa ser lá?,100,0.378,33.9548,0.838,0.4118,0.4845,4.6,4.4,2.9,4.4
 3,Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina.,"Produza 5 respostas para a seguinte mensagem: Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -529,7 +529,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,Sinto muito que seu carro esteja na oficina. Estou aqui para ajudar! Claro que posso te dar uma carona até a faculdade amanhã de manhã. Qual é o horário que você precisa ser lá?,100,0.378,33.9548,0.838,0.4118,0.4845,5,5,5,5
+]",mais empático,Sinto muito que seu carro esteja na oficina. Estou aqui para ajudar! Claro que posso te dar uma carona até a faculdade amanhã de manhã. Qual é o horário que você precisa ser lá?,100,0.378,33.9548,0.838,0.4118,0.4845,4.2,4.6,2.9,3.0
 3,Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina.,"Produza 5 respostas para a seguinte mensagem: Consegue me dar uma carona até a faculdade amanhã de manhã? Meu carro tá na oficina., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -538,7 +538,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,Vou te levar. Qual é o horário?,100,0.378,33.9548,0.838,0.4118,0.4845,4,5,5,5
+]",mais direto,Vou te levar. Qual é o horário?,100,0.378,33.9548,0.838,0.4118,0.4845,3.1,3.6,3.2,4.6
 4,"Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?","Produza 5 respostas para a seguinte mensagem: Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -547,7 +547,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,Eu me esqueci de pagar o almoço da semana passada. Vou enviar o valor para você assim que possível.,100,0.2793,32.7139,0.7112,0.4881,0.6835,5,5,2,5
+]",formal,Eu me esqueci de pagar o almoço da semana passada. Vou enviar o valor para você assim que possível.,100,0.2793,32.7139,0.7112,0.4881,0.6835,4.4,3.4,1.6,4.1
 4,"Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?","Produza 5 respostas para a seguinte mensagem: Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -556,7 +556,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,"Paguei o almoço da semana passada, você não lembra?",100,0.2793,32.7139,0.7112,0.4881,0.6835,4,5,2,5
+]",curto e objetivo,"Paguei o almoço da semana passada, você não lembra?",100,0.2793,32.7139,0.7112,0.4881,0.6835,2.8,3.7,1.4,1.9
 4,"Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?","Produza 5 respostas para a seguinte mensagem: Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -565,7 +565,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,Desculpe a demora em pagar o almoço da semana passada! Vou mandar o valor para você assim que posso.,100,0.2793,32.7139,0.7112,0.4881,0.6835,5,5,2,5
+]",cordial,Desculpe a demora em pagar o almoço da semana passada! Vou mandar o valor para você assim que posso.,100,0.2793,32.7139,0.7112,0.4881,0.6835,4.2,3.5,1.6,4.3
 4,"Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?","Produza 5 respostas para a seguinte mensagem: Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -574,7 +574,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,Eu me sinto muito mal por não ter pago o almoço da semana passada ainda. Você pode me perdoar? Vou enviar o valor assim que possível.,100,0.2793,32.7139,0.7112,0.4881,0.6835,4,5,2,5
+]",mais empático,Eu me sinto muito mal por não ter pago o almoço da semana passada ainda. Você pode me perdoar? Vou enviar o valor assim que possível.,100,0.2793,32.7139,0.7112,0.4881,0.6835,4.8,4.5,1.1,2.6
 4,"Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?","Produza 5 respostas para a seguinte mensagem: Ei, você lembra que me deve aquele dinheiro do almoço da semana passada? Quando consegue me pagar?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -583,7 +583,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,"Eu sei que você me deve dinheiro, vou pagar agora mesmo.",100,0.2793,32.7139,0.7112,0.4881,0.6835,4,5,5,5
+]",mais direto,"Eu sei que você me deve dinheiro, vou pagar agora mesmo.",100,0.2793,32.7139,0.7112,0.4881,0.6835,3.1,3.1,4.0,2.4
 5,"Oi, cadê o livro que te emprestei? Faz um tempão que tá com você.","Produza 5 respostas para a seguinte mensagem: Oi, cadê o livro que te emprestei? Faz um tempão que tá com você., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -592,7 +592,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,"Eu sinto muito, mas não posso encontrar o livro que você emprestou. Posso procurar mais uma vez?",100,0.1598,41.3155,0.665,0.6154,0.7808,4,5,5,5
+]",formal,"Eu sinto muito, mas não posso encontrar o livro que você emprestou. Posso procurar mais uma vez?",100,0.1598,41.3155,0.665,0.6154,0.7808,4.7,3.1,3.9,4.1
 5,"Oi, cadê o livro que te emprestei? Faz um tempão que tá com você.","Produza 5 respostas para a seguinte mensagem: Oi, cadê o livro que te emprestei? Faz um tempão que tá com você., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -601,7 +601,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,"Esqueci, vou procurar",100,0.1598,41.3155,0.665,0.6154,0.7808,4,5,2,5
+]",curto e objetivo,"Esqueci, vou procurar",100,0.1598,41.3155,0.665,0.6154,0.7808,3.1,3.8,1.5,4.7
 5,"Oi, cadê o livro que te emprestei? Faz um tempão que tá com você.","Produza 5 respostas para a seguinte mensagem: Oi, cadê o livro que te emprestei? Faz um tempão que tá com você., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -610,7 +610,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,"Olá! Desculpe a demora, mas estou procurando o livro que você emprestou. Vou verificar novamente e te devolver logo",100,0.1598,41.3155,0.665,0.6154,0.7808,4,5,5,5
+]",cordial,"Olá! Desculpe a demora, mas estou procurando o livro que você emprestou. Vou verificar novamente e te devolver logo",100,0.1598,41.3155,0.665,0.6154,0.7808,3.0,4.2,4.3,4.3
 5,"Oi, cadê o livro que te emprestei? Faz um tempão que tá com você.","Produza 5 respostas para a seguinte mensagem: Oi, cadê o livro que te emprestei? Faz um tempão que tá com você., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -619,7 +619,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,"Ah, eu sinto muito! Percebi que esqueci o livro que você emprestou. Vou procurar imediatamente e te devolver com um pouco de pressa. É só me dizer se precisar de mais alguma coisa",100,0.1598,41.3155,0.665,0.6154,0.7808,4,5,5,5
+]",mais empático,"Ah, eu sinto muito! Percebi que esqueci o livro que você emprestou. Vou procurar imediatamente e te devolver com um pouco de pressa. É só me dizer se precisar de mais alguma coisa",100,0.1598,41.3155,0.665,0.6154,0.7808,3.1,4.5,4.4,2.8
 5,"Oi, cadê o livro que te emprestei? Faz um tempão que tá com você.","Produza 5 respostas para a seguinte mensagem: Oi, cadê o livro que te emprestei? Faz um tempão que tá com você., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -628,7 +628,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,"Vou procurar o livro agora, aguarde",100,0.1598,41.3155,0.665,0.6154,0.7808,4,5,5,5
+]",mais direto,"Vou procurar o livro agora, aguarde",100,0.1598,41.3155,0.665,0.6154,0.7808,3.3,3.2,4.0,4.7
 6,Você viu minha mensagem de ontem? Tô esperando sua parte do trabalho da faculdade desde segunda.,"Produza 5 respostas para a seguinte mensagem: Você viu minha mensagem de ontem? Tô esperando sua parte do trabalho da faculdade desde segunda., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -637,7 +637,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,"Sim, recebi sua mensagem. Estou trabalhando no meu parte do trabalho e a entregarei assim que possível.",100,0.3373,37.8305,0.7153,0.5,0.6517,5,5,5,4
+]",formal,"Sim, recebi sua mensagem. Estou trabalhando no meu parte do trabalho e a entregarei assim que possível.",100,0.3373,37.8305,0.7153,0.5,0.6517,4.7,4.9,3.3,3.1
 6,Você viu minha mensagem de ontem? Tô esperando sua parte do trabalho da faculdade desde segunda.,"Produza 5 respostas para a seguinte mensagem: Você viu minha mensagem de ontem? Tô esperando sua parte do trabalho da faculdade desde segunda., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -646,7 +646,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,"Sim, vi sua mensagem. Estou trabalhando no meu parte, entrega logo.",100,0.3373,37.8305,0.7153,0.5,0.6517,5,5,5,5
+]",curto e objetivo,"Sim, vi sua mensagem. Estou trabalhando no meu parte, entrega logo.",100,0.3373,37.8305,0.7153,0.5,0.6517,4.9,3.2,3.0,2.1
 6,Você viu minha mensagem de ontem? Tô esperando sua parte do trabalho da faculdade desde segunda.,"Produza 5 respostas para a seguinte mensagem: Você viu minha mensagem de ontem? Tô esperando sua parte do trabalho da faculdade desde segunda., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -655,7 +655,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,"Olá! Sim, recebi sua mensagem. Estou trabalhando duro para entregar o meu parte do trabalho da faculdade até o final da semana.",100,0.3373,37.8305,0.7153,0.5,0.6517,5,5,5,5
+]",cordial,"Olá! Sim, recebi sua mensagem. Estou trabalhando duro para entregar o meu parte do trabalho da faculdade até o final da semana.",100,0.3373,37.8305,0.7153,0.5,0.6517,4.5,4.4,3.0,4.0
 6,Você viu minha mensagem de ontem? Tô esperando sua parte do trabalho da faculdade desde segunda.,"Produza 5 respostas para a seguinte mensagem: Você viu minha mensagem de ontem? Tô esperando sua parte do trabalho da faculdade desde segunda., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -664,7 +664,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,Sinto muito que você esteja esperando! Recebi sua mensagem e estou trabalhando no meu parte do trabalho. Vou me esforçar para entregá-lo o mais rápido possível.,100,0.3373,37.8305,0.7153,0.5,0.6517,4,5,5,5
+]",mais empático,Sinto muito que você esteja esperando! Recebi sua mensagem e estou trabalhando no meu parte do trabalho. Vou me esforçar para entregá-lo o mais rápido possível.,100,0.3373,37.8305,0.7153,0.5,0.6517,3.3,4.8,2.6,3.2
 6,Você viu minha mensagem de ontem? Tô esperando sua parte do trabalho da faculdade desde segunda.,"Produza 5 respostas para a seguinte mensagem: Você viu minha mensagem de ontem? Tô esperando sua parte do trabalho da faculdade desde segunda., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -673,7 +673,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,"Sim, vi sua mensagem. Estou trabalhando no meu parte, mas preciso de mais um dia para entregar.",100,0.3373,37.8305,0.7153,0.5,0.6517,5,5,5,4
+]",mais direto,"Sim, vi sua mensagem. Estou trabalhando no meu parte, mas preciso de mais um dia para entregar.",100,0.3373,37.8305,0.7153,0.5,0.6517,4.8,3.3,2.7,2.5
 7,"Oi! Vi que você me chamou pra festa de sábado, mas não vou conseguir ir dessa vez.","Produza 5 respostas para a seguinte mensagem: Oi! Vi que você me chamou pra festa de sábado, mas não vou conseguir ir dessa vez., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -682,7 +682,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Formal,"Obrigado por me ter convidado, mas infelizmente não posso comparecer à festa de sábado. Espero que tudo ocorra bem.",100,0.2805,39.699,0.6322,0.6024,0.7564,4,5,5,4
+]",Formal,"Obrigado por me ter convidado, mas infelizmente não posso comparecer à festa de sábado. Espero que tudo ocorra bem.",100,0.2805,39.699,0.6322,0.6024,0.7564,4.8,4.6,2.8,3.3
 7,"Oi! Vi que você me chamou pra festa de sábado, mas não vou conseguir ir dessa vez.","Produza 5 respostas para a seguinte mensagem: Oi! Vi que você me chamou pra festa de sábado, mas não vou conseguir ir dessa vez., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -691,7 +691,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Curto e objetivo,"Não posso ir à festa de sábado, desculpa.",100,0.2805,39.699,0.6322,0.6024,0.7564,4,5,5,5
+]",Curto e objetivo,"Não posso ir à festa de sábado, desculpa.",100,0.2805,39.699,0.6322,0.6024,0.7564,4.1,3.4,3.2,2.4
 7,"Oi! Vi que você me chamou pra festa de sábado, mas não vou conseguir ir dessa vez.","Produza 5 respostas para a seguinte mensagem: Oi! Vi que você me chamou pra festa de sábado, mas não vou conseguir ir dessa vez., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -700,7 +700,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Cordial,"Sinto muito, mas não vou poder ir à festa de sábado. Espero que possamos se encontrar em breve.",100,0.2805,39.699,0.6322,0.6024,0.7564,4,5,5,5
+]",Cordial,"Sinto muito, mas não vou poder ir à festa de sábado. Espero que possamos se encontrar em breve.",100,0.2805,39.699,0.6322,0.6024,0.7564,4.2,3.2,3.3,3.4
 7,"Oi! Vi que você me chamou pra festa de sábado, mas não vou conseguir ir dessa vez.","Produza 5 respostas para a seguinte mensagem: Oi! Vi que você me chamou pra festa de sábado, mas não vou conseguir ir dessa vez., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -709,7 +709,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Mais empático,Eu estou tão desapontado que você não pôde vir à festa de sábado! Mas entendo que coisas inesperadas acontecem. Vamos marcar uma nova data para nos encontrar.,100,0.2805,39.699,0.6322,0.6024,0.7564,4,5,5,5
+]",Mais empático,Eu estou tão desapontado que você não pôde vir à festa de sábado! Mas entendo que coisas inesperadas acontecem. Vamos marcar uma nova data para nos encontrar.,100,0.2805,39.699,0.6322,0.6024,0.7564,2.8,4.6,2.7,2.6
 7,"Oi! Vi que você me chamou pra festa de sábado, mas não vou conseguir ir dessa vez.","Produza 5 respostas para a seguinte mensagem: Oi! Vi que você me chamou pra festa de sábado, mas não vou conseguir ir dessa vez., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -718,7 +718,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Mais direto,"Não posso ir à festa de sábado, é impossível. Tudo bem?",100,0.2805,39.699,0.6322,0.6024,0.7564,4,5,5,5
+]",Mais direto,"Não posso ir à festa de sábado, é impossível. Tudo bem?",100,0.2805,39.699,0.6322,0.6024,0.7564,4.9,3.8,3.0,2.5
 8,"Obrigado por me chamar pra jogar bola domingo, mas tô muito cansado essa semana.","Produza 5 respostas para a seguinte mensagem: Obrigado por me chamar pra jogar bola domingo, mas tô muito cansado essa semana., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -727,7 +727,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,"Agradeço a preferência, mas infelizmente não estou em condições de jogar bola domingo.",100,0.237,36.7788,0.6749,0.6286,0.8154,4,5,5,4
+]",formal,"Agradeço a preferência, mas infelizmente não estou em condições de jogar bola domingo.",100,0.237,36.7788,0.6749,0.6286,0.8154,2.5,3.2,3.3,3.1
 8,"Obrigado por me chamar pra jogar bola domingo, mas tô muito cansado essa semana.","Produza 5 respostas para a seguinte mensagem: Obrigado por me chamar pra jogar bola domingo, mas tô muito cansado essa semana., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -736,7 +736,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,"Estou muito cansado, não posso jogar.",100,0.237,36.7788,0.6749,0.6286,0.8154,4,5,5,5
+]",curto e objetivo,"Estou muito cansado, não posso jogar.",100,0.237,36.7788,0.6749,0.6286,0.8154,4.7,3.2,2.9,4.6
 8,"Obrigado por me chamar pra jogar bola domingo, mas tô muito cansado essa semana.","Produza 5 respostas para a seguinte mensagem: Obrigado por me chamar pra jogar bola domingo, mas tô muito cansado essa semana., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -745,7 +745,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,"Obrigado por pensar em mim, mas estou muito exausto para jogar bola domingo. Talvez outra semana?",100,0.237,36.7788,0.6749,0.6286,0.8154,4,5,5,4
+]",cordial,"Obrigado por pensar em mim, mas estou muito exausto para jogar bola domingo. Talvez outra semana?",100,0.237,36.7788,0.6749,0.6286,0.8154,3.1,3.2,2.7,2.9
 8,"Obrigado por me chamar pra jogar bola domingo, mas tô muito cansado essa semana.","Produza 5 respostas para a seguinte mensagem: Obrigado por me chamar pra jogar bola domingo, mas tô muito cansado essa semana., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -754,7 +754,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,"Entendo que você esteja animado para jogar, mas estou realmente muito cansado e precisando de um descanso. Vamos marcar outra vez quando eu estiver mais descansado.",100,0.237,36.7788,0.6749,0.6286,0.8154,4,5,5,4
+]",mais empático,"Entendo que você esteja animado para jogar, mas estou realmente muito cansado e precisando de um descanso. Vamos marcar outra vez quando eu estiver mais descansado.",100,0.237,36.7788,0.6749,0.6286,0.8154,3.1,4.8,3.0,3.4
 8,"Obrigado por me chamar pra jogar bola domingo, mas tô muito cansado essa semana.","Produza 5 respostas para a seguinte mensagem: Obrigado por me chamar pra jogar bola domingo, mas tô muito cansado essa semana., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -763,7 +763,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,"Não posso jogar bola domingo, estou muito cansado. Tchau.",100,0.237,36.7788,0.6749,0.6286,0.8154,4,5,5,5
+]",mais direto,"Não posso jogar bola domingo, estou muito cansado. Tchau.",100,0.237,36.7788,0.6749,0.6286,0.8154,4.6,3.2,3.4,2.2
 9,"Não vou conseguir ajudar na mudança no final de semana, já tenho compromisso com minha família.","Produza 5 respostas para a seguinte mensagem: Não vou conseguir ajudar na mudança no final de semana, já tenho compromisso com minha família., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -772,7 +772,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Formal,"Lamento, mas não poderei ajudar na mudança no final de semana. Terei um compromisso familiar inadiável.",100,0.4512,33.5749,0.8243,0.4421,0.5556,4,5,5,4
+]",Formal,"Lamento, mas não poderei ajudar na mudança no final de semana. Terei um compromisso familiar inadiável.",100,0.4512,33.5749,0.8243,0.4421,0.5556,4.1,4.2,4.4,3.2
 9,"Não vou conseguir ajudar na mudança no final de semana, já tenho compromisso com minha família.","Produza 5 respostas para a seguinte mensagem: Não vou conseguir ajudar na mudança no final de semana, já tenho compromisso com minha família., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -781,7 +781,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Curto e objetivo,Não posso ajudar na mudança no final de semana. Tenho compromisso com a família.,100,0.4512,33.5749,0.8243,0.4421,0.5556,4,5,5,5
+]",Curto e objetivo,Não posso ajudar na mudança no final de semana. Tenho compromisso com a família.,100,0.4512,33.5749,0.8243,0.4421,0.5556,4.5,3.4,4.4,1.8
 9,"Não vou conseguir ajudar na mudança no final de semana, já tenho compromisso com minha família.","Produza 5 respostas para a seguinte mensagem: Não vou conseguir ajudar na mudança no final de semana, já tenho compromisso com minha família., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -790,7 +790,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Cordial,"Peço desculpas, mas não poderei ajudar na mudança no final de semana. Meu tempo está comprometido com a família.",100,0.4512,33.5749,0.8243,0.4421,0.5556,4,5,5,5
+]",Cordial,"Peço desculpas, mas não poderei ajudar na mudança no final de semana. Meu tempo está comprometido com a família.",100,0.4512,33.5749,0.8243,0.4421,0.5556,4.5,4.8,4.4,3.0
 9,"Não vou conseguir ajudar na mudança no final de semana, já tenho compromisso com minha família.","Produza 5 respostas para a seguinte mensagem: Não vou conseguir ajudar na mudança no final de semana, já tenho compromisso com minha família., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -799,7 +799,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Mais empático,"Entendo que você precisa da minha ajuda, mas lamento dizer que não poderei ajudar na mudança no final de semana. Terei um compromisso familiar importante e não quero deixar ninguém para trás.",100,0.4512,33.5749,0.8243,0.4421,0.5556,4,5,5,5
+]",Mais empático,"Entendo que você precisa da minha ajuda, mas lamento dizer que não poderei ajudar na mudança no final de semana. Terei um compromisso familiar importante e não quero deixar ninguém para trás.",100,0.4512,33.5749,0.8243,0.4421,0.5556,4.5,4.8,4.5,3.1
 9,"Não vou conseguir ajudar na mudança no final de semana, já tenho compromisso com minha família.","Produza 5 respostas para a seguinte mensagem: Não vou conseguir ajudar na mudança no final de semana, já tenho compromisso com minha família., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -808,7 +808,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Mais direto,Não posso ajudar na mudança. Tenho compromisso com a família no final de semana.,100,0.4512,33.5749,0.8243,0.4421,0.5556,4,5,5,5
+]",Mais direto,Não posso ajudar na mudança. Tenho compromisso com a família no final de semana.,100,0.4512,33.5749,0.8243,0.4421,0.5556,4.6,3.6,4.3,1.9
 10,Muito obrigado por ter ficado comigo no hospital ontem. Significou muito ter você por perto.,"Produza 5 respostas para a seguinte mensagem: Muito obrigado por ter ficado comigo no hospital ontem. Significou muito ter você por perto., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -817,7 +817,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,Estou grato por ter podido estar com você ontem no hospital. Espero que você esteja se sentindo melhor agora.,100,0.1606,39.5398,0.6217,0.5663,0.8205,4,5,5,5
+]",formal,Estou grato por ter podido estar com você ontem no hospital. Espero que você esteja se sentindo melhor agora.,100,0.1606,39.5398,0.6217,0.5663,0.8205,3.5,4.5,2.9,4.5
 10,Muito obrigado por ter ficado comigo no hospital ontem. Significou muito ter você por perto.,"Produza 5 respostas para a seguinte mensagem: Muito obrigado por ter ficado comigo no hospital ontem. Significou muito ter você por perto., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -826,7 +826,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,"De nada, fiquei feliz em estar lá.",100,0.1606,39.5398,0.6217,0.5663,0.8205,4,5,5,5
+]",curto e objetivo,"De nada, fiquei feliz em estar lá.",100,0.1606,39.5398,0.6217,0.5663,0.8205,2.9,3.5,3.2,4.6
 10,Muito obrigado por ter ficado comigo no hospital ontem. Significou muito ter você por perto.,"Produza 5 respostas para a seguinte mensagem: Muito obrigado por ter ficado comigo no hospital ontem. Significou muito ter você por perto., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -835,7 +835,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,Muito obrigado por ter apoiado! Fiquei muito feliz em estar por perto.,100,0.1606,39.5398,0.6217,0.5663,0.8205,4,5,5,5
+]",cordial,Muito obrigado por ter apoiado! Fiquei muito feliz em estar por perto.,100,0.1606,39.5398,0.6217,0.5663,0.8205,3.6,3.3,2.9,4.3
 10,Muito obrigado por ter ficado comigo no hospital ontem. Significou muito ter você por perto.,"Produza 5 respostas para a seguinte mensagem: Muito obrigado por ter ficado comigo no hospital ontem. Significou muito ter você por perto., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -844,7 +844,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,"Estou grato por ter podido estar com você ontem no hospital. Lembre-se de que você não está sozinho, estamos aqui para apoiar você em momentos difíceis.",100,0.1606,39.5398,0.6217,0.5663,0.8205,4,5,5,4
+]",mais empático,"Estou grato por ter podido estar com você ontem no hospital. Lembre-se de que você não está sozinho, estamos aqui para apoiar você em momentos difíceis.",100,0.1606,39.5398,0.6217,0.5663,0.8205,2.7,4.6,2.9,2.7
 10,Muito obrigado por ter ficado comigo no hospital ontem. Significou muito ter você por perto.,"Produza 5 respostas para a seguinte mensagem: Muito obrigado por ter ficado comigo no hospital ontem. Significou muito ter você por perto., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -853,7 +853,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,"Nossa, você estava passando mal ontem! Estou feliz que tenha se recuperado e que eu tenha podido ajudar.",100,0.1606,39.5398,0.6217,0.5663,0.8205,4,5,5,4
+]",mais direto,"Nossa, você estava passando mal ontem! Estou feliz que tenha se recuperado e que eu tenha podido ajudar.",100,0.1606,39.5398,0.6217,0.5663,0.8205,2.8,4.9,2.7,2.3
 11,Valeu demais por ter me ajudado a montar o móvel! Não teria conseguido sozinho.,"Produza 5 respostas para a seguinte mensagem: Valeu demais por ter me ajudado a montar o móvel! Não teria conseguido sozinho., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -862,7 +862,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,Fico feliz em saber que pude ajudá-lo a montar o móvel com sucesso.,100,0.0558,39.8787,0.4166,0.7818,0.96,4,5,2,4
+]",formal,Fico feliz em saber que pude ajudá-lo a montar o móvel com sucesso.,100,0.0558,39.8787,0.4166,0.7818,0.96,2.8,3.6,1.3,3.1
 11,Valeu demais por ter me ajudado a montar o móvel! Não teria conseguido sozinho.,"Produza 5 respostas para a seguinte mensagem: Valeu demais por ter me ajudado a montar o móvel! Não teria conseguido sozinho., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -871,7 +871,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,Pronto! Não há problema em pedir ajuda.,100,0.0558,39.8787,0.4166,0.7818,0.96,4,5,5,5
+]",curto e objetivo,Pronto! Não há problema em pedir ajuda.,100,0.0558,39.8787,0.4166,0.7818,0.96,2.8,3.9,4.2,4.9
 11,Valeu demais por ter me ajudado a montar o móvel! Não teria conseguido sozinho.,"Produza 5 respostas para a seguinte mensagem: Valeu demais por ter me ajudado a montar o móvel! Não teria conseguido sozinho., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -880,7 +880,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,Que ótimo! Estou aqui para ajudar sempre que precisar.,100,0.0558,39.8787,0.4166,0.7818,0.96,4,5,5,5
+]",cordial,Que ótimo! Estou aqui para ajudar sempre que precisar.,100,0.0558,39.8787,0.4166,0.7818,0.96,3.3,3.3,4.5,4.6
 11,Valeu demais por ter me ajudado a montar o móvel! Não teria conseguido sozinho.,"Produza 5 respostas para a seguinte mensagem: Valeu demais por ter me ajudado a montar o móvel! Não teria conseguido sozinho., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -889,7 +889,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,"Não se preocupe, é normal precisar de uma mão extra às vezes. Eu fiquei feliz em ajudar!",100,0.0558,39.8787,0.4166,0.7818,0.96,4,5,5,5
+]",mais empático,"Não se preocupe, é normal precisar de uma mão extra às vezes. Eu fiquei feliz em ajudar!",100,0.0558,39.8787,0.4166,0.7818,0.96,2.7,3.6,4.4,2.9
 11,Valeu demais por ter me ajudado a montar o móvel! Não teria conseguido sozinho.,"Produza 5 respostas para a seguinte mensagem: Valeu demais por ter me ajudado a montar o móvel! Não teria conseguido sozinho., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -898,7 +898,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,E pronto! Agora é só usar o móvel.,100,0.0558,39.8787,0.4166,0.7818,0.96,4,5,2,5
+]",mais direto,E pronto! Agora é só usar o móvel.,100,0.0558,39.8787,0.4166,0.7818,0.96,3.1,3.4,1.3,2.1
 12,Obrigado por me cobrir na aula de ontem e anotar tudo. Você me salvou!,"Produza 5 respostas para a seguinte mensagem: Obrigado por me cobrir na aula de ontem e anotar tudo. Você me salvou!, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -907,7 +907,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,Agradeço-lhe por ter me coberto na aula de ontem e por ter anotado os pontos importantes. Isso realmente me ajudou a não perder nada.,100,0.1091,52.3195,0.529,0.6941,0.975,4,5,5,4
+]",formal,Agradeço-lhe por ter me coberto na aula de ontem e por ter anotado os pontos importantes. Isso realmente me ajudou a não perder nada.,100,0.1091,52.3195,0.529,0.6941,0.975,2.6,4.9,2.9,2.7
 12,Obrigado por me cobrir na aula de ontem e anotar tudo. Você me salvou!,"Produza 5 respostas para a seguinte mensagem: Obrigado por me cobrir na aula de ontem e anotar tudo. Você me salvou!, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -916,7 +916,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,Muito obrigado! Você me salvou mesmo.,100,0.1091,52.3195,0.529,0.6941,0.975,4,5,5,5
+]",curto e objetivo,Muito obrigado! Você me salvou mesmo.,100,0.1091,52.3195,0.529,0.6941,0.975,3.1,3.8,3.0,4.8
 12,Obrigado por me cobrir na aula de ontem e anotar tudo. Você me salvou!,"Produza 5 respostas para a seguinte mensagem: Obrigado por me cobrir na aula de ontem e anotar tudo. Você me salvou!, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -925,7 +925,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,Obrigado mesmo! Foi muito gentil da sua parte cobrir a aula e anotar tudo. Você é um verdadeiro amigo.,100,0.1091,52.3195,0.529,0.6941,0.975,4,5,5,5
+]",cordial,Obrigado mesmo! Foi muito gentil da sua parte cobrir a aula e anotar tudo. Você é um verdadeiro amigo.,100,0.1091,52.3195,0.529,0.6941,0.975,2.8,4.1,2.7,4.2
 12,Obrigado por me cobrir na aula de ontem e anotar tudo. Você me salvou!,"Produza 5 respostas para a seguinte mensagem: Obrigado por me cobrir na aula de ontem e anotar tudo. Você me salvou!, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -934,7 +934,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,Você não sabe quanto isso significa para mim! Agradeço sinceramente a sua ajuda e solidariedade. Foi um grande alívio saber que estava tudo bem.,100,0.1091,52.3195,0.529,0.6941,0.975,4,5,5,5
+]",mais empático,Você não sabe quanto isso significa para mim! Agradeço sinceramente a sua ajuda e solidariedade. Foi um grande alívio saber que estava tudo bem.,100,0.1091,52.3195,0.529,0.6941,0.975,2.5,4.4,3.1,3.1
 12,Obrigado por me cobrir na aula de ontem e anotar tudo. Você me salvou!,"Produza 5 respostas para a seguinte mensagem: Obrigado por me cobrir na aula de ontem e anotar tudo. Você me salvou!, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -943,7 +943,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,Grato! Você me fez uma grande favor e eu o agradeço.,100,0.1091,52.3195,0.529,0.6941,0.975,4,5,5,5
+]",mais direto,Grato! Você me fez uma grande favor e eu o agradeço.,100,0.1091,52.3195,0.529,0.6941,0.975,2.8,3.3,3.1,2.0
 13,"Ei, vai ter churrasco lá em casa sábado. Você vem? Pode trazer a família também!","Produza 5 respostas para a seguinte mensagem: Ei, vai ter churrasco lá em casa sábado. Você vem? Pode trazer a família também!, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -952,7 +952,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,"Agradeço a convite, mas infelizmente não poderei comparecer. Obrigado.",100,0.2465,27.8814,0.6744,0.5645,0.807,4,5,5,4
+]",formal,"Agradeço a convite, mas infelizmente não poderei comparecer. Obrigado.",100,0.2465,27.8814,0.6744,0.5645,0.807,4.2,3.6,3.0,3.3
 13,"Ei, vai ter churrasco lá em casa sábado. Você vem? Pode trazer a família também!","Produza 5 respostas para a seguinte mensagem: Ei, vai ter churrasco lá em casa sábado. Você vem? Pode trazer a família também!, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -961,7 +961,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,Vou! E a família também.,100,0.2465,27.8814,0.6744,0.5645,0.807,4,5,5,5
+]",curto e objetivo,Vou! E a família também.,100,0.2465,27.8814,0.6744,0.5645,0.807,3.0,3.8,2.9,4.8
 13,"Ei, vai ter churrasco lá em casa sábado. Você vem? Pode trazer a família também!","Produza 5 respostas para a seguinte mensagem: Ei, vai ter churrasco lá em casa sábado. Você vem? Pode trazer a família também!, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -970,7 +970,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,"Hehe, claro que vou! E a minha família também vai ficar feliz em participar! Obrigado por convidar.",100,0.2465,27.8814,0.6744,0.5645,0.807,5,5,5,5
+]",cordial,"Hehe, claro que vou! E a minha família também vai ficar feliz em participar! Obrigado por convidar.",100,0.2465,27.8814,0.6744,0.5645,0.807,4.3,3.2,3.1,4.1
 13,"Ei, vai ter churrasco lá em casa sábado. Você vem? Pode trazer a família também!","Produza 5 respostas para a seguinte mensagem: Ei, vai ter churrasco lá em casa sábado. Você vem? Pode trazer a família também!, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -979,7 +979,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,"Obrigado pelo convite, estou muito feliz em saber que você está convidando a família também! Vou definitivamente comparecer e levar a minha família também.",100,0.2465,27.8814,0.6744,0.5645,0.807,4,5,5,5
+]",mais empático,"Obrigado pelo convite, estou muito feliz em saber que você está convidando a família também! Vou definitivamente comparecer e levar a minha família também.",100,0.2465,27.8814,0.6744,0.5645,0.807,3.5,4.3,3.4,2.9
 13,"Ei, vai ter churrasco lá em casa sábado. Você vem? Pode trazer a família também!","Produza 5 respostas para a seguinte mensagem: Ei, vai ter churrasco lá em casa sábado. Você vem? Pode trazer a família também!, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -988,7 +988,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,Vou lá! E levo a família também.,100,0.2465,27.8814,0.6744,0.5645,0.807,4,5,5,5
+]",mais direto,Vou lá! E levo a família também.,100,0.2465,27.8814,0.6744,0.5645,0.807,3.4,3.8,2.6,4.3
 14,Tô organizando uma pelada domingo de manhã no campo perto de casa. Você topa?,"Produza 5 respostas para a seguinte mensagem: Tô organizando uma pelada domingo de manhã no campo perto de casa. Você topa?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -997,7 +997,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,"Sim, estou disponível para participar da pelada domingo de manhã. Posso saber mais sobre os detalhes do jogo?",100,0.1163,47.4522,0.6506,0.6471,0.8875,5,5,5,4
+]",formal,"Sim, estou disponível para participar da pelada domingo de manhã. Posso saber mais sobre os detalhes do jogo?",100,0.1163,47.4522,0.6506,0.6471,0.8875,4.8,4.8,3.2,2.7
 14,Tô organizando uma pelada domingo de manhã no campo perto de casa. Você topa?,"Produza 5 respostas para a seguinte mensagem: Tô organizando uma pelada domingo de manhã no campo perto de casa. Você topa?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1006,7 +1006,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,Topo! Qual o horário e os detalhes do jogo?,100,0.1163,47.4522,0.6506,0.6471,0.8875,4,5,5,5
+]",curto e objetivo,Topo! Qual o horário e os detalhes do jogo?,100,0.1163,47.4522,0.6506,0.6471,0.8875,3.1,3.4,2.9,2.2
 14,Tô organizando uma pelada domingo de manhã no campo perto de casa. Você topa?,"Produza 5 respostas para a seguinte mensagem: Tô organizando uma pelada domingo de manhã no campo perto de casa. Você topa?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1015,7 +1015,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,Que legal! Estou muito animado para jogar domingo de manhã. Você já tem um time definido ou vamos fazer uma roleta russa para ver quem vai jogar?,100,0.1163,47.4522,0.6506,0.6471,0.8875,4,5,5,5
+]",cordial,Que legal! Estou muito animado para jogar domingo de manhã. Você já tem um time definido ou vamos fazer uma roleta russa para ver quem vai jogar?,100,0.1163,47.4522,0.6506,0.6471,0.8875,2.9,4.9,2.8,4.2
 14,Tô organizando uma pelada domingo de manhã no campo perto de casa. Você topa?,"Produza 5 respostas para a seguinte mensagem: Tô organizando uma pelada domingo de manhã no campo perto de casa. Você topa?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1024,7 +1024,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,Claro que eu topo! Estou ansioso para jogar com vocês novamente. O que posso fazer para ajudar a organizar o jogo?,100,0.1163,47.4522,0.6506,0.6471,0.8875,5,5,5,5
+]",mais empático,Claro que eu topo! Estou ansioso para jogar com vocês novamente. O que posso fazer para ajudar a organizar o jogo?,100,0.1163,47.4522,0.6506,0.6471,0.8875,4.6,4.8,3.0,3.2
 14,Tô organizando uma pelada domingo de manhã no campo perto de casa. Você topa?,"Produza 5 respostas para a seguinte mensagem: Tô organizando uma pelada domingo de manhã no campo perto de casa. Você topa?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1033,7 +1033,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,"Sim, estou aí. Qual é o horário e o campo?",100,0.1163,47.4522,0.6506,0.6471,0.8875,5,5,5,5
+]",mais direto,"Sim, estou aí. Qual é o horário e o campo?",100,0.1163,47.4522,0.6506,0.6471,0.8875,4.4,3.6,3.2,1.9
 15,A gente vai assistir aquele filme novo no cinema sexta à noite. Quer vir junto?,"Produza 5 respostas para a seguinte mensagem: A gente vai assistir aquele filme novo no cinema sexta à noite. Quer vir junto?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1042,7 +1042,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,"Sim, estou interessado em assistir ao filme com você na sexta à noite. Qual é o horário do cinema?",100,0.1091,38.7109,0.6114,0.6825,0.8276,5,5,5,4
+]",formal,"Sim, estou interessado em assistir ao filme com você na sexta à noite. Qual é o horário do cinema?",100,0.1091,38.7109,0.6114,0.6825,0.8276,4.4,3.6,2.7,2.1
 15,A gente vai assistir aquele filme novo no cinema sexta à noite. Quer vir junto?,"Produza 5 respostas para a seguinte mensagem: A gente vai assistir aquele filme novo no cinema sexta à noite. Quer vir junto?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1051,7 +1051,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,"Sim, vou vir!",100,0.1091,38.7109,0.6114,0.6825,0.8276,5,5,5,5
+]",curto e objetivo,"Sim, vou vir!",100,0.1091,38.7109,0.6114,0.6825,0.8276,4.2,2.4,3.0,4.2
 15,A gente vai assistir aquele filme novo no cinema sexta à noite. Quer vir junto?,"Produza 5 respostas para a seguinte mensagem: A gente vai assistir aquele filme novo no cinema sexta à noite. Quer vir junto?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1060,7 +1060,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,"E aí, querido! Claro que vou vir assistir ao filme com você na sexta à noite!",100,0.1091,38.7109,0.6114,0.6825,0.8276,5,5,5,5
+]",cordial,"E aí, querido! Claro que vou vir assistir ao filme com você na sexta à noite!",100,0.1091,38.7109,0.6114,0.6825,0.8276,4.2,3.2,3.1,4.4
 15,A gente vai assistir aquele filme novo no cinema sexta à noite. Quer vir junto?,"Produza 5 respostas para a seguinte mensagem: A gente vai assistir aquele filme novo no cinema sexta à noite. Quer vir junto?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1069,7 +1069,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",empático,"Eu adoraria ir! O filme novo está muito bom, e seria incrível compartilhar a experiência com você.",100,0.1091,38.7109,0.6114,0.6825,0.8276,4,5,5,5
+]",empático,"Eu adoraria ir! O filme novo está muito bom, e seria incrível compartilhar a experiência com você.",100,0.1091,38.7109,0.6114,0.6825,0.8276,3.5,3.5,2.9,2.8
 15,A gente vai assistir aquele filme novo no cinema sexta à noite. Quer vir junto?,"Produza 5 respostas para a seguinte mensagem: A gente vai assistir aquele filme novo no cinema sexta à noite. Quer vir junto?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1078,7 +1078,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,"Vou, mas só se você pague a entrada",100,0.1091,38.7109,0.6114,0.6825,0.8276,4,5,5,5
+]",mais direto,"Vou, mas só se você pague a entrada",100,0.1091,38.7109,0.6114,0.6825,0.8276,2.9,3.3,2.9,2.4
 16,"Ei, que horas começa o aniversário da Ana amanhã? Vi o convite mas não achei o horário.","Produza 5 respostas para a seguinte mensagem: Ei, que horas começa o aniversário da Ana amanhã? Vi o convite mas não achei o horário., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1087,7 +1087,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,"Bom dia, o aniversário da Ana começa às 14h, conforme pode conferir no convite enviado anteriormente.",100,0.3757,31.6572,0.7793,0.4348,0.6322,5,5,5,4
+]",formal,"Bom dia, o aniversário da Ana começa às 14h, conforme pode conferir no convite enviado anteriormente.",100,0.3757,31.6572,0.7793,0.4348,0.6322,4.3,4.6,2.7,3.3
 16,"Ei, que horas começa o aniversário da Ana amanhã? Vi o convite mas não achei o horário.","Produza 5 respostas para a seguinte mensagem: Ei, que horas começa o aniversário da Ana amanhã? Vi o convite mas não achei o horário., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1096,7 +1096,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,Aqui está o horário do aniversário da Ana: 14h. Confira o convite para mais detalhes.,100,0.3757,31.6572,0.7793,0.4348,0.6322,4,5,5,4
+]",curto e objetivo,Aqui está o horário do aniversário da Ana: 14h. Confira o convite para mais detalhes.,100,0.3757,31.6572,0.7793,0.4348,0.6322,3.0,3.4,2.7,1.9
 16,"Ei, que horas começa o aniversário da Ana amanhã? Vi o convite mas não achei o horário.","Produza 5 respostas para a seguinte mensagem: Ei, que horas começa o aniversário da Ana amanhã? Vi o convite mas não achei o horário., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1105,7 +1105,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,Olá! O aniversário da Ana é amanhã às 14h. Eu também precisei conferir o convite para ter certeza do horário.,100,0.3757,31.6572,0.7793,0.4348,0.6322,4,5,5,5
+]",cordial,Olá! O aniversário da Ana é amanhã às 14h. Eu também precisei conferir o convite para ter certeza do horário.,100,0.3757,31.6572,0.7793,0.4348,0.6322,3.0,4.6,3.1,4.1
 16,"Ei, que horas começa o aniversário da Ana amanhã? Vi o convite mas não achei o horário.","Produza 5 respostas para a seguinte mensagem: Ei, que horas começa o aniversário da Ana amanhã? Vi o convite mas não achei o horário., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1114,7 +1114,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,"Não se preocupe se você não achou o horário do aniversário da Ana! É às 14h, e eu também tive que conferir o convite para ter certeza.",100,0.3757,31.6572,0.7793,0.4348,0.6322,4,5,5,5
+]",mais empático,"Não se preocupe se você não achou o horário do aniversário da Ana! É às 14h, e eu também tive que conferir o convite para ter certeza.",100,0.3757,31.6572,0.7793,0.4348,0.6322,2.3,4.4,2.8,2.7
 16,"Ei, que horas começa o aniversário da Ana amanhã? Vi o convite mas não achei o horário.","Produza 5 respostas para a seguinte mensagem: Ei, que horas começa o aniversário da Ana amanhã? Vi o convite mas não achei o horário., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1123,7 +1123,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,O aniversário da Ana é às 14h amanhã. Confira o convite para mais detalhes.,100,0.3757,31.6572,0.7793,0.4348,0.6322,4,5,5,5
+]",mais direto,O aniversário da Ana é às 14h amanhã. Confira o convite para mais detalhes.,100,0.3757,31.6572,0.7793,0.4348,0.6322,3.4,3.5,2.6,2.4
 17,"Oi, a viagem de van sai de onde exatamente? Não entendi direito no grupo.","Produza 5 respostas para a seguinte mensagem: Oi, a viagem de van sai de onde exatamente? Não entendi direito no grupo., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1132,7 +1132,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,"A partida da viagem de van está localizada no endereço que foi compartilhado no grupo de viagens. Por favor, verifique a mensagem anterior para obter mais informações.",100,0.3268,39.9425,0.8062,0.4194,0.6303,4,5,5,3
+]",formal,"A partida da viagem de van está localizada no endereço que foi compartilhado no grupo de viagens. Por favor, verifique a mensagem anterior para obter mais informações.",100,0.3268,39.9425,0.8062,0.4194,0.6303,3.4,4.2,3.3,1.7
 17,"Oi, a viagem de van sai de onde exatamente? Não entendi direito no grupo.","Produza 5 respostas para a seguinte mensagem: Oi, a viagem de van sai de onde exatamente? Não entendi direito no grupo., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1141,7 +1141,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,Verifique o grupo de viagens para saber a partir de onde a van sai.,100,0.3268,39.9425,0.8062,0.4194,0.6303,4,5,5,5
+]",curto e objetivo,Verifique o grupo de viagens para saber a partir de onde a van sai.,100,0.3268,39.9425,0.8062,0.4194,0.6303,3.2,3.1,3.3,1.9
 17,"Oi, a viagem de van sai de onde exatamente? Não entendi direito no grupo.","Produza 5 respostas para a seguinte mensagem: Oi, a viagem de van sai de onde exatamente? Não entendi direito no grupo., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1150,7 +1150,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,"Olá! A viagem de van sai do endereço que eu compartilhei no grupo de viagens. Se você tiver alguma dúvida, sinta-se à vontade para perguntar.",100,0.3268,39.9425,0.8062,0.4194,0.6303,4,5,5,5
+]",cordial,"Olá! A viagem de van sai do endereço que eu compartilhei no grupo de viagens. Se você tiver alguma dúvida, sinta-se à vontade para perguntar.",100,0.3268,39.9425,0.8062,0.4194,0.6303,2.9,4.5,2.9,4.3
 17,"Oi, a viagem de van sai de onde exatamente? Não entendi direito no grupo.","Produza 5 respostas para a seguinte mensagem: Oi, a viagem de van sai de onde exatamente? Não entendi direito no grupo., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1159,7 +1159,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,"Não se preocupe se não entender direito! A partida da viagem de van está no endereço que eu compartilhei no grupo de viagens. Se você tiver alguma dúvida ou precisar de mais informações, estou aqui para ajudar.",100,0.3268,39.9425,0.8062,0.4194,0.6303,4,5,5,5
+]",mais empático,"Não se preocupe se não entender direito! A partida da viagem de van está no endereço que eu compartilhei no grupo de viagens. Se você tiver alguma dúvida ou precisar de mais informações, estou aqui para ajudar.",100,0.3268,39.9425,0.8062,0.4194,0.6303,2.7,4.5,3.3,2.6
 17,"Oi, a viagem de van sai de onde exatamente? Não entendi direito no grupo.","Produza 5 respostas para a seguinte mensagem: Oi, a viagem de van sai de onde exatamente? Não entendi direito no grupo., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1168,7 +1168,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,"A van sai do endereço que eu compartilhei no grupo de viagens. Se você não tiver visto, verifique o grupo.",100,0.3268,39.9425,0.8062,0.4194,0.6303,4,5,5,4
+]",mais direto,"A van sai do endereço que eu compartilhei no grupo de viagens. Se você não tiver visto, verifique o grupo.",100,0.3268,39.9425,0.8062,0.4194,0.6303,2.8,4.8,3.1,2.5
 18,Você pode me explicar de novo como chega na sua casa? Me perdi nas últimas instruções.,"Produza 5 respostas para a seguinte mensagem: Você pode me explicar de novo como chega na sua casa? Me perdi nas últimas instruções., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1177,7 +1177,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,"Claro, posso reiterar as instruções. Para chegar à minha casa, siga as seguintes etapas: ...",100,0.1098,33.5446,0.6298,0.6032,0.8276,5,5,5,4
+]",formal,"Claro, posso reiterar as instruções. Para chegar à minha casa, siga as seguintes etapas: ...",100,0.1098,33.5446,0.6298,0.6032,0.8276,4.5,3.6,3.2,3.1
 18,Você pode me explicar de novo como chega na sua casa? Me perdi nas últimas instruções.,"Produza 5 respostas para a seguinte mensagem: Você pode me explicar de novo como chega na sua casa? Me perdi nas últimas instruções., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1186,7 +1186,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,Vou repetir: ...,100,0.1098,33.5446,0.6298,0.6032,0.8276,4,5,5,5
+]",curto e objetivo,Vou repetir: ...,100,0.1098,33.5446,0.6298,0.6032,0.8276,3.5,3.5,3.3,4.8
 18,Você pode me explicar de novo como chega na sua casa? Me perdi nas últimas instruções.,"Produza 5 respostas para a seguinte mensagem: Você pode me explicar de novo como chega na sua casa? Me perdi nas últimas instruções., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1195,7 +1195,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,"Não se preocupe, vou explicar novamente! Para chegar à minha casa, você precisa seguir as seguintes instruções: ...",100,0.1098,33.5446,0.6298,0.6032,0.8276,4,5,5,5
+]",cordial,"Não se preocupe, vou explicar novamente! Para chegar à minha casa, você precisa seguir as seguintes instruções: ...",100,0.1098,33.5446,0.6298,0.6032,0.8276,2.9,4.8,2.9,4.3
 18,Você pode me explicar de novo como chega na sua casa? Me perdi nas últimas instruções.,"Produza 5 respostas para a seguinte mensagem: Você pode me explicar de novo como chega na sua casa? Me perdi nas últimas instruções., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1204,7 +1204,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,Entendo que você se perdeu. Vou explicar novamente e também vou te dar uma cópia dos passos para que você possa seguir de volta à minha casa: ...,100,0.1098,33.5446,0.6298,0.6032,0.8276,4,5,5,4
+]",mais empático,Entendo que você se perdeu. Vou explicar novamente e também vou te dar uma cópia dos passos para que você possa seguir de volta à minha casa: ...,100,0.1098,33.5446,0.6298,0.6032,0.8276,3.0,4.4,3.4,3.4
 18,Você pode me explicar de novo como chega na sua casa? Me perdi nas últimas instruções.,"Produza 5 respostas para a seguinte mensagem: Você pode me explicar de novo como chega na sua casa? Me perdi nas últimas instruções., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1213,7 +1213,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,Siga essas instruções: ...,100,0.1098,33.5446,0.6298,0.6032,0.8276,4,5,5,5
+]",mais direto,Siga essas instruções: ...,100,0.1098,33.5446,0.6298,0.6032,0.8276,2.9,3.6,3.0,4.9
 19,"Só confirmando: a gente se encontra às 19h na frente do shopping, certo?","Produza 5 respostas para a seguinte mensagem: Só confirmando: a gente se encontra às 19h na frente do shopping, certo?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1222,7 +1222,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,Confirmado. Estamos programados para se encontrar às 19h na frente do shopping.,100,0.3923,25.3194,0.7601,0.4923,0.5667,4,5,5,4
+]",formal,Confirmado. Estamos programados para se encontrar às 19h na frente do shopping.,100,0.3923,25.3194,0.7601,0.4923,0.5667,3.2,3.4,3.2,3.0
 19,"Só confirmando: a gente se encontra às 19h na frente do shopping, certo?","Produza 5 respostas para a seguinte mensagem: Só confirmando: a gente se encontra às 19h na frente do shopping, certo?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1231,7 +1231,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,"Sim, às 19h na frente do shopping. Vamos por lá!",100,0.3923,25.3194,0.7601,0.4923,0.5667,5,5,5,5
+]",curto e objetivo,"Sim, às 19h na frente do shopping. Vamos por lá!",100,0.3923,25.3194,0.7601,0.4923,0.5667,4.8,3.6,3.2,2.5
 19,"Só confirmando: a gente se encontra às 19h na frente do shopping, certo?","Produza 5 respostas para a seguinte mensagem: Só confirmando: a gente se encontra às 19h na frente do shopping, certo?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1240,7 +1240,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,"Claro, estou animado para nos vermos às 19h na frente do shopping. Vou estar lá, sem falta!",100,0.3923,25.3194,0.7601,0.4923,0.5667,5,5,5,5
+]",cordial,"Claro, estou animado para nos vermos às 19h na frente do shopping. Vou estar lá, sem falta!",100,0.3923,25.3194,0.7601,0.4923,0.5667,4.5,3.3,3.3,4.7
 19,"Só confirmando: a gente se encontra às 19h na frente do shopping, certo?","Produza 5 respostas para a seguinte mensagem: Só confirmando: a gente se encontra às 19h na frente do shopping, certo?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1249,7 +1249,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,"Não tenha dúvidas, estou muito animado para nos vermos às 19h na frente do shopping. Você está preparado?",100,0.3923,25.3194,0.7601,0.4923,0.5667,4,5,5,4
+]",mais empático,"Não tenha dúvidas, estou muito animado para nos vermos às 19h na frente do shopping. Você está preparado?",100,0.3923,25.3194,0.7601,0.4923,0.5667,2.3,4.7,3.1,2.6
 19,"Só confirmando: a gente se encontra às 19h na frente do shopping, certo?","Produza 5 respostas para a seguinte mensagem: Só confirmando: a gente se encontra às 19h na frente do shopping, certo?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1258,7 +1258,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,"Sim, às 19h na frente do shopping. Vamos!",100,0.3923,25.3194,0.7601,0.4923,0.5667,5,5,5,5
+]",mais direto,"Sim, às 19h na frente do shopping. Vamos!",100,0.3923,25.3194,0.7601,0.4923,0.5667,4.8,3.1,3.2,2.1
 20,"Oi mãe, confirma pra mim se o almoço de domingo na vovó ainda tá de pé.","Produza 5 respostas para a seguinte mensagem: Oi mãe, confirma pra mim se o almoço de domingo na vovó ainda tá de pé., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1267,7 +1267,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Formal,"Sim, o almoço de domingo na vovó está confirmado. Você pode chegar no horário habitual.",100,0.3009,31.052,0.7145,0.5278,0.6866,5,5,5,5
+]",Formal,"Sim, o almoço de domingo na vovó está confirmado. Você pode chegar no horário habitual.",100,0.3009,31.052,0.7145,0.5278,0.6866,4.5,3.2,3.3,4.4
 20,"Oi mãe, confirma pra mim se o almoço de domingo na vovó ainda tá de pé.","Produza 5 respostas para a seguinte mensagem: Oi mãe, confirma pra mim se o almoço de domingo na vovó ainda tá de pé., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1276,7 +1276,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Curto e objetivo,"Sim, tá tudo confirmado para domingo na vovó.",100,0.3009,31.052,0.7145,0.5278,0.6866,5,5,5,5
+]",Curto e objetivo,"Sim, tá tudo confirmado para domingo na vovó.",100,0.3009,31.052,0.7145,0.5278,0.6866,4.5,3.6,3.1,2.4
 20,"Oi mãe, confirma pra mim se o almoço de domingo na vovó ainda tá de pé.","Produza 5 respostas para a seguinte mensagem: Oi mãe, confirma pra mim se o almoço de domingo na vovó ainda tá de pé., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1285,7 +1285,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Cordial,"Oi, querido! Sim, o almoço de domingo na vovó está tudo certo. Estou ansiosa para te ver!",100,0.3009,31.052,0.7145,0.5278,0.6866,5,5,5,5
+]",Cordial,"Oi, querido! Sim, o almoço de domingo na vovó está tudo certo. Estou ansiosa para te ver!",100,0.3009,31.052,0.7145,0.5278,0.6866,4.7,3.3,2.6,4.7
 20,"Oi mãe, confirma pra mim se o almoço de domingo na vovó ainda tá de pé.","Produza 5 respostas para a seguinte mensagem: Oi mãe, confirma pra mim se o almoço de domingo na vovó ainda tá de pé., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1294,7 +1294,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Mais empático,"Oi, não se preocupe, o almoço de domingo na vovó ainda está confirmado. Estou aqui para te ajudar com qualquer coisa.",100,0.3009,31.052,0.7145,0.5278,0.6866,4,5,5,5
+]",Mais empático,"Oi, não se preocupe, o almoço de domingo na vovó ainda está confirmado. Estou aqui para te ajudar com qualquer coisa.",100,0.3009,31.052,0.7145,0.5278,0.6866,2.3,4.7,2.6,3.0
 20,"Oi mãe, confirma pra mim se o almoço de domingo na vovó ainda tá de pé.","Produza 5 respostas para a seguinte mensagem: Oi mãe, confirma pra mim se o almoço de domingo na vovó ainda tá de pé., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1303,7 +1303,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",Mais direto,"Sim, tá tudo pronto para domingo na vovó. Vem quando puder.",100,0.3009,31.052,0.7145,0.5278,0.6866,5,5,5,5
+]",Mais direto,"Sim, tá tudo pronto para domingo na vovó. Vem quando puder.",100,0.3009,31.052,0.7145,0.5278,0.6866,4.3,3.5,2.8,2.3
 21,Pode confirmar se você vai dormir aqui em casa hoje? Preciso saber pra preparar o quarto.,"Produza 5 respostas para a seguinte mensagem: Pode confirmar se você vai dormir aqui em casa hoje? Preciso saber pra preparar o quarto., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1312,7 +1312,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,"Sim, estou confirmado para dormir aqui em casa hoje. Por favor, prepare o quarto à minha espera.",100,0.4297,29.5341,0.7946,0.4471,0.5875,5,5,5,4
+]",formal,"Sim, estou confirmado para dormir aqui em casa hoje. Por favor, prepare o quarto à minha espera.",100,0.4297,29.5341,0.7946,0.4471,0.5875,4.6,3.3,2.8,3.4
 21,Pode confirmar se você vai dormir aqui em casa hoje? Preciso saber pra preparar o quarto.,"Produza 5 respostas para a seguinte mensagem: Pode confirmar se você vai dormir aqui em casa hoje? Preciso saber pra preparar o quarto., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1321,7 +1321,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,"Sim, vou dormir aqui em casa hoje. Prepare o quarto.",100,0.4297,29.5341,0.7946,0.4471,0.5875,5,5,5,5
+]",curto e objetivo,"Sim, vou dormir aqui em casa hoje. Prepare o quarto.",100,0.4297,29.5341,0.7946,0.4471,0.5875,4.8,3.5,3.2,1.9
 21,Pode confirmar se você vai dormir aqui em casa hoje? Preciso saber pra preparar o quarto.,"Produza 5 respostas para a seguinte mensagem: Pode confirmar se você vai dormir aqui em casa hoje? Preciso saber pra preparar o quarto., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1330,7 +1330,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,"Claro que sim! Estou muito agradecido por poder dormir aqui em casa hoje. Por favor, prepare o quarto com cuidado.",100,0.4297,29.5341,0.7946,0.4471,0.5875,5,5,5,5
+]",cordial,"Claro que sim! Estou muito agradecido por poder dormir aqui em casa hoje. Por favor, prepare o quarto com cuidado.",100,0.4297,29.5341,0.7946,0.4471,0.5875,4.4,4.3,2.9,4.4
 21,Pode confirmar se você vai dormir aqui em casa hoje? Preciso saber pra preparar o quarto.,"Produza 5 respostas para a seguinte mensagem: Pode confirmar se você vai dormir aqui em casa hoje? Preciso saber pra preparar o quarto., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1339,7 +1339,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,"Sim, estou um pouco cansado e preciso de um descanso. Você é muito gentil em me deixar dormir aqui em casa hoje. Por favor, prepare o quarto com atenção.",100,0.4297,29.5341,0.7946,0.4471,0.5875,5,5,5,4
+]",mais empático,"Sim, estou um pouco cansado e preciso de um descanso. Você é muito gentil em me deixar dormir aqui em casa hoje. Por favor, prepare o quarto com atenção.",100,0.4297,29.5341,0.7946,0.4471,0.5875,4.6,4.4,2.7,3.0
 21,Pode confirmar se você vai dormir aqui em casa hoje? Preciso saber pra preparar o quarto.,"Produza 5 respostas para a seguinte mensagem: Pode confirmar se você vai dormir aqui em casa hoje? Preciso saber pra preparar o quarto., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1348,7 +1348,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,"Sim, vou dormir aqui. Prepare o quarto, por favor.",100,0.4297,29.5341,0.7946,0.4471,0.5875,5,5,5,5
+]",mais direto,"Sim, vou dormir aqui. Prepare o quarto, por favor.",100,0.4297,29.5341,0.7946,0.4471,0.5875,4.4,3.6,2.6,2.3
 22,"Ei, não vou conseguir te encontrar hoje como combinado. Pode ser amanhã no mesmo horário?","Produza 5 respostas para a seguinte mensagem: Ei, não vou conseguir te encontrar hoje como combinado. Pode ser amanhã no mesmo horário?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1357,7 +1357,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,"Infelizmente, não serei capaz de nos encontrar hoje como combinado. Estou disponível para nos reunir amanhã no mesmo horário.",100,0.3212,34.2717,0.7556,0.4773,0.7229,4,5,5,4
+]",formal,"Infelizmente, não serei capaz de nos encontrar hoje como combinado. Estou disponível para nos reunir amanhã no mesmo horário.",100,0.3212,34.2717,0.7556,0.4773,0.7229,2.6,4.8,3.4,2.8
 22,"Ei, não vou conseguir te encontrar hoje como combinado. Pode ser amanhã no mesmo horário?","Produza 5 respostas para a seguinte mensagem: Ei, não vou conseguir te encontrar hoje como combinado. Pode ser amanhã no mesmo horário?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1366,7 +1366,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,Não posso nos encontrar hoje. Estou disponível amanhã no mesmo horário.,100,0.3212,34.2717,0.7556,0.4773,0.7229,4,5,5,5
+]",curto e objetivo,Não posso nos encontrar hoje. Estou disponível amanhã no mesmo horário.,100,0.3212,34.2717,0.7556,0.4773,0.7229,4.4,3.2,3.2,2.0
 22,"Ei, não vou conseguir te encontrar hoje como combinado. Pode ser amanhã no mesmo horário?","Produza 5 respostas para a seguinte mensagem: Ei, não vou conseguir te encontrar hoje como combinado. Pode ser amanhã no mesmo horário?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1375,7 +1375,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,"Desculpe, mas não vou poder te encontrar hoje como combinado. Estou livre para nos encontrar amanhã no horário que combinamos.",100,0.3212,34.2717,0.7556,0.4773,0.7229,4,5,5,4
+]",cordial,"Desculpe, mas não vou poder te encontrar hoje como combinado. Estou livre para nos encontrar amanhã no horário que combinamos.",100,0.3212,34.2717,0.7556,0.4773,0.7229,4.9,4.2,2.8,2.7
 22,"Ei, não vou conseguir te encontrar hoje como combinado. Pode ser amanhã no mesmo horário?","Produza 5 respostas para a seguinte mensagem: Ei, não vou conseguir te encontrar hoje como combinado. Pode ser amanhã no mesmo horário?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1384,7 +1384,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,"Entendo que você esteja procurando por mim hoje, mas infelizmente não vou poder nos encontrar. Se você estiver disponível, posso sugerir amanhã no mesmo horário.",100,0.3212,34.2717,0.7556,0.4773,0.7229,4,5,5,4
+]",mais empático,"Entendo que você esteja procurando por mim hoje, mas infelizmente não vou poder nos encontrar. Se você estiver disponível, posso sugerir amanhã no mesmo horário.",100,0.3212,34.2717,0.7556,0.4773,0.7229,4.3,4.8,2.6,3.3
 22,"Ei, não vou conseguir te encontrar hoje como combinado. Pode ser amanhã no mesmo horário?","Produza 5 respostas para a seguinte mensagem: Ei, não vou conseguir te encontrar hoje como combinado. Pode ser amanhã no mesmo horário?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1393,7 +1393,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,Não posso te encontrar hoje. Amanhã é o melhor dia para nossa reunião.,100,0.3212,34.2717,0.7556,0.4773,0.7229,4,5,5,5
+]",mais direto,Não posso te encontrar hoje. Amanhã é o melhor dia para nossa reunião.,100,0.3212,34.2717,0.7556,0.4773,0.7229,4.7,3.7,3.2,2.1
 23,"Oi! Preciso remarcar nosso almoço de quinta, surgiu um imprevisto aqui em casa.","Produza 5 respostas para a seguinte mensagem: Oi! Preciso remarcar nosso almoço de quinta, surgiu um imprevisto aqui em casa., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1402,7 +1402,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,"Prezado(a) [Nome], peço desculpas por comunicar a remarcação do nosso almoço de quinta-feira. Infelizmente, um imprevisto surgiu aqui em casa e não posso comparecer como planejado. Estou muito sinto e espero poder nos reencontrar em breve.",100,0.4191,51.3401,0.8245,0.4183,0.6014,4,5,5,5
+]",formal,"Prezado(a) [Nome], peço desculpas por comunicar a remarcação do nosso almoço de quinta-feira. Infelizmente, um imprevisto surgiu aqui em casa e não posso comparecer como planejado. Estou muito sinto e espero poder nos reencontrar em breve.",100,0.4191,51.3401,0.8245,0.4183,0.6014,4.1,1.3,3.2,4.2
 23,"Oi! Preciso remarcar nosso almoço de quinta, surgiu um imprevisto aqui em casa.","Produza 5 respostas para a seguinte mensagem: Oi! Preciso remarcar nosso almoço de quinta, surgiu um imprevisto aqui em casa., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1411,7 +1411,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,"Oi, surgiu um imprevisto aqui em casa e não posso ir ao almoço de quinta. Vamos remarcar para mais tarde.",100,0.4191,51.3401,0.8245,0.4183,0.6014,4,5,5,4
+]",curto e objetivo,"Oi, surgiu um imprevisto aqui em casa e não posso ir ao almoço de quinta. Vamos remarcar para mais tarde.",100,0.4191,51.3401,0.8245,0.4183,0.6014,4.6,4.5,3.1,2.5
 23,"Oi! Preciso remarcar nosso almoço de quinta, surgiu um imprevisto aqui em casa.","Produza 5 respostas para a seguinte mensagem: Oi! Preciso remarcar nosso almoço de quinta, surgiu um imprevisto aqui em casa., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1420,7 +1420,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,"Olá! Peço desculpas, mas tive um imprevisto aqui em casa e não posso ir ao almoço de quinta. Vamos remarcar para uma outra data? Estou sinto em perder o nosso encontro.",100,0.4191,51.3401,0.8245,0.4183,0.6014,4,5,5,5
+]",cordial,"Olá! Peço desculpas, mas tive um imprevisto aqui em casa e não posso ir ao almoço de quinta. Vamos remarcar para uma outra data? Estou sinto em perder o nosso encontro.",100,0.4191,51.3401,0.8245,0.4183,0.6014,4.4,4.6,2.9,4.4
 23,"Oi! Preciso remarcar nosso almoço de quinta, surgiu um imprevisto aqui em casa.","Produza 5 respostas para a seguinte mensagem: Oi! Preciso remarcar nosso almoço de quinta, surgiu um imprevisto aqui em casa., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1429,7 +1429,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,"Oi, sinto muito ter que te comunicar que não posso ir ao almoço de quinta. Um imprevisto surgiu aqui em casa e estou muito estressado. Vamos remarcar para uma outra data, quando eu estiver mais calmo e disposto a nos reencontrar.",100,0.4191,51.3401,0.8245,0.4183,0.6014,4,5,5,5
+]",mais empático,"Oi, sinto muito ter que te comunicar que não posso ir ao almoço de quinta. Um imprevisto surgiu aqui em casa e estou muito estressado. Vamos remarcar para uma outra data, quando eu estiver mais calmo e disposto a nos reencontrar.",100,0.4191,51.3401,0.8245,0.4183,0.6014,4.5,4.7,2.7,2.6
 23,"Oi! Preciso remarcar nosso almoço de quinta, surgiu um imprevisto aqui em casa.","Produza 5 respostas para a seguinte mensagem: Oi! Preciso remarcar nosso almoço de quinta, surgiu um imprevisto aqui em casa., com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1438,7 +1438,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,"Não posso ir ao almoço de quinta, um imprevisto surgiu aqui em casa. Vamos remarcar para mais tarde, mas preciso cancelar para hoje.",100,0.4191,51.3401,0.8245,0.4183,0.6014,4,5,5,4
+]",mais direto,"Não posso ir ao almoço de quinta, um imprevisto surgiu aqui em casa. Vamos remarcar para mais tarde, mas preciso cancelar para hoje.",100,0.4191,51.3401,0.8245,0.4183,0.6014,4.2,4.5,3.2,2.1
 24,Não vou conseguir devolver seu livro essa semana. Posso te trazer na semana que vem?,"Produza 5 respostas para a seguinte mensagem: Não vou conseguir devolver seu livro essa semana. Posso te trazer na semana que vem?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1447,7 +1447,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",formal,"Lamento, mas não serei capaz de devolver o livro essa semana. Posso me encontrar com você na semana que vem para entregar?",100,0.3284,41.0999,0.7448,0.4545,0.7241,4,5,5,5
+]",formal,"Lamento, mas não serei capaz de devolver o livro essa semana. Posso me encontrar com você na semana que vem para entregar?",100,0.3284,41.0999,0.7448,0.4545,0.7241,4.1,4.9,4.3,4.7
 24,Não vou conseguir devolver seu livro essa semana. Posso te trazer na semana que vem?,"Produza 5 respostas para a seguinte mensagem: Não vou conseguir devolver seu livro essa semana. Posso te trazer na semana que vem?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1456,7 +1456,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",curto e objetivo,Não posso devolver o livro essa semana. Posso te trazer na semana que vem?,100,0.3284,41.0999,0.7448,0.4545,0.7241,4,5,5,5
+]",curto e objetivo,Não posso devolver o livro essa semana. Posso te trazer na semana que vem?,100,0.3284,41.0999,0.7448,0.4545,0.7241,4.3,3.8,3.8,2.3
 24,Não vou conseguir devolver seu livro essa semana. Posso te trazer na semana que vem?,"Produza 5 respostas para a seguinte mensagem: Não vou conseguir devolver seu livro essa semana. Posso te trazer na semana que vem?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1465,7 +1465,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",cordial,"Desculpe, mas estou um pouco atrasado com o livro. Posso te entrega-lo na semana que vem, é só me dizer quando é melhor?",100,0.3284,41.0999,0.7448,0.4545,0.7241,5,5,5,4
+]",cordial,"Desculpe, mas estou um pouco atrasado com o livro. Posso te entrega-lo na semana que vem, é só me dizer quando é melhor?",100,0.3284,41.0999,0.7448,0.4545,0.7241,4.6,4.1,4.4,3.0
 24,Não vou conseguir devolver seu livro essa semana. Posso te trazer na semana que vem?,"Produza 5 respostas para a seguinte mensagem: Não vou conseguir devolver seu livro essa semana. Posso te trazer na semana que vem?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1474,7 +1474,7 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais empático,"Entendo que você está ansioso para receber o livro, mas estou enfrentando um atraso inesperado. Posso te prometer que o entregarei na semana que vem, e até mesmo o levarei até você para que você não precise se preocupar?",100,0.3284,41.0999,0.7448,0.4545,0.7241,4,5,5,4
+]",mais empático,"Entendo que você está ansioso para receber o livro, mas estou enfrentando um atraso inesperado. Posso te prometer que o entregarei na semana que vem, e até mesmo o levarei até você para que você não precise se preocupar?",100,0.3284,41.0999,0.7448,0.4545,0.7241,4.3,4.6,4.3,3.0
 24,Não vou conseguir devolver seu livro essa semana. Posso te trazer na semana que vem?,"Produza 5 respostas para a seguinte mensagem: Não vou conseguir devolver seu livro essa semana. Posso te trazer na semana que vem?, com tons diferentes.
 Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valores de probabilidade devem ser ignorados e apenas copiados para o JSON de resposta final
 [
@@ -1483,4 +1483,4 @@ Formato de resposta (obrigatório), uma lista JSON neste formato exato, os valor
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}},
 {{""tom"": ""*"", ""probabilidade"": 100, ""resposta"": ""texto aqui""}}
-]",mais direto,"Não posso devolver o livro essa semana. Vou levá-lo até você na semana que vem, não precisa se preocupar com nada.",100,0.3284,41.0999,0.7448,0.4545,0.7241,4,5,5,4
+]",mais direto,"Não posso devolver o livro essa semana. Vou levá-lo até você na semana que vem, não precisa se preocupar com nada.",100,0.3284,41.0999,0.7448,0.4545,0.7241,4.8,4.9,4.4,2.1
